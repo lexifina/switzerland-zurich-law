@@ -1,5 +1,7 @@
 ## Erster Abschnitt: Allgemeines
 ## Zweiter Abschnitt: Organisation
+## A. Vollzug durch die Gemeinden
+## B. Aufgabenübertragung an die Sozialversicherungsanstalt
 ## Dritter Abschnitt: Vorschriften über die einzelnen Leistungsarten
 ## A. Ergänzungsleistungen
 ## B. Beihilfen
