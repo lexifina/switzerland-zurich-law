@@ -1,0 +1,2 @@
+# VII. Aufbewahrung von Tonbandaufnahmen und Handprotokollen
+§ 27. Tonbandaufnahmen, die zur Erstellung des Protokolls dien- ten, und Handprotokolle von Verhandlungen sind mindestens bis zu dem in § 21 bezeichneten Zeitpunkt aufzubewahren. In Fällen, in denen auf Ausfertigung des Protokolls verzichtet wird, dürfen die Handprotokolle frühestens ein Jahr nach Abschluss des Verfahrens vernichtet werden. Der die Verhandlung leitende Richter bzw. die die Verhandlung leitende Richterin kann im Einzelfall eine abweichende Anweisung erteilen.
