@@ -1,0 +1,2 @@
+# § 17 a Koordination mit der Krankenversicherung
+Besteht ein Anspruch auf Beihilfe, nicht aber auf jährliche Ergänzungsleistung, wird für jede Person, die in die Bedarfsrechnung einbezogen wird, mindestens der Pauschalbetrag für die obligatorische Krankenpflegeversicherung ausgerichtet, wobei der Höchstbetrag gemäss § 16 nicht überschritten werden darf. Bei Ehepaaren, die im Sinn des Ergänzungsleistungsrechts des Bundes nicht getrennt leben, gilt als Höchstbetrag das Doppelte des Höchstbetrags für Alleinstehende.
