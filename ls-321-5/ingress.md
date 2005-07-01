@@ -1,0 +1,2 @@
+# DNA-Verordnung
+(vom 8. Juni 2005) Der Regierungsrat, gestützt auf Art. 21 des Bundesgesetzes über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen vom 20. Juni 2003 (DNA-Profil-Gesetz) und auf Art. 20 der Verordnung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen vom 3. Dezember 2004 (DNA-Profil-Verordnung), beschliesst:
