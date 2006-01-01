@@ -1,0 +1,2 @@
+# § 5 a Wirkungsorientierte Verwaltungsführung
+Staatsbeiträge können im Rahmen von Versuchsprojekten gemäss § 164 des Gemeindegesetzes oder im Rahmen kantonaler Projekte der Wirkungsorientierten Verwaltungsführung in Abweichung von bestehenden gesetzlichen Grundlagen zeitlich befristet pauschaliert werden. Der Regierungsrat regelt die Pauschalierung solcher Staatsbeiträge in einer Verordnung. Die Pauschalierung darf die Belastung des Staates und der Gemeinden nicht wesentlich verändern.
