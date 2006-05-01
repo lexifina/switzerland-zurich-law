@@ -1,7 +1,7 @@
 ## A. Behörden und ihre Aufgaben
 ## I. Fürsorgebehörde
 ## II. Bezirksrat
-## III. Direktion für Soziales und Sicherheit
+## III. Sicherheitsdirektion
 ## B. Persönliche Hilfe
 ## C. Wirtschaftliche Hilfe
 ## I. Art und Umfang
