@@ -39,7 +39,6 @@
 ## Zweiter Abschnitt: Grundsteuern
 ## A. Allgemeine Bestimmungen
 ## B. Grundstückgewinnsteuer
-## C. Handänderungssteuer
 ## Dritter Teil: Steuerstrafrecht
 ## A. Verletzung von Verfahrenspflichten und Steuerhinterziehung
 ## B. Steuervergehen
