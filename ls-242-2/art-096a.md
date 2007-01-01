@@ -1,0 +1,3 @@
+# § 96 a 2. Prüfungspflicht der Urkundsperson
+1 Bei der Errichtung einer öffentlichen Urkunde über die Beschlüsse der Generalversammlung oder des Verwaltungsrates einer Aktiengesellschaft oder der Gesellschafterversammlung einer Gesellschaft mit beschränkter Haftung hat sich die Urkundsperson über die rechtliche Existenz der Gesellschaft zu vergewissern und zu prüfen, ob das Gesuch um Errichtung einer öffentlichen Urkunde von einer dazu ermächtigten Person gestellt wird.
+2 Der Urkundsbeamte hat jedoch keine Pflicht, die Handlungsfähigkeit der an der Versammlung teilnehmenden Personen, die Zeichnungsbefugnis für juristische Personen und die Echtheit der Unterschriften zu prüfen.
