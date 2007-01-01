@@ -1,0 +1,9 @@
+## A. Grundlagen
+## B. Organisation
+## I. Kantonale Behörden
+## II. Organe des Universitätsspitals
+## C. Personal
+## D. Mittel
+## E. Finanzhaushalt und Rechnungsführung
+## F. Rechtspflege
+## G. Schluss- und Übergangsbestimmungen
