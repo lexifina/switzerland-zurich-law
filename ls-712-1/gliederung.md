@@ -12,5 +12,4 @@
 ## 4. Vollzug durch die Gemeinden
 ## IV. Rechtsschutz und Strafbestimmungen
 ## V. Übergangs- und Schlussbestimmungen
-## gen und von Schrott vom 4. März 1973 wird aufgehoben.
 ## VI. Inkrafttreten
