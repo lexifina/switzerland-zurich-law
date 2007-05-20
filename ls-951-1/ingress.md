@@ -1,2 +1,2 @@
-# Gesetz über die Zürcher Kantonalbank (Kantonalbankgesetz)7
+# Kantonalbankgesetz12
 (vom 28. September 1997)
