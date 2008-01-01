@@ -33,7 +33,7 @@
 ## 3. Kosten
 ## E. Landwirtschaftliche Hochbauten
 ## F. Weitere Massnahmen
-## G.Zusätzliche Massnahmen im Berggebiet und in der voralpinen
+## G. Zusätzliche Massnahmen im Berggebiet und in der voralpinen
 ## Hügelzone
 ## H. Erhaltung der Werke
 ## 1. Allgemeine öffentlichrechtliche Eigentumsbeschränkungen
