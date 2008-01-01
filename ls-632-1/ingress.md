@@ -1,2 +1,2 @@
-# Gesetz über die Erbschafts- und Schenkungssteuer (Erbschafts- und Schenkungssteuergesetz)
+# Erbschafts- und Schenkungssteuergesetz (ESchG)11
 (vom 28. September 1986)
