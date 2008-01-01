@@ -6,8 +6,9 @@
 ## II. Gemeinderat
 ## III. Bezirksrat
 ## IV. Handelsregisteramt
-## V. Staatsanwaltschaft
-## VI. Regierungsrat
+## V. Polizei
+## VI. Staatsanwaltschaft
+## VII. Regierungsrat
 ## F. Öffentliche Bekanntmachungen
 ## Zweiter Titel: Kantonales Zivilrecht
 ## Erster Abschnitt: Personenrecht
