@@ -15,4 +15,3 @@
 ## 2. Teil: Die Direktionen
 ## 3. Teil: Koordinationsorgane der Direktionen
 ## 4. Teil: Schlussbestimmung
-## Anhang 3: Selbstständige Entscheidkompetenzen
