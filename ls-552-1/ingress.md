@@ -1,2 +1,2 @@
-# Verordnung über Waffen, Waffenzubehör und Munition
-(vom 16. Dezember 1998) Der Regierungsrat, in Ausführung von Art. 38 des Bundesgesetzes vom 20. Juni 1997 über Waffen, Waffenzubehör und Munition, beschliesst:
+# Waffenverordnung (WafVO)5
+(vom 16. Dezember 1998) Der Regierungsrat, gestützt auf Art. 38 des Waffengesetzes vom 20. Juni 1997, beschliesst:
