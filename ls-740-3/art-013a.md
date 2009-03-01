@@ -1,0 +1,6 @@
+# § 13 a Grundsätze
+1 Das Verbundangebot steht langfristig nach Möglichkeit auch mobilitätsbehinderten Personen zur selbständigen Benützung zur Verfügung.
+2 Ersatzweise fördert der Verkehrsverbund einstweilen ein leistungsfähiges, nach wirtschaftlichen Grundsätzen geführtes, besonderes Verkehrsangebot für mobilitätsbehinderte Personen. Dieses leistet Zubringerdienste zu den Stationen und Bahnhöfen und ergänzt das Verbundangebot, wenn es die erforderlichen Dienstleistungen nicht bedürfnisgerecht erfüllen kann.
+3 Die für den öffentlichen Verkehr und das Fürsorgewesen zuständigen Direktionen setzen eine Dachorganisation für die Bestellung und Finanzierung des Verkehrsangebots für mobilitätsbehinderte Personen ein.
+4 Die Transportleistungen werden von Behindertentransportdiensten oder vom Transportgewerbe erbracht. Bei der Vergabe von Transportaufträgen berücksichtigt die Dachorganisation die Verkehrsbedürfnisse der mobilitätsbehinderten Personen und die entstehenden Kosten.
+5 Der Verkehrsverbund richtet der Dachorganisation Subventionen aus. Die Beiträge von Staat und Gemeinden an das Verbundangebot bilden die Bemessungsgrundlage. Die Beiträge an die Dachorganisation sind proportional zum Anteil der Bevölkerung, für den das Verbundangebot nicht benutzbar ist.
