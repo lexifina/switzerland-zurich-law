@@ -1,2 +1,0 @@
-# Übergangsbestimmungen
-zum Inkraftsetzungsbeschluss vom 12. März 2008 (OS 63, 134) Das bisherige Finanzhaushaltsrecht des Kantons gilt für den Haushaltsvollzug 2008 (einschliesslich Kreditbewilligungen) bis Ende 2008, für die Rechnungslegung 2008 bis zur Genehmigung der Rechnung 2008 durch den Kantonsrat weiter. Die mit dem CRG, der Rechnungslegungsverordnung vom 29.August 2007 und der Finanzcontrollingverordnung vom 5. März 2008 aufgehobenen Erlasse werden am 1. Juli 2009 aus der Loseblattsammlung entfernt.
