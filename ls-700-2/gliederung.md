@@ -12,5 +12,4 @@
 ## (§§ 49, 255–260, 270, 275, 278–281 und 292 PBG)
 ## IX. Besondere Begriffe
 ## X. Inkrafttreten
-## Skizzen für die Mess- und Berechnungsweisen
 ## gemäss Planungs- und Baugesetz (PBG)
