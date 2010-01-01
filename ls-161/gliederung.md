@@ -25,6 +25,12 @@
 ## III. Teil: Kantonale Initiativen
 ## 1. Abschnitt: Allgemeine Bestimmungen
 ## 2. Abschnitt: Volksinitiativen
+## A. Vorbereitung und Zustandekommen
+## B. Behandlung von Volksinitiativen in der Form
+## des ausgearbeiteten Entwurfs
+## C. Behandlung von Volksinitiativen in der Form
+## der allgemeinen Anregung
+## D. Gemeinsame Bestimmungen
 ## 3. Abschnitt: Einzel- und Behördeninitiativen
 ## IV. Teil: Kantonales Referendum
 ## V. Teil: Rechtsschutz und Strafbestimmungen
