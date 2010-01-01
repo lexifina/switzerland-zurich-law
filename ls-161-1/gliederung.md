@@ -12,4 +12,4 @@
 ## 10. Weitere Wahlen
 ## III. Teil: Kantonale Initiativen
 ## IV. Teil: Kantonales Referendum
-## V. Teil: Schlussbestimmungen
+## V. Teil: Straf- und Schlussbestimmungen

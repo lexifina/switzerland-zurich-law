@@ -1,5 +1,4 @@
-# § 65 a Verfahren bei ausformulierten Initiativen a. Regierungsrat
-1 Ist eine Volksinitiative in der Form des ausgearbeiteten Entwurfs zustande gekommen, beschliesst der Regierungsrat innert sechs Monaten seit ihrer Einreichung über ihre Rechtmässigkeit (§ 128 Abs. 3 GPR). Gleichzeitig beschliesst er, ob die Direktion einen Gegenvorschlag ausarbeiten soll.
-2 Hält der Regierungsrat die Initiative nicht für vollständig unrechtmässig, erstattet er dem Kantonsrat darüber und über ihren Inhalt Bericht und Antrag
-a. innert 9 Monaten nach Einreichung der Initiative, sofern er auf einen Gegenvorschlag verzichtet,
-b. innert 16 Monaten nach Einreichung der Initiative, sofern er dem Kantonsrat einen Gegenvorschlag zur Initiative beantragt.
+# § 65 a Behandlung im Kantonsrat a. Ausformu- lierte Initiativen
+1 Hat der Regierungsrat beantragt, eine Initiative in der Form des ausgearbeiteten Entwurfs für vollständig ungültig zu erklären, entscheidet der Kantonsrat darüber innert der Frist nach § 130 Abs. 2 Satz 2 GPR.
+2 Andernfalls beschliesst der Kantonsrat innert 23 Monaten nach Einreichung der Initiative über Zustimmung oder Ablehnung, sofern weder der Regierungsrat einen Gegenvorschlag beantragt noch der Kantonsrat die Ausarbeitung eines solchen beschlossen hat.
+3 In den übrigen Fällen beschliesst der Kantonsrat innert 29 Monaten nach Einreichung der Initiative über Zustimmung oder Ablehnung.
