@@ -4,5 +4,5 @@
 ## D. Ausbildung
 ## E. Material und Fahrzeuge
 ## F. Finanzierung
-## G. Schadenersatzansprüche und Strafverfolgung
+## G. Schadenersatz- und Rückgriffsansprüche; Strafverfolgung
 ## H. Schlussbestimmung

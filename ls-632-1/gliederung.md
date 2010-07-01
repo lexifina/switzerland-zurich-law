@@ -14,7 +14,7 @@
 ## 4. Abschnitt: Veranlagungs- und Rechtsmittelverfahren
 ## A. Veranlagung
 ## B. Einsprache
-## C. Rekurs
+## C. Rekurs- und Beschwerdeverfahren
 ## 5. Abschnitt: Änderung rechtskräftiger Entscheide
 ## A. Revision und Berichtigung
 ## B. Nachsteuer

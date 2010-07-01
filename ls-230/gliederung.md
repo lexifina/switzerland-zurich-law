@@ -1,5 +1,4 @@
 ## Erster Titel: Zuständigkeit der Behörden und Verfahren
-## C. Die Bezirksschätzungskommission
 ## D. Das Betreibungsamt
 ## E. Verwaltungsbehörden
 ## I. Zivilstandsamt
@@ -49,8 +48,8 @@
 ## VII. Enteignungsähnliche Beschränkungen
 ## D. Inhalt der einzelnen Dienstbarkeiten
 ## E. Grundpfandrechtliche Bestimmungen
-## F. Vorschriften über das Pfandleihgewerbe, die Feilträger
-## und die Kreditgeber und -vermittler
+## F. Vorschriften über das Pfandleihgewerbe und die Kreditgeber
+## und -vermittler
 ## G. Grundbuchwesen
 ## Fünfter Abschnitt: Obligationenrecht
 ## A. Versteigerung

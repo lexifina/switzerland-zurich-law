@@ -36,7 +36,7 @@
 ## G. Zusätzliche Massnahmen im Berggebiet und in der voralpinen
 ## Hügelzone
 ## H. Erhaltung der Werke
-## 1. Allgemeine öffentlichrechtliche Eigentumsbeschränkungen
+## 1. Allgemeine öffentlich-rechtliche Eigentumsbeschränkungen
 ## 2. Zusätzliche Eigentumsbeschränkungen bei der Leistung von
 ## Zusatzbeiträgen im Berggebiet und in der voralpinen Hügelzone
 ## 3. Gemeinsame Bestimmungen

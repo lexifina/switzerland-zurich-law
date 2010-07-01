@@ -1,4 +1,4 @@
 # § 171 a Kinder- und Ausbildungszulagen
 1 Der Staat zahlt den Bezügern von Kinder- und Ausbildungszulagen gemäss Bundesgesetz über die Familienzulagen in der Landwirtschaft eine Differenzzulage, soweit die einzelne Zulage den Mindestbetrag der Familienzulagen gemäss Einführungsgesetz zum Bundesgesetz über die Familienzulagen (EG FamZG) vom 19. Januar 2009 nicht erreicht.
 2 Die Durchführung wird der kantonalen AHV-Ausgleichskasse übertragen, die für diese Aufgabe entschädigt wird.
-3 Gegen die Verfügungen der kantonalen Ausgleichskasse können die Betroffenen beim Sozialversicherungsgericht innert 30 Tagen von der Zustellung an Beschwerde erheben. Sein Entscheid betreffend die Differenzzulage ist endgültig. Kosten und Entschädigung richten sich nach Art. 61 lit. a und g des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts.
+3 Das Verfahren richtet sich nach den Bestimmungen über die Ausrichtung von Kinder- und Familienzulagen gemäss Bundesgesetz über die Familienzulagen in der Landwirtschaft vom 20. Juni 1952.
