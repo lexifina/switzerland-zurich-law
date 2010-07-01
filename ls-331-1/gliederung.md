@@ -11,8 +11,8 @@
 ## 6. Abschnitt: Therapeutische Massnahmen
 ## A. Einleitung des Vollzugs
 ## B. Durchführung und Beendigung
-## 3. Teil: Vollzug von Freiheitsstrafen und stationären Massnahmen in
-## den Betrieben des Amts
+## 3. Teil: Vollzug von Freiheitsstrafen und stationären Massnahmen
+## in den Betrieben des Amts
 ## 1. Abschnitt: Grundlagen
 ## 2. Abschnitt: Vollzugsplan
 ## 3. Abschnitt: Durchführung des Vollzugs
