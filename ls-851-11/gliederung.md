@@ -1,7 +1,7 @@
 ## A. Behörden und ihre Aufgaben
 ## I. Fürsorgebehörde
 ## II. Bezirksrat
-## III. Sicherheitsdirektion
+## III. Kantonales Sozialamt
 ## B. Persönliche Hilfe
 ## C. Wirtschaftliche Hilfe
 ## I. Art und Umfang
