@@ -1,2 +1,6 @@
 # § 4 a Berechnung des Maximalbetrags
-Der Maximalbetrag für die pauschale Steueranrechnung wird berechnet: a) bei natürlichen Personen unter Vorbehalt des Bundesrechts auf Grund eines kantonalen Anrechnungstarifs, b) bei juristischen Personen sowie Kollektiv- und Kommanditgesellschaften nach Massgabe des Bundesrechts. Der kantonale Anrechnungstarif (mit Grund- und Verheiratetentarif) wird unter Berücksichtigung der durchschnittlichen kantonalen und kommunalen Steuerbelastung, unter Ausschluss der Kirchensteuer und mit Einschluss der Bundessteuer, durch die Finanzdirektion festgelegt. Der Tarif ist dem Eidgenössischen Finanzdepartement zur Genehmigung zu unterbreiten.
+1 Der Maximalbetrag für die pauschale Steueranrechnung wird berechnet:
+a. bei natürlichen Personen unter Vorbehalt des Bundesrechts aufgrund eines kantonalen Anrechnungstarifs,
+b. bei juristischen Personen sowie Kollektiv- und Kommanditgesellschaften nach Massgabe des Bundesrechts.
+2 Die Finanzdirektion legt den kantonalen Anrechnungstarif (mit Grundtarif, Verheiratetentarif und Elterntarif) fest. Sie berücksichtigt dabei die durchschnittliche kantonale und kommunale Steuerbelastung, unter Ausschluss der Kirchensteuer und mit Einschluss der Bundessteuer.
+3 Der Anrechnungstarif wird dem Eidgenössischen Finanzdepartement zur Genehmigung unterbreitet.
