@@ -1,0 +1,2 @@
+# § 57 a Verteilung der Steuern
+Die Steuern, die von den AHV-Ausgleichskassen im vereinfachten Abrechnungsverfahren für kleine Arbeitsentgelte nach den Art. 2 und 3 des Bundesgesetzes vom 17. Juni 2005 gegen die Schwarzarbeit bezogen und an das kantonale Steueramt abgeliefert werden, werden gemäss §§ 36 und 37 der Verordnung über die Quellensteuer für ausländische Arbeitnehmer (Quellensteuerverordnung I) vom 2. Februar 1994 auf Kanton und Gemeinden aufgeteilt.
