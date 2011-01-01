@@ -1,2 +1,2 @@
-# Notariatsgesetz (NotG)15
+# Notariatsgesetz (NotG)14
 (vom 9. Juni 1985)
