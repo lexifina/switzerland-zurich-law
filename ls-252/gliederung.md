@@ -5,6 +5,9 @@
 ## C. Belege
 ## D. Errichtung, Erhöhung und Löschung der Pfandtitel
 ## E. Besondere Rechtsverhältnisse
+## G. Führung des Grundbuches mittels Informatik
+## H. Elektronische Auskunft und Einsichtnahme
+## I. Datenaustausch
 ## Zweiter Abschnitt: Die kantonale Übergangsordnung
 ## bis zur Einführung des eidgenössischen Grundbuches
 ## A. Grundprotokoll
