@@ -20,7 +20,7 @@
 ## C. Erhebung der Quellensteuer im interkantonalen Verhältnis
 ## Fünfter Abschnitt: Verfahrensrecht
 ## A. Steuerverwaltungsbehörden
-## B. Rekurskommissionen
+## B. Steuerrekursgericht
 ## C. Allgemeine Verfahrensgrundsätze
 ## D. Einschätzung im ordentlichen Verfahren
 ## E. Verfahren bei der Erhebung der Quellensteuer
@@ -43,3 +43,6 @@
 ## A. Verletzung von Verfahrenspflichten und Steuerhinterziehung
 ## B. Steuervergehen
 ## Vierter Teil: Schlussbestimmungen
+## Übergangsbestimmung gemäss G über die Unterstellung der Steuer
+## rekurskommissionen und der Baurekurskommissionen unter das
+## Verwaltungsgericht vom 13. September 2010 (OS 65, 960)
