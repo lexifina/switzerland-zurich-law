@@ -23,4 +23,3 @@
 ## 4. Teil: Rechtspflege
 ## 5. Teil: Schlussbestimmungen
 ## Anhang
-## VI. Gebühren, Kostenbeiträge und Entschädigungen
