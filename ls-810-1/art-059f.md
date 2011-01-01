@@ -1,2 +1,0 @@
-# § 59 f f. Datenerhebung und Einsicht in Unterlagen
-Die Direktion des Gesundheitswesens kann bei den Gemeinden und den beitragsberechtigten Spitex-Institutionen regelmässig Daten erheben und Unterlagen einsehen, soweit dies für den Vollzug der Gesetzgebung oder für statistische Untersuchungen erforderlich ist. Für statistische Untersuchungen kann sie auch bei weiteren Leistungserbringern im Spitexbereich regelmässig Daten erheben.

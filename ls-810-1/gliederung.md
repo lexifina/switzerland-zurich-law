@@ -8,7 +8,7 @@
 ## 3. Teil: Spitäler, Pflegeheime und andere Institutionen
 ## des Gesundheitswesens
 ## 1. Abschnitt: Allgemeine Bestimmungen
-## 2. Abschnitt: Spital- und Pflegeheimplanung
+## 2. Abschnitt: Spitalplanung
 ## 3. Abschnitt: Krankentransport- und Rettungswesen
 ## 4. Teil: Heilmittel, Lebensmittel und Chemikalien
 ## 5. Teil: Gesundheitsförderung und Prävention
