@@ -1,7 +1,7 @@
 ## 1. Teil: Amt für Justizvollzug
 ## 2. Teil: Vollzugsverfahren
 ## 1. Abschnitt: Zustellung der Entscheide und Vorprüfung
-## 2. Abschnitt: Vorzeitiger Antritt von Strafen und Massnahmen
+## 2. Abschnitt: Vorzeitiger Straf- und Massnahmenvollzug
 ## 3. Abschnitt: Geldstrafen und Bussen
 ## 4. Abschnitt: Gemeinnützige Arbeit
 ## 5. Abschnitt: Freiheitsstrafen und Verwahrungen
@@ -23,6 +23,6 @@
 ## E. Sicherheit
 ## F. Hausordnungen
 ## 4. Teil: Untersuchungs- und Sicherheitshaft sowie Auslieferungshaft
-## 5. Teil: Vorbereitungs- und Ausschaffungshaft
+## 5. Teil: Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft
 ## 6. Teil: Disziplinarwesen
 ## 7. Teil: Rechtsmittel und Schlussbestimmungen
