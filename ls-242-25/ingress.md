@@ -1,0 +1,2 @@
+# Verordnung über die Notariatsverwaltung (Notariatsverwaltungsverordnung)
+(vom 8. Dezember 1999) Das Obergericht, in Anwendung der §§ 32, 35 und 37 lit. d des Notariatsgesetzes (NotG) vom 9. Juni 1985, § 42 des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess (GOG) vom 10. Mai 2010 sowie die §§ 3 und 7 der Vollzugsverordnung der obersten kantonalen Gerichte zum Personalgesetz vom 26. Oktober 1999, beschliesst:
