@@ -1,2 +1,2 @@
-# Gesetz über die Feuerpolizei und das Feuerwehrwesen (FFG)18
+# Gesetz über die Feuerpolizei und das Feuerwehrwesen (FFG)14
 (vom 24. September 1978)
