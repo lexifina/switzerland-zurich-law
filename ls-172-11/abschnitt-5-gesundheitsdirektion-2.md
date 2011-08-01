@@ -1,0 +1,2 @@
+# 5. Gesundheitsdirektion
+5.1 Veterinäramt Gesamter Aufgabenbereich. 5.2 Kantonales Laboratorium Gesamter Aufgabenbereich. 5.3 Kantonsapotheke Gesamter Aufgabenbereich. 5.4 Heilmittelkontrolle Gesamter Aufgabenbereich. 5.5 Psychiatrische Universitätsklinik Gesamter Aufgabenbereich. Zürich 5.6 Integrierte Psychiatrie Winterthur Gesamter Aufgabenbereich. 5.7 Kinder- und Jugendpsychiatrischer Gesamter Aufgabenbereich. Dienst 5.8 Kantonsärztlicher Dienst Gesamter Aufgabenbereich. 5.9 Kantonszahnärztlicher Dienst Gesamter Aufgabenbereich.
