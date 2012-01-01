@@ -1,1 +1,3 @@
 # § 229 a
+1 Der Mäkler (Art. 412ff. OR) von Wohnräumen im Kanton, die den Bestimmungen des Obligationenrechts über den Schutz vor missbräuchlichen Mietzinsen unterstehen, darf vom Mietinteressenten einen Mäklerlohn von höchstens 75% des monatlichen Nettomietzinses verlangen. Der Mäklerlohn umfasst sämtliche Aufwendungen und darf nur verlangt werden, wenn der Mietvertrag infolge der Bemühungen des Mäklers zustande gekommen ist.
+2 Eine Sicherheitsleistung darf 50% des mutmasslichen Mäklerlohnes nicht übersteigen und ist bei Zustandekommen eines Mietvertrages an den Mäklerlohn anzurechnen. Kommt innert sechs Monaten nach Abschluss des Mäklervertrages kein Mietvertrag zustande, ist die Sicherheitsleistung dem Mietinteressenten zurückzuerstatten.
