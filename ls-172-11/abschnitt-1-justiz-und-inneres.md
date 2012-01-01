@@ -13,3 +13,4 @@ b. Fachstelle für Integrationsfragen
 c. Fachstelle Kultur
 d. Kantonale Opferhilfestelle 1.3 Administrativ angegliederte Einheiten
 a. Bezirksratskanzleien
+b. Statthalterämter
