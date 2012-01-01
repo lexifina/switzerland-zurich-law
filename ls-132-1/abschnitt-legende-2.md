@@ -1,0 +1,2 @@
+# Legende
+SKA Absolute Steuerkraft der politischen Gemeinde i im Bemessungsjahr t–2 (§ 8 lit. b und f) SKA Absolute Steuerkraft der Schulgemeinde u auf dem Gebiet der politischen Gemeinde i im Bemessungsjahr t–2 (§ 8 lit. b und f) GSF Gesamtsteuerfuss der politischen Gemeinde i im Bemessungsjahr t–2 (§ 8 lit. b und c) SF Steuerfuss der Schulgemeinde u im Bemessungsjahr t–2 (§ 8 lit. b) Z Ressourcenzuschuss an die politische Gemeinde i im Ausgleichsjahr t (§ 8 lit. a)

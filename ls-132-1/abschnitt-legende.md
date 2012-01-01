@@ -1,0 +1,2 @@
+# Legende
+E Zahl der Einwohnerinnen und Einwohner der politischen Gemeinde i im Bemessungsjahr t–2 (§ 8 lit. b und e) SKR Relative Steuerkraft der ausgleichsberechtigten politischen Gemeinde i im Bemessungsjahr t–2 (§ 8 lit. b und g) SKR Kantonsmittel der relativen Steuerkraft im Bemessungsjahr t–2 (§ 8 lit. b und h) GSF Gesamtsteuerfuss der politischen Gemeinde i im Bemessungsjahr t–2 (§ 8 lit. b und c)
