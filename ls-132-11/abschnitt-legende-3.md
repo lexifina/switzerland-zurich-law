@@ -1,0 +1,2 @@
+# Legende
+A Ressourcenabschöpfung bei einer politischen Gemeinde i im Aus- gleichsjahr t (Formel 3) bSKA Berichtigte absolute Steuerkraft der politischen Gemeinde i im Kalen- derjahr t–2 GSF Gesamtsteuerfuss der politischen Gemeinde i im Bemessungsjahr t–2 SKA Absolute Steuerkraft der politischen Gemeinde i im Kalenderjahr t–2 Z Ressourcenzuschuss an eine politische Gemeinde i im Ausgleichsjahr t (Formel 1)
