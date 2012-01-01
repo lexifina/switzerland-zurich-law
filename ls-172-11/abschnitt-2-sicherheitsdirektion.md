@@ -9,5 +9,4 @@ a. Passbüro
 b. Fachstelle Sport
 c. Eichämter
 d. Gewerbebewilligungen und Beglaubigungen
-e. Rekursabteilung 2.3 Administrativ angegliederte Einheiten
-a. Statthalterämter
+e. Rekursabteilung
