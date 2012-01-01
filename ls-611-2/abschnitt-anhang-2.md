@@ -24,7 +24,7 @@ Bestimmungen gemäss § 39 lit. d Nr. Erlass §§ LS 132.1 Finanzausgleichsgeset
 – Jährlicher Beitrag an die Hochschule 33 Ziff. 1 LS 415.17 Interkantonale Universitätsvereinbarung
 – Beiträge an die Ausbildungskosten 3 der Studierenden LS 415.171 Interkantonales Konkordat über universitäre Koordination
 – Beitrag an Kosten der Schweiz. Universitäts- 4 Abs. 3 konferenz LS 415.22 Verordnung über das Ruhegehalt der Professorinnen und Professoren der Universität Zürich
-– Ruhegehälter der Professorinnen und Verordnung Professoren SR 613.21 Verordnung über den Art. 25 und 50 Finanz- und Lastenausgleich (FiLaV)
+– Ruhegehälter der Professorinnen und Verordnung Professoren LS 440.2 Opernhausgesetz 4 Abs. 3 SR 613.21 Verordnung über den Art. 25 und 50 Finanz- und Lastenausgleich (FiLaV)
 – Beiträge an den Ressourcenausgleich Nr. Erlass §§ LS 700.1 Planungs- und Baugesetz (PBG) 217 Abs. 1
 – Kostenanteile für Massnahmen zur Erhaltung oder Pflege von Ortsbildern von kantonaler und regionaler Bedeutung LS 722.1 Strassengesetz
 – Kostenanteile für den Bau von Gemeinde- 29 Abs. 1 strassen
