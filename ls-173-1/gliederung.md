@@ -4,5 +4,5 @@
 ## D. Schlussbestimmungen
 ## Anhang
 ## Die Bezirke, ihre Hauptorte und die zugehörigen
-## politischen Gemeinden7
+## politischen Gemeinden6
 ## Bezirk Zürich: Stadt Zürich.
