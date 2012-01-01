@@ -53,10 +53,9 @@
 ## G. Grundbuchwesen
 ## Fünfter Abschnitt: Obligationenrecht
 ## A. Versteigerung
-## B. Ferien der Arbeitnehmer und Lehrlinge
 ## B. Miete und Pacht
-## C. Vorlegung von beweglichen Sachen oder Urkunden
-## D.
+## C. Ehe- und Partnerschaftsvermittlung
+## D. Vorlegung von beweglichen Sachen oder Urkunden
 ## Sechster Abschnitt: Beurkundung und Beglaubigung
 ## A. Öffentliche Beurkundung
 ## B. Beglaubigungen
