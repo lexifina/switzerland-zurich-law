@@ -19,7 +19,7 @@
 ## 3. Pflichten der Genossenschaftsmitglieder
 ## 4. Organe der Genossenschaft
 ## 5. Vertraglich zusammengeschlossene Grundeigentümer
-## 6. Rekurse und Einsprachen, Landwirtschaftsgericht
+## 6. Rechtsschutz
 ## C. Güterzusammenlegungen
 ## 1. Allgemeines
 ## 2. Einleitung des Verfahrens
