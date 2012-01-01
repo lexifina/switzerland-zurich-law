@@ -3,7 +3,7 @@
 ## 3. Abschnitt: Finanzierung
 ## A. Im Allgemeinen
 ## B. Besondere Fälle
-## C. Staatsbeiträge
+## C. Normdefizit
 ## 4. Abschnitt: Weitere Bestimmungen
 ## 5. Abschnitt: Schlussbestimmungen
 ## terlassenen- und Invalidenversicherung vom 7. Februar 1971: . . .

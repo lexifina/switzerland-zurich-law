@@ -1,0 +1,4 @@
+# § 20 a Schulen für nichtärztliches Gesundheitspersonal
+1 An Schulen, die nichtärztliches Gesundheitspersonal ausbilden, können Staatsbeiträge nach Massgabe des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008 ausgerichtet werden. Sie können von der für das Bildungswesen zuständigen Direktion des Regierungsrates mit zusätzlichen Subventionen unterstützt werden, sofern sie eine ausreichende Ausbildung gewährleisten und einem Bedürfnis des Kantons dienen.
+2 Zusätzliche Subventionen können unter den gleichen Voraussetzungen auch an Schulen ausgerichtet werden, die eine Vorschulung für einen Fachberuf dieser Art anbieten.
+3 Der Regierungsrat kann die Voraussetzungen zur Gewährung zusätzlicher Subventionen konkretisieren und entscheidet über deren Art und Höhe. Sie werden unter der Bedingung gewährt, dass die Schulen den zürcherischen Spitälern und Pflegeheimen in angemessenem Umfang Personal zur Verfügung stellen.
