@@ -8,6 +8,7 @@
 ## G. Führung des Grundbuches mittels Informatik
 ## H. Elektronische Auskunft und Einsichtnahme
 ## I. Datenaustausch
+## K. Bezug von Daten der Gebäudeversicherung des Kantons Zürich
 ## Zweiter Abschnitt: Die kantonale Übergangsordnung
 ## bis zur Einführung des eidgenössischen Grundbuches
 ## A. Grundprotokoll
