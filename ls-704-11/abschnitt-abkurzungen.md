@@ -1,0 +1,2 @@
+# Abkürzungen
+AFV Amt für Verkehr ALN Amt für Landschaft und Natur AMZ Amt für Militär und Zivilschutz ARE Amt für Raumentwicklung AWEL Amt für Abfall, Wasser, Energie und Luft DS Sicherheitsdirektion GAZ Gemeindeamt GD Gesundheitsdirektion GVZ Gebäudeversicherung Kanton Zürich IMA Immobilienamt KAPO Kantonspolizei KSTA Steueramt OG Obergericht TBA Tiefbauamt VETA Veterinäramt ZVV Zürcher Verkehrsverbund
