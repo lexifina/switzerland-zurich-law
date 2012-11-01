@@ -6,6 +6,6 @@ c. Bewilligungen gestützt auf § 68 des Volks- schulgesetzes (VSG) vom 7. Febru
 d. Anordnungen im Zusammenhang mit der Aufsicht über die Privatschulen und den Privatunterricht gestützt auf § 70 VSG,
 e. Anerkennung von Kursen in heimatlicher Sprache und Kultur gestützt auf § 15 VSG,
 f. Bewilligung von Lehrerstellen an Durch- gangszentren für Asylsuchende gestützt auf § 62 Abs. 3 VSG,
-g. Ausrichtung von Staatsbeiträgen an Sonder- schulen gestützt auf § 65 Abs. 1 VSG. 6.4 Amt für Jugend und Berufsberatung
+g. Ausrichtung von Staatsbeiträgen an Sonder- schulen gestützt auf § 65 Abs. 1 VSG. Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen 6.4 Amt für Jugend und Berufsberatung
 a. Ausrichtung und Rückforderung von Ausbildungsbeiträgen,
-b. Aufsicht über die Adoptionsvermittlung. Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
+b. Aufsicht über die Adoptionsvermittlung.
