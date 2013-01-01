@@ -14,19 +14,6 @@
 ## Zweiter Abschnitt: Familienrecht
 ## A. Allgemeine Bestimmungen
 ## A. Eherecht
-## A. Eltern- und Kindesrecht
-## B. Vormundschaftswesen
-## I. Vormundschaftliche Organe
-## II. Familienvormundschaft
-## III. Amtsvormundschaft
-## IV. Entmündigungsverfahren
-## V. Führung der Vormundschaft
-## a. Übernahme des Amtes
-## b. Schirmlade
-## c. Berichterstattung über die persönliche Fürsorge und die
-## Vermögensverwaltung
-## d. Beistandschaft
-## VI. Fürsorgerische Freiheitsentziehung
 ## C. Findelkinder
 ## D. Betreibungsrechtliche Bestimmungen
 ## E. Konkubinat

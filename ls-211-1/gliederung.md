@@ -54,11 +54,6 @@
 ## B. Kantonalrechtliche Ordnungsbussen
 ## C. Gemeinderechtliche Ordnungsbussen
 ## 5. Abschnitt: Besondere Verfahren gestützt auf das ZGB
-## A. Ergänzendes Recht
-## B. Fürsorgerische Freiheitsentziehung
-## C. Rechtsmittel gegen familienrechtliche Entscheide des Bezirksrates
-## D. Rechtsmittel gegen Entscheide des Regierungsrates in Namens
-## änderungen
 ## 7. Teil: Verfahrenskosten, Rechnungswesen
 ## 8. Teil: Begnadigung
 ## 9. Teil: Übergangsbestimmungen
