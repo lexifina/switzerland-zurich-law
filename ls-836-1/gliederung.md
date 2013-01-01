@@ -1,5 +1,5 @@
 ## A. Allgemeine Bestimmungen
-## B. Familienzulagen für Arbeitnehmende
+## B. Familienzulagen für Erwerbstätige
 ## C. Familienzulagen für Nichterwerbstätige
 ## D. Durchführungsorgane
 ## E. Haftungs- und Strafbestimmungen
