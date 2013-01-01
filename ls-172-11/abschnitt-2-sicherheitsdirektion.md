@@ -4,9 +4,9 @@ a. Kantonspolizei
 b. Strassenverkehrsamt
 c. Migrationsamt
 d. Amt für Militär und Zivilschutz
-e. Sozialamt 2.2 Weitere Verwaltungseinheiten
+e. Sozialamt
+f. Sportamt 2.2 Weitere Verwaltungseinheiten
 a. Passbüro
-b. Fachstelle Sport
-c. Eichämter
-d. Gewerbebewilligungen und Beglaubigungen
-e. Rekursabteilung
+b. Eichämter
+c. Gewerbebewilligungen und Beglaubigungen
+d. Rekursabteilung
