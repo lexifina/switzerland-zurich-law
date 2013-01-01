@@ -1,0 +1,2 @@
+# Betrag
+Neue oder gebundene einmalige Ausgaben bis Fr. 100 000 Neue oder gebundene wiederkehrende Ausgaben bis Fr. 20 000 pro Jahr Gebundene wiederkehrende Ausgaben, sofern sie bis Fr. 100 000 zulasten eines der in Anhang 1 FCV aufgeführten Konten zu verbuchen sind Gebundene einmalige oder wiederkehrende bis Fr. 100 000 Ausgaben, sofern sie aufgrund einer der in Anhang 2 FCV aufgeführten Bestimmungen bewilligt werden
