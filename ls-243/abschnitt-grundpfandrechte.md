@@ -1,0 +1,4 @@
+# Grundpfandrechte
+1.2.1 Errichtung und Erhöhung 2.3.1 von der Pfandsumme oder vom Erhöhungsbetrag 1‰ mindestens 100 Ansatz/Fr. Grundbuch- gebühren siehe Ziff.: 1.2.2 Errichtung und Erhöhung von Pfandrechten 2.3.2 bei gleichzeitiger Löschung oder Teillöschung solcher Rechte zulasten des gleichen Pfandes
+– vom Betrag, um den der neue Gesamtbetrag der Pfandsumme den bisherigen übersteigt 1‰ pro neues Pfandrecht mindestens 100
+– wenn die neue Pfandsumme die bisherige nicht übersteigt, pro neues Pfandrecht 100 1.2.3 Pfandrechtserneuerung 2.3.5.4 von der Pfandsumme 0,5‰ mindestens 100 1.2.4 Pfandeinsetzung, pro Pfandrecht 2.3.3 vom Verkehrswert des einzusetzenden Pfandes 0,5‰ mindestens 50 jedoch höchstens 1‰ der Pfandsumme 1.2.5 Festsetzung oder Erhöhung des Maximal- 2.3.5.1 zinsfusses sofern nicht gleichzeitig Gebühren nach den Ziff. 1.2.1, 1.2.2 oder 1.2.3 geschuldet werden 50 1.2.6 Umwandlung eines Schuldbriefs 50 2.3.5.3
