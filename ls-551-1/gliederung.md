@@ -7,5 +7,4 @@
 ## D. Die kommunalen Polizeikorps der Städte Zürich und Winterthur
 ## IV. Zusammenarbeit
 ## V. Kosten
-## VI. Information und Datenbearbeitung
-## VII. Schluss- und Übergangsbestimmungen
+## VI. Schluss- und Übergangsbestimmungen

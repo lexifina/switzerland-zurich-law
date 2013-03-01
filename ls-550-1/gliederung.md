@@ -9,15 +9,16 @@
 ## C. Polizeiliche Vorladung und Befragung
 ## D. Polizeilicher Gewahrsam
 ## E. Vor-, Zu- und Rückführung
-## F. Überwachung, Wegweisung und Fernhaltung von Personen
-## G. Durchsuchung
-## H. Sicherstellung
-## I. Fernhaltung und Wegschaffung von Tieren sowie Fahrzeugen und
+## F. Überwachungsmassnahmen
+## G. Wegweisung und Fernhaltung von Personen
+## H. Durchsuchung
+## I. Sicherstellung
+## J. Fernhaltung und Wegschaffung von Tieren sowie Fahrzeugen und
 ## anderen Gegenständen
-## J. Polizeiliche Berichte zur Person und Personennachforschung
+## K. Polizeiliche Berichte zur Person und Personennachforschung
 ## 5. Abschnitt: Angehörige der Polizei
 ## 6. Abschnitt: Gefahrenabwehr durch Private
-## 7. Abschnitt: Datenschutz
+## 7. Abschnitt: Information, Datenbearbeitung und Datenschutz
 ## 8. Abschnitt: Haftung und Kostenersatz
 ## A. Haftung
 ## B. Kostenersatz
