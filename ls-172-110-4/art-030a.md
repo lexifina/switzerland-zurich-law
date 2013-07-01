@@ -1,0 +1,2 @@
+# § 30 a Verwendung von Informationen, die unter das Amtsgeheimnis fallen
+Den Mitarbeitenden ist es untersagt, Informationen, die unter das Amtsgeheimnis fallen, zu verwenden, um einen persönlichen Vorteil für sich oder andere zu erlangen. Sie geben gestützt auf diese Informationen keine Empfehlungen oder Hinweise ab. Dies gilt insbesondere dann, wenn das Bekanntwerden nicht öffentlich bekannter Informationen den Wert von Effekten und Devisen in unvorhersehbarer Weise beeinflussen könnte.
