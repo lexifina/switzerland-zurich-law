@@ -1,0 +1,6 @@
+# § 20 a Kostenbeitrag der Gemeinden
+1 Die Beiträge gemäss § 31 Abs. 2 des Mittelschulgesetzes werden vom Mittelschul- und Berufsbildungsamt bei den für das Oberstufenschulwesen zuständigen Gemeinden erhoben.
+2 Bei der Berechnung der Freigrenze von 5 Prozent werden nur Schülerinnen und Schüler der öffentlichen Volks- und Mittelschulen berücksichtigt.
+3 Als in einer Gemeinde wohnhaft gelten Schülerinnen und Schüler, deren tatsächlicher Aufenthaltsort in der Gemeinde ist.
+4 Die Beiträge berechnen sich aufgrund der im September des Vorjahres vorgenommenen allgemeinen jährlichen Datenerhebung bei den Mittelschulen, bereinigt um die Abgänge nach der Probezeit.
+5 Die Bildungsdirektion erlässt Weisungen über die Berechnungsmodalitäten und den Verfahrensablauf.
