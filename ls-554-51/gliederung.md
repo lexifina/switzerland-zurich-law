@@ -7,3 +7,9 @@
 ## G. Strafbestimmungen
 ## H. Übergangsbestimmungen
 ## I. Inkrafttreten
+## Typ
+## Rasse
+## Typ
+## Typ
+## Rasse
+## Typ
