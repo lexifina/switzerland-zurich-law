@@ -1,0 +1,3 @@
+# § 11 a Mitteilungspflichten
+1 Schulpflegen, Strafverfolgungsbehörden und Gerichte melden der für das Bildungswesen zuständigen Direktion die Eröffnung und den Abschluss von Strafuntersuchungen, die Anordnung von Untersuchungshaft sowie Strafurteile betreffend Verbrechen oder Vergehen, wenn durch das der Lehrperson, der Schulleiterin oder dem Schulleiter vorgeworfene Verhalten eine Auswirkung auf die Schule, insbesondere auch auf die Vertrauenswürdigkeit der Lehrperson, der Schulleiterin oder des Schulleiters nicht ausgeschlossen werden kann.
+2 Die Direktion informiert die für die Anstellung zuständige Schulpflege, wenn die Prüfung von personalrechtlichen Massnahmen angezeigt erscheint.
