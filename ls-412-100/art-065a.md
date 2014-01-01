@@ -1,0 +1,2 @@
+# § 65 a b. Inter- kantonale Vereinbarungen
+Der Regierungsrat kann mit anderen Kantonen Vereinbarungen treffen über die Beteiligung am Betriebsdefizit von Institutionen der Sonderschulung. Gestützt auf solche Vereinbarungen leistet der Kanton anderen Kantonen oder ausserkantonalen Sonderschulen Kostenanteile bis zur vollen Höhe der beitragsberechtigten Ausgaben für zürcherische Kinder und Jugendliche.
