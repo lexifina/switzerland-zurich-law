@@ -1,0 +1,2 @@
+# Verordnung über die Rückerstattung des zusätzlichen Steuerrückbehaltes auf Dividenden und Zinsen von amerikanischen Gesellschaften und Obligationenschuldnern
+(vom 13. März 1952) Der Regierungsrat, gestützt auf Art. 17 der Verordnung des Bundesrates vom 15. Juni 1998 zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996 und Art. 35 des Bundesgesetzes über die Verrechnungssteuer vom 13. Oktober 1965, beschliesst:
