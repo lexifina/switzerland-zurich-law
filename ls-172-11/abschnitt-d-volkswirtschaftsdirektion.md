@@ -9,12 +9,13 @@
 8. Vollzug der flankierenden Massnahmen zum Personenfreizügigkeitsabkommen und Geschäftsstelle Tripartite Kommission (TPK)
 9. Arbeitnehmerschutz (betriebliche Unfallverhütung und Gesundheitsschutz), Arbeitszeitbewilligungen (Vollzug ArG und UVG)
 10. Belange des Aussenlärms von Industrie und Gewerbe (Umweltschutzgesetz)
-11. Aufsicht über das Konsumkreditgewerbe sowie die private Arbeitsvermittlung und den Personalverleih
-12. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVIG)
-13. Führung der Arbeitslosenkasse des Kantons Zürich
-14. Weiterbildungs- und Beschäftigungsprogramme für Personen ohne AVIG-Anspruch (EG AVIG)
-15. Vollzug der Heimarbeitsgesetzgebung des Bundes
-16. Fachstelle für Selbstständigkeit
-17. Wohnbauförderung
-18. Wirtschaftliche Landesversorgung
-19. Gastgewerbe, Ruhetage und Ladenöffnung
+11. Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
+12. Aufsicht über das Konsumkreditgewerbe sowie die private Arbeitsvermittlung und den Personalverleih
+13. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVIG)
+14. Führung der Arbeitslosenkasse des Kantons Zürich
+15. Weiterbildungs- und Beschäftigungsprogramme für Personen ohne AVIG-Anspruch (EG AVIG)
+16. Vollzug der Heimarbeitsgesetzgebung des Bundes
+17. Fachstelle für Selbstständigkeit
+18. Wohnbauförderung
+19. Wirtschaftliche Landesversorgung
+20. Gastgewerbe, Ruhetage und Ladenöffnung

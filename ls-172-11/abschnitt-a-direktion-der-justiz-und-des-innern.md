@@ -16,10 +16,9 @@
 15. Integrationsfragen
 16. Kirchenwesen und Religionsfragen
 17. Datenschutz
-18. Intervention gegen häusliche Gewalt
-19. Staatsrechtliche Massnahmen im Bereich der nationalen und internationalen Aussenbeziehungen
-20. Verfassungsrecht, Gerichtsorganisation, Zivil- und Strafrecht, Zivil-, Straf- und Verwaltungsverfahrensrecht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen
-21. Politische Rechte
-22. Enteignungsrecht
-23. Rechtsetzungstechnik
-24. Übertretungsstrafrecht und Aufsicht über die Statthalterämter
+18. Staatsrechtliche Massnahmen im Bereich der nationalen und internationalen Aussenbeziehungen
+19. Verfassungsrecht, Gerichtsorganisation, Zivil- und Strafrecht, Zivil-, Straf- und Verwaltungsverfahrensrecht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen
+20. Politische Rechte
+21. Enteignungsrecht
+22. Rechtsetzungstechnik
+23. Übertretungsstrafrecht und Aufsicht über die Statthalterämter
