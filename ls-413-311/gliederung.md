@@ -19,7 +19,6 @@
 ## D. Überbetriebliche Kurse und vergleichbare dritte Lernorte
 ## E. Berufsmaturitätsunterricht
 ## 7. Abschnitt: Qualifikationsverfahren
-## 3. Teil: Berufs-, Studien- und Laufbahnberatung
-## 4. Teil: Rechtspflege
-## 5. Teil: Schlussbestimmungen
+## 3. Teil: Rechtspflege
+## 4. Teil: Schlussbestimmungen
 ## Anhang
