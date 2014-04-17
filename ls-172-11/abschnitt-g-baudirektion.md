@@ -13,15 +13,16 @@
 12. Vermessungswesen und Kantonsgrenzen
 13. Geographisches Informationssystem (GIS)
 14. Datenlogistik
-15. Energie und Lufthygiene
-16. Wasserbau, Gewässernutzung, Gewässerschutz
-17. Abfallwirtschaft
-18. Störfallvorsorge und biologische Sicherheit
-19. Schutz vor Naturgefahren
-20. Naturschutz
-21. Bodenschutz
-22. Landwirtschaft einschliesslich Meliorationswesen
-23. Landwirtschaftliche Berufsbildung
-24. Forstwesen
-25. Fischerei und Jagd
-26. Lärmschutz
+15. Gebäude- und Wohnungsregister
+16. Energie und Lufthygiene
+17. Wasserbau, Gewässernutzung, Gewässerschutz
+18. Abfallwirtschaft
+19. Störfallvorsorge und biologische Sicherheit
+20. Schutz vor Naturgefahren
+21. Naturschutz
+22. Bodenschutz
+23. Landwirtschaft einschliesslich Meliorationswesen
+24. Landwirtschaftliche Berufsbildung
+25. Forstwesen
+26. Fischerei und Jagd
+27. Lärmschutz
