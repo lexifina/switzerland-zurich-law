@@ -12,8 +12,9 @@
 ## 2. Kommunaler Forstdienst
 ## 3. Körperschaften kantonalen Rechts
 ## 4. Meliorationen
-## VI. Strafbestimmungen
-## VII. Schlussbestimmungen
+## VI. Rechtsschutz
+## VII. Strafbestimmungen
+## VIII. Schlussbestimmungen
 ## 1. Aufhebung und Änderung bisherigen Rechts
 ## 2. Übergangsbestimmungen
 ## 3. Vollziehungsbestimmung

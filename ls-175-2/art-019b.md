@@ -9,7 +9,7 @@ b. die Direktion bei Anordnungen
 1. einer Verwaltungseinheit der Direktion,
 2. einer Gemeinde oder einer Kreiswahlvorsteherschaft in Stimmrechtssachen des Kantons,
 c. der Bezirksrat bei Anordnungen der politischen Gemeinden und der Schulgemeinden,
-d. das Statthalteramt bei Anordnungen der politischen Gemeinden im Bereich der Ortspolizei, des Strassenwesens und des Feuerwehrwesens,
+d. das Statthalteramt bei Anordnungen der politischen Gemeinden im Bereich der Ortspolizei und des Feuerwehrwesens,
 e. der Kantonsrat hinsichtlich des Ergebnisses einer Kantonsratswahl; er entscheidet auf Antrag des Regierungsrates,
 f. die Geschäftsleitung des Kantonsrates bei Anordnungen seiner Kommissionen,
 g. die Verwaltungskommission der Geschäftsleitung des Kantonsrates bei Anordnungen in personalrechtlichen und administrativen Belangen

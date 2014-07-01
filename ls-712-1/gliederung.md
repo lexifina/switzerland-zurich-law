@@ -10,6 +10,6 @@
 ## 2. Deponien
 ## 3. Belastete Standorte
 ## 4. Vollzug durch die Gemeinden
-## IV. Strafbestimmungen
+## IV. Rechtsschutz und Strafbestimmungen
 ## V. Übergangs- und Schlussbestimmungen
 ## VI. Inkrafttreten

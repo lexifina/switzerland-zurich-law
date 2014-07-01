@@ -1,0 +1,2 @@
+# Übergangsbestimmung zur Änderung vom 28. Oktober 2013
+(OS 69, 262) Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hängigen Rechtsmittel bestimmt sich nach bisherigem Recht. Die bisherigen Zuständigkeiten gelten auch dann, wenn die Rechtsmittelfrist vor dem Inkrafttreten des neuen Rechts zu laufen begonnen hat, aber erst nachher endet. Im Übrigen findet das neue Recht auf hängige Verfahren Anwendung.
