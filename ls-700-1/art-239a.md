@@ -1,0 +1,4 @@
+# § 239 a D. Behindertengerechtes Bauen I. Neu- und Umbauten 1. Im Allgemeinen
+1 Öffentlich zugängliche Bauten und Anlagen im Sinne von Art. 3 Bst. a des Behindertengleichstellungsgesetzes vom 13. Dezember 2002 (BehiG) und Art. 2 Bst. c der Behindertengleichstellungsverordnung vom 19. November 2003 sind so zu gestalten, dass sie auch für Menschen mit Behinderungen nach Art. 2 Abs. 1 BehiG zugänglich und benützbar sind.
+2 Bei Wohngebäuden mit mehr als acht Wohneinheiten müssen alle Einheiten für Menschen mit Behinderungen zugänglich sein. Das Innere der einzelnen Wohneinheiten muss an die Bedürfnisse von Menschen mit Behinderungen anpassbar sein.
+3 Gebäude mit mehr als 50 Arbeitsplätzen oder mit mehr als 1000 m Geschossfläche, die einer arbeitsplatzintensiven Nutzung dient, müssen für Menschen mit Behinderungen zugänglich und im Innern an deren Bedürfnisse anpassbar sein.

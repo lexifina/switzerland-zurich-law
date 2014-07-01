@@ -1,0 +1,5 @@
+# § 43 a D. Zugrecht
+1 Der Staat kann im Entschädigungsverfahren aus materieller Enteignung die Zusprechung des betreffenden Landes zu Eigentum verlangen, wenn die Entschädigungsforderung für die mit der Freihaltezone verbundenen Eigentumsbeschränkungen mehr als zwei Drittel des Verkehrswerts beträgt und wenn er sich verpflichtet, das Land innert vier Jahren nach der Eigentumsübertragung der Öffentlichkeit zugänglich zu machen oder einer bisherigen besonderen Nutzung, derentwegen das Land der Freihaltezone zugewiesen worden ist, dauernd zu erhalten.
+2 Die Entschädigung für die Zusprechung des Eigentums bemisst sich nach den Verhältnissen bei Eintreten der Rechtskraft der Freihaltezone. Sie ist von dem Zeitpunkt an zu verzinsen, in dem der Berechtigte die Entschädigung aus materieller Enteignung geltend gemacht hat.
+3 Macht der Staat den Anspruch auf Eigentum geltend, sind die Entschädigungen für die Eigentumsbeschränkungen und für die Zusprechung des Eigentums gesondert festzustellen.
+4 Der Staat kann innert 60 Tagen nach Eintritt der Rechtskraft des Entscheids auf die Zusprechung des Eigentums verzichten.

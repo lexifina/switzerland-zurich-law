@@ -1,0 +1,5 @@
+# § 44 a Inhalt
+1 Kantonale und regionale Gestaltungspläne für Materialgewinnung und Materialablagerung werden nach örtlichem und zeitlichem Bedarf für jene Flächen festgesetzt, die nach der Richtplanung für diese Zwecke vorgesehen sind.
+2 Mit dem Gestaltungsplan werden im Rahmen eines Gesamtkonzepts über das im Richtplan bezeichnete Gebiet für einen bestimmt umgrenzten Bereich die beanspruchte Landfläche, die Abbautiefe oder Auffüllhöhe sowie der Abbau- oder Deponievorgang samt allfälliger Etappierung festgelegt.
+3 Der Gestaltungsplan hat auch Festlegungen über die vorgesehenen Bauten und Anlagen, die Wiederherstellung oder Neugestaltung der erfassten Flächen, den für eine spätere einwandfreie Nutzung vorzusehenden Bodenaufbau, die Erschliessung und die Transportwege sowie die weiteren für die Beurteilung der Umweltverträglichkeit erforderlichen Angaben zu enthalten.
+4 Vor der Festsetzung sind die Gemeinden über das Ergebnis der Planauflage zu orientieren. Auf ihr Verlangen sind die Gemeinderäte zu einer Einigungsverhandlung einzuladen. Berechtigten Begehren der Gemeinden ist bei der Festsetzung zu entsprechen. Verbleibende Abweichungen sind zu begründen.
