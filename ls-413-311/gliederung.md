@@ -1,7 +1,7 @@
 ## 1. Teil: Grundlagen
 ## 2. Teil: Berufliche Grundbildung
 ## 1. Abschnitt: Organisationen der Arbeitswelt
-## 2. Abschnitt: Berufsvorbereitungsjahr
+## 2. Abschnitt: Berufsvorbereitungsjahre und Vorlehre
 ## 3. Abschnitt: Berufliche Praxis
 ## 4. Abschnitt: Berufsbildungsverantwortliche
 ## 5. Abschnitt: Berufsfachschulunterricht
