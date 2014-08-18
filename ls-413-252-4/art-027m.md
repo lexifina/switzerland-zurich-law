@@ -1,0 +1,2 @@
+# § 27 m Entscheid über das Bestehen der Prüfung
+Der Entscheid über das Bestehen der Prüfung wird auf Antrag der Rektorin oder des Rektors durch die Schulkommission gefällt.

@@ -1,0 +1,2 @@
+# § 27 h Hilfsmittel
+Die Fachlehrpersonen legen im Einvernehmen mit der Schulleitung die Hilfsmittel fest und orientieren die Schülerinnen und Schüler im Voraus.
