@@ -1,0 +1,2 @@
+# Übergangsbestimmung zur Änderung vom 17. September 2012
+(OS 68, 46) Ausgleich der kalten Progression Der Ausgleich der kalten Progression gemäss geändertem § 48 erfolgt erstmals auf den Beginn der Steuerfussperiode, die auf das Inkrafttreten dieser Änderung folgt. Beim Ausgleich ist vom Stand des Landesindexes der Konsumentenpreise auszugehen, bis zu dem letztmals die kalte Progression ausgeglichen wurde.

@@ -1,0 +1,2 @@
+# § 137 a 5. Meldepflicht bei Mitarbeiterbeteiligungen
+Arbeitgeber, die ihren Arbeitnehmern Mitarbeiterbeteiligungen einräumen, müssen dem kantonalen Steueramt eine Bescheinigung über alle für deren Einschätzung notwendigen Angaben einreichen. Die vom Bundesrat gestützt auf Art. 129 Abs. 1 Bst. d des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer erlassenen Bestimmungen gelten sinngemäss.
