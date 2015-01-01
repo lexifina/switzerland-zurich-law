@@ -3,5 +3,6 @@
 2 Zu bilden sind insbesondere:
 1. ein Prüfungsausschuss,
 2. ein Entschädigungsausschuss,
-3. ein Risiko-Management-Ausschuss.
+3. ein Risiko-Management-Ausschuss,
+4. ein IT-Ausschuss.
 3 Die Mitglieder des Bankpräsidiums dürfen dem Prüfungsausschuss nicht angehören.
