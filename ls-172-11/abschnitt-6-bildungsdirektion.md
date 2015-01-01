@@ -3,5 +3,5 @@
 a. Volksschulamt
 b. Mittelschul- und Berufsbildungsamt
 c. Hochschulamt
-d. Amt für Jugend- und Berufsberatung
+d. Amt für Jugend und Berufsberatung
 e. Lehrmittelverlag

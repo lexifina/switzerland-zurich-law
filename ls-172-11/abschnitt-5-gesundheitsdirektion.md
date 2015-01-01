@@ -5,7 +5,7 @@ b. Integrierte Psychiatrie Winterthur
 c. Kinder- und Jugendpsychiatrischer Dienst
 d. Kantonsapotheke
 e. Kantonale Heilmittelkontrolle
-f. Kantonales Laboratorium
+f. Kantonales Labor
 g. Veterinäramt 5.2 Weitere Verwaltungseinheiten
 a. Kantonsärztlicher Dienst
 b. Kantonszahnärztlicher Dienst
