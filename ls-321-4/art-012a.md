@@ -1,0 +1,3 @@
+# § 12 a c. Gutachten gemäss § 10 Abs. 2 lit. b
+1 Die Eintragung in das Sachverständigenverzeichnis für die Erstellung von Gutachten gemäss § 10 Abs. 2 lit. b setzt zusätzlich zu den gemäss § 11 genannten Voraussetzungen voraus, dass die einzutragende Person eine anerkannte Ausbildung in Aussagepsychologie abgeschlossen hat.
+2 Für die Erstellung von Gutachten gemäss § 10 Abs. 2 lit. b können auch Psychologinnen und Psychologen in das Sachverständigenverzeichnis eingetragen werden, wenn sie gemäss § 25 Abs. 1 und 2 des Gesundheitsgesetzes vom 2. April 2007 über eine Bewilligung des Kantons Zürich zur Ausübung der Psychotherapie in eigener fachlicher Verantwortung verfügen bzw. ohne Bewilligung dazu berechtigt sind.
