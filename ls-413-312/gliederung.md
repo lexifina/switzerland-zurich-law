@@ -5,3 +5,4 @@
 ## E. Gebühren
 ## F. Schul- und Kursgelder
 ## G. Schlussbestimmungen
+## Anhang 2
