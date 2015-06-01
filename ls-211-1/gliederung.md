@@ -50,7 +50,7 @@
 ## G. Vorverfahren
 ## H. Berufungsanmeldung
 ## 4. Abschnitt: Ordnungsbussenverfahren
-## A. Bundesrechtliche Ordnungsbussen im Strassenverkehr
+## A. Bundesrechtliche Ordnungsbussen
 ## B. Kantonalrechtliche Ordnungsbussen
 ## C. Gemeinderechtliche Ordnungsbussen
 ## 5. Abschnitt: Besondere Verfahren gestützt auf das ZGB
