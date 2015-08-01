@@ -1,4 +1,4 @@
-# § 24 a Beschäftigungsverbot
+# § 24 a Beschäftigungs- verbot
 1 Die für das Bildungswesen zuständige Direktion kann ein Beschäftigungsverbot für längstens drei Jahre aussprechen, wenn
 a. eine Lehrperson ihre Berufspflichten wiederholt oder schwer verletzt hat oder
 b. es das Wohl der Schule verlangt, insbesondere wenn eine Gefährdung der Schülerinnen und Schüler zu befürchten ist.
