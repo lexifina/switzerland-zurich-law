@@ -1,4 +1,4 @@
-## A. Besteuerung der natürlichen Personen
+## A.
 ## B. Behörden
 ## I. Allgemeine Bestimmungen
 ## II. Steueramt
