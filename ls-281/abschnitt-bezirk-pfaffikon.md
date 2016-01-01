@@ -1,2 +1,2 @@
 # Bezirk Pfäffikon
-– Fehraltorf, Hittnau, Pfäffikon, Russikon, Weisslingen – Illnau-Effretikon, Kyburg, Lindau – Bauma, Wila, Wildberg
+– Fehraltorf, Hittnau, Pfäffikon, Russikon, Weisslingen – Illnau-Effretikon, Lindau – Bauma, Wila, Wildberg
