@@ -2,4 +2,6 @@
 ## II. Förderung des Mietwohnungsbaus
 ## III. Förderung des selbst genutzten Wohneigentums
 ## IV. Vollzug
-## V. Schlussbestimmungen
+## V. Wohnbauförderung der Gemeinden
+## VI. Strafbestimmung
+## VII. Schlussbestimmungen
