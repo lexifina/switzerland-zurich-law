@@ -1,9 +1,8 @@
 # Anhang
 Gemeinden mit Befugnis zur Verfolgung und Beurteilung von Übertretungen:
-1. Dübendorf
-2. Kloten
-3. Uster
-4. Winterthur
-5. Zürich
-6. Dietikon
-7. Schlieren
+1. Kloten
+2. Uster
+3. Winterthur
+4. Zürich
+5. Dietikon
+6. Schlieren
