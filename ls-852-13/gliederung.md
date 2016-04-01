@@ -4,4 +4,3 @@
 ## A. Gemeinsame Bestimmungen
 ## B. Bevorschussung von Unterhaltsbeiträgen
 ## C. Überbrückungshilfe
-## D. Beiträge für die Betreuung von Kleinkindern
