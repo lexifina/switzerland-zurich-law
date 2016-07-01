@@ -42,7 +42,7 @@
 ## C. Aufgaben des Gemeindeammanns
 ## 3. Abschnitt: Strafverfahren
 ## A. Grundsätze, Zuständigkeiten
-## B. Rechtshilfe
+## B. Rechtshilfe, Datenschutz und Akteneinsicht
 ## C. Allgemeine Verfahrensvorschriften
 ## D. Parteien und andere Verfahrensbeteiligte
 ## E. Beweise
