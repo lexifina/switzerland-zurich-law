@@ -6,4 +6,4 @@ c. Immobilienamt
 d. Amt für Raumentwicklung
 e. Amt für Abfall, Wasser, Energie und Luft
 f. Amt für Landschaft und Natur 7.2 Weitere Verwaltungseinheiten
-a. Bauverfahren und Koordination Umweltschutz
+a. Koordination Bau und Umwelt

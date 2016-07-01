@@ -2,10 +2,10 @@
 5.1 Verwaltungseinheiten mit Amtsstruktur
 a. Psychiatrische Universitätsklinik Zürich
 b. Integrierte Psychiatrie Winterthur
-c. Kinder- und Jugendpsychiatrischer Dienst
-d. Kantonsapotheke
-e. Kantonale Heilmittelkontrolle
-f. Kantonales Labor
-g. Veterinäramt 5.2 Weitere Verwaltungseinheiten
-a. Kantonsärztlicher Dienst
-b. Kantonszahnärztlicher Dienst
+c. Kantonsapotheke
+d. Kantonale Heilmittelkontrolle
+e. Kantonales Labor
+f. Veterinäramt 5.2 Weitere Verwaltungseinheiten
+a. Abteilung Gesundheitsberufe und Bewilligungen
+b. Kantonsärztlicher Dienst
+c. Kantonszahnärztlicher Dienst

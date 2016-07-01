@@ -1,11 +1,11 @@
 # F. Bildungsdirektion
-1. Bildungswesen einschliesslich Aufsicht
-2. Bildungsplanung, -controlling und -statistik
-3. Unterrichts- und Beitragswesen in den Bereichen Volksschule, Mittelschulen und Berufsfachschulen
-4. Controlling der Hochschulinstitutionen
-5. Jugend- und Familienhilfe
-6. Stipendien
-7. Berufs- und Studienberatung
-8. Wissenschafts- und Bildungsförderung
-9. Entwicklung, Produktion und Vertrieb von Lehrmitteln
-10. Aufsicht über die Lehrbetriebe
+1. Bildungswesen, einschliesslich Planung, Controlling und Aufsicht
+2. Bildungsplanung, -monitoring und -statistik
+3. Unterrichts- und Beitragswesen in den Bereichen Volksschule, Mittelschulen und Berufs- und Weiterbildung
+4. Aufsicht über die Lehrbetriebe
+5. Hochschulwesen und -finanzierung
+6. Wissenschafts- und Bildungsförderung
+7. Kinder- und Jugendhilfe
+8. Berufs-, Studien- und Laufbahnberatung
+9. Ausbildungsbeiträge (Stipendien und Darlehen)
+10. Entwicklung, Produktion und Vertrieb von Lehrmitteln

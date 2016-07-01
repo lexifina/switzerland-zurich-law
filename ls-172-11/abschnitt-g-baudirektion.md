@@ -2,7 +2,7 @@
 1. Strasseninfrastruktur (Projektierung und Realisierung; Werterhaltung; Betrieb und Unterhalt)
 2. Öffentlicher Grund einschliesslich Bewilligungen und Konzessionen, ausgenommen strategische Vorentscheide im Bereich der Strassen
 3. Planung, Bau und Unterhalt von Hochbauten und technischen Anlagen, Planung und Steuerung des Bestandes und der Nutzung der Betriebsliegenschaften des Kantons sowie der Spezialfonds
-4. Bewirtschaftung der Betriebsliegenschaften des Kantons
+4. Bewirtschaftung der Betriebsliegenschaften und der Liegenschaften im Finanz- vermögen
 5. Liegenschaftengeschäfte
 6. Formelle und materielle Enteignungsrechte (einschliesslich Prozessvertretung bei Fluglärmentschädigungsforderungen) und Landerwerbsgeschäfte
 7. Öffentliches Baurecht
@@ -26,3 +26,5 @@
 25. Forstwesen
 26. Fischerei und Jagd
 27. Lärmschutz
+28. Bergregal
+29. Aufsicht über das Zweitwohnungswesen

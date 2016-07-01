@@ -6,5 +6,4 @@ c. Steueramt
 d. Personalamt 3.2 Weitere Verwaltungseinheiten
 a. KITT-Geschäftsstelle
 b. Kantonale Drucksachen- und Materialzentrale
-c. Versicherungskasse für das Staatspersonal 3.3 Administrativ angegliederte Einheiten
-a. KANTAG Liegenschaften AG
+c. . . . 3.3
