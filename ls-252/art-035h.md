@@ -1,4 +1,3 @@
-# § 35 h II. Zugriff im Abrufverfahren, Datenzugriff
-1 Das Notariatsinspektorat entscheidet über die Berechtigung zum Zugriff auf Daten des informatisierten Grundbuches.
-2 Das Notariatsinspektorat schliesst mit den Zugriffsberechtigten eine Vereinbarung nach Art. 111m Abs. 4 GBV ab, in welcher die Verantwortlichkeiten im Umgang mit den übermittelten Daten geregelt werden.
-3 Der Datenzugriff erfolgt im Rahmen des Art. 111 m GBV.
+# § 35 h II. Inkasso
+1 Das Inkasso der Gebühren kann der Trägerorganisation übertragen werden. Diese sorgt für die elektronische Rechnungsstellung und die Überweisung der Gebührenerträge an die zuständige kantonale Stelle.
+2 Das Notariatsinspektorat regelt das Inkasso mit der Trägerorganisation durch Vertrag. Dieser bedarf der Zustimmung der Finanzdirektion.

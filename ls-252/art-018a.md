@@ -1,2 +1,2 @@
-# § 18 a I a. Telefonische Anmeldung
-Wird die Grundbuchanmeldung im Sinne von Art. 13 Abs. 4 GBV telefonisch übermittelt, so ist der Name der anrufenden Person, die Bezeichnung der Behörde oder des Gerichts, der Inhalt der Grundbuchanmeldung unverzüglich zu protokollieren. Dieses Protokoll, bei elektronischer Übermittlung der entsprechende Ausdruck, ist zu den Anmeldungsbelegen (Hauptbeleg) zu legen.
+# § 18 a I a. Formlose Anmeldung
+Wird die Grundbuchanmeldung gemäss GBV formlos übermittelt, so sind der Name der Antrag stellenden Person, die Bezeichnung der Behörde oder des Gerichts, der Inhalt der Grundbuchanmeldung unverzüglich zu protokollieren. Dieses Protokoll, bei elektronischer Übermittlung der entsprechende Ausdruck, ist zu den Anmeldungsbelegen (Hauptbeleg) zu legen.

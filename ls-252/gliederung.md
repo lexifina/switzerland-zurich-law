@@ -5,22 +5,24 @@
 ## C. Belege
 ## D. Errichtung, Erhöhung und Löschung der Pfandtitel
 ## E. Besondere Rechtsverhältnisse
-## G. Führung des Grundbuches mittels Informatik
-## H. Elektronische Auskunft und Einsichtnahme
-## I. Datenaustausch
-## K. Bezug von Daten der Gebäudeversicherung des Kantons Zürich
-## Zweiter Abschnitt: Die kantonale Übergangsordnung
+## Zweiter Abschnitt: Elektronische Auskunft und Einsichtnahme,
+## elektronischer Datenaustausch
+## A. Datenzugang
+## B. Elektronischer Datenaustausch
+## C. Bezug von Daten der Gebäudeversicherung des Kantons Zürich
+## D. Gebühren und Inkasso
+## Dritter Abschnitt: Die kantonale Übergangsordnung
 ## bis zur Einführung des eidgenössischen Grundbuches
 ## A. Grundprotokoll
 ## B. Vorbereitung der Grundbucheinführung
 ## C. Grundregister
 ## D. Gemeinsame Bestimmungen
-## Dritter Abschnitt: Die Einführung des eidgenössischen Grundbuches
+## Vierter Abschnitt: Die Einführung des eidgenössischen Grundbuches
 ## A. Allgemeine Bestimmungen über die Grundbucheinführung
 ## B. Durchführung der Bereinigung
 ## C. Bekanntmachung und Fristansetzung
 ## D. Anlegung des Grundbuches
 ## E. Inkraftsetzung des Grundbuches
-## Vierter Abschnitt: Übergangs- und Schlussbestimmungen
+## Fünfter Abschnitt: Übergangs- und Schlussbestimmungen
 ## A. Übergangsbestimmungen
 ## B. Schlussbestimmungen
