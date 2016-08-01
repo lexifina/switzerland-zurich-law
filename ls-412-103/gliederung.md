@@ -2,7 +2,7 @@
 ## 2. Abschnitt: Die einzelnen Massnahmen
 ## A. Integrative Förderung
 ## B. Therapien
-## C. Aufnahmeunterricht und Aufnahmeklassen
+## C. Unterricht in Deutsch als Zweitsprache
 ## D. Einschulungs- und Kleinklassen
 ## E. Sonderschulung
 ## 3. Abschnitt: Verfahren und Überprüfung
