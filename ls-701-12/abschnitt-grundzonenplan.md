@@ -1,0 +1,2 @@
+# Grundzonenplan
+Beschriftungen Beantragte Festlegungen Grenzen der Grundzonierungen Überlagernde Festlegungen Übersichtsplan Grundzonierungen Verkehrsflächen Gewässer Wald Landwirtschaft

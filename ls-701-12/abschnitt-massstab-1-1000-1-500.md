@@ -1,0 +1,2 @@
+# Massstab 1:1000/1:500
+Waldabstandslinien 0/0/0/100 0.18 gemäss § 66 Abs. 2 PBG Gewässerabstandslinien 0/0/0/100 0.18 gemäss § 67 PBG Verkehrsbaulinien für  0/0/0/100 0.18 Strassen, Wege und Plätze gemäss § 96 Abs. 2 lit.a PBG Baulinien für 0/0/0/100 0.18 Betriebsanlagen zu Verkehrsbauten  sowie für Fluss- und Bachkorrekturen gemäss § 96 Abs. 2 lit.b PBG Baulinien für  0/0/0/100 0.18 Versorgungsleitung und für Anschlussgleise gemäss § 96 Abs. 2 lit.c PBG Ski- und Schlittellinien 0/0/0/100 0.18 gemäss § 111 PBG
