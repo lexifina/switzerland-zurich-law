@@ -1,0 +1,3 @@
+# § 6 c b. Meldepflichten und Melderechte der Schule
+1 Die Schulleitung informiert die Jugendanwaltschaft in den gemeldeten Fällen bis zum rechtskräftigen Abschluss des Strafverfahrens über verordnete Abwesenheiten wie vorübergehende Wegweisungen vom Unterricht und Auszeiten, den Austritt und den Übertritt einer Schülerin oder eines Schülers an eine andere Bildungseinrichtung gemäss diesem Gesetz.
+2 Sie orientiert die Präsidentin oder den Präsidenten der Schulpflege über die Meldung der Jugendanwaltschaft und entscheidet, ob und in welchem Umfang sie Informationen aus Strafverfahren an Lehrpersonen und weitere Fachpersonen innerhalb der Schule weitergibt.
