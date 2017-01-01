@@ -1,4 +1,4 @@
-# Liste der massgeblichen Standards und Abweichungen
+# A. Liste der massgeblichen Standards und Abweichungen
 1. IPSAS 1, Presentation of Financial Statements (Darstellung des Abschlusses), Stand Dezember 2006. Abweichung zu IPSAS 1, § 7: Einlagen in und Entnahmen aus Fonds zur Vorfinanzierung von Investitionen erfolgen abweichend vom Grundsatz der Periodengerechtigkeit.
 2. IPSAS 2, Cash Flow Statements (Geldflussrechnung), Stand Mai 2000.
 3. IPSAS 3, Accounting Policies, Changes in Accounting Estimates and Errors (Bilanzierungs- und Bewertungsmethoden, Änderungen von Schätzungen und Fehler), Stand Dezember 2006.
