@@ -42,12 +42,12 @@ Bestimmungen gemäss § 39 lit. d Nr. Erlass §§ LS 132.1 Finanzausgleichsgeset
 – Entschädigungen für Verlustscheine aufgrund unbezahlter Prämien und Kostenbeteiligungen 18 a Abs. 6 Nr. Erlass §§ LS 832.1 Verordnung zum EG KVG
 – Beiträge für die Prämienübernahmen für die Zeit vor dem Sozialhilfebezug 20 SR 836.1 Bundesgesetz über die Familienzulagen in der Landwirtschaft
 – Beitrag an den Bund für Familienzulagen Art. 21 in der Landwirtschaft SR 837.0 Arbeitslosenversicherungsgesetz des Bundes
-– Kantonsbeitrag an den Bund für den AVIG-Art. 92 Abs. 7 Vollzug LS 851.1 Sozialhilfegesetz
+– Kantonsbeitrag an den Bund für den AVIG- Art. 92 Abs. 7 Vollzug LS 851.1 Sozialhilfegesetz
 – Wirtschaftliche Hilfe 44 LS 852.2 Gesetz über Jugendheime und Pflegekinder- fürsorge
 – Kostenanteile an von Gemeinden oder 7 privaten Trägern geführte Jugendheime
 – Beiträge für zürcherische Kinder und 9 b Jugendliche in ausserkantonalen Heimen LS 855.1 Pflegegesetz
 – Kostenanteile für Leistungen 10 Abs. 3 der Akut- und Übergangspflege
-– Kostenanteile für Pflegeleistungen 15 Abs. 4, von Pflegeheimen und ambulanten i.V. m. 9 Abs. 4 Leistungserbringern
+– Kostenanteile für Pflegeleistungen 15 Abs. 4, von Pflegeheimen und ambulanten i.V.m. 9 Abs. 4 Leistungserbringern
 – Kostenanteile für nichtpflegerische 13 Abs. 3, Spitex-Leistungen 18 Abs. 1 LS 855.2 Gesetz über Invalideneinrichtungen für Erwachsene
 – Beiträge an die Kosten der bewilligten Leis- 16 Abs. 1 lit. b tungen von ausserkantonalen Einrichtungen LS 915.3 Konkordat betreffend die Schweizerische Hochschule für Landwirtschaft
 – Beitrag an Betriebskosten der Hochschule 7

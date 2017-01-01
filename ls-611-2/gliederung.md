@@ -10,8 +10,7 @@
 ## H. Verzinsung
 ## 3. Abschnitt: Ausgaben
 ## A. Allgemeines
-## B. Ausgabenbewilligungen des Kantonsrates (Verpflichtungskredite)
-## C. Ausgabenbewilligungen des Regierungsrates und der Direktionen
+## B. Ausgabenbewilligungen des Regierungsrates und der Direktionen
 ## 4. Abschnitt: Zuständigkeiten
 ## 5. Abschnitt: Andere Behörden und Organisationen
 ## 6. Abschnitt: Übergangs- und Schlussbestimmungen
