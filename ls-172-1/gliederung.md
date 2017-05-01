@@ -4,6 +4,7 @@
 ## II. Aufgaben
 ## III. Organisation
 ## IV. Verfahren
+## V. Weitere Rechte und Pflichten der Mitglieder des Regierungsrates
 ## B. Das Regierungspräsidium
 ## C. Die Staatskanzlei
 ## D. Ausschüsse und Kommissionen
