@@ -4,9 +4,9 @@
 3 Fahransprüche bestehen unter folgenden Voraussetzungen:
 a. bei mobilitätsbehinderten Personen und bei Elternteilen mit mobilitätsbehinderten Kindern:
 1. vor Erreichen des AHV-Alters: massgebliches Einkommen höchstens Fr. 80 000 pro Jahr,
-2. danach: massgebliches Einkommen höchstens Fr. 50 000 pro Jahr,
+2. danach: massgebliches Einkommen höchstens Fr. 50000 pro Jahr,
 b. bei Ehepaaren und Personen in einer eingetragenen Partnerschaft, bei denen mindestens eine Person mobilitätsbehindert ist oder die ein mobilitätsbehindertes Kind haben:
-1. vor Erreichen des AHV-Alters: massgebliches Einkommen höchstens Fr. 100000 pro Jahr,
-2. danach: massgebliches Einkommen höchstens Fr. 59 000 pro Jahr.
+1. vor Erreichen des AHV-Alters: massgebliches Einkommen höchstens Fr. 100 000 pro Jahr,
+2. danach: massgebliches Einkommen höchstens Fr. 59000 pro Jahr.
 4 Für Ehepaare und Personen in einer eingetragenen Partnerschaft gilt Abs. 3 lit. b Ziff. 2, sobald beide Personen das AHV-Alter erreicht haben.
 5 Personen, die bereits vor Erreichen des AHV-Alters anspruchsberechtigt waren, behalten im AHV-Alter die Anspruchsberechtigung gemäss bisherigen Einkommens- und Vermögensgrenzen.
