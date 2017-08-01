@@ -1,6 +1,7 @@
 ## 1. Abschnitt: Allgemeines
 ## 2. Abschnitt: Das Arbeitsverhältnis
-## 3. Abschnitt: Rechte und Pflichten des Universitätspersonals
+## 3. Abschnitt: Rechte und Pflichten des Universitätspersonals und
+## der externen Lehrpersonen
 ## A. Lohn
 ## B. Übrige Rechte und Pflichten des Universitätspersonals
 ## C. Besondere Rechte und Pflichten der Professorinnen und Professoren
