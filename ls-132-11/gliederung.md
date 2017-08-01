@@ -4,7 +4,7 @@
 ## C. Steuerertrag und Steuerkraft
 ## D. Meldung von Daten
 ## E. Ausgleichsfaktoren
-## F. Verfahren
+## F. Ausgabenkompetenzen und Verfahren
 ## 2. Abschnitt: Instrumente des Finanzausgleichs
 ## A. Ressourcenausgleich
 ## B. Demografischer Sonderlastenausgleich
