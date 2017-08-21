@@ -1,2 +1,5 @@
 # § 27 j Bewertung
-Die Noten der fünf Prüfungsfächer setzen sich aus den Teilnoten der einzelnen Prüfungen zusammen. Sie werden auf ganze oder halbe Noten gerundet. Die Teilnoten der einzelnen Prüfungen werden ebenfalls in ganzen oder halben Noten ausgedrückt. Die Prüfungsnote ist das Mittel aus den Teilnoten der einzelnen Prüfungen.
+1 In den 13 Prüfungsteilen werden jeweils ganze oder halbe Noten gesetzt.
+2 Die Noten der neun Unterrichtsfächer werden nicht gerundet. Sie setzen sich aus dem Durchschnitt der Noten der jeweiligen Prüfungsteile zusammen.
+3 Die Noten der fünf Prüfungsfächer werden auf ganze oder halbe Noten gerundet. Sie setzen sich aus dem Durchschnitt der Noten der jeweiligen Unterrichtsfächer zusammen.
+4 Wer in einer zweiten Landessprache oder in Englisch ein international anerkanntes Sprachzertifikat auf mindestens Niveau B2 GER erworben hat, wird auf Antrag in diesem Fach vom Unterricht und von der Prüfung befreit. Die Umrechnung der im Sprachzertifikat nachgewiesenen Leistungen in die Prüfungsnote erfolgt nach Ziff. 4.2 der Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik vom 11. Mai 2012 der EDK.
