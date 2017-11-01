@@ -6,10 +6,11 @@
 ## 2. Abschnitt: Behandlung von Geschäften des Regierungsrates
 ## A. Sitzungsordnung
 ## B. Geschäfte
-## C. Vorbereitung von Geschäften
-## D. Verhandlung und Beschlussfassung
-## E. Protokoll und Ausfertigung
-## F. Geschäftskontrolle und Datenbanken
+## C. Elektronischer Geschäftsverkehr
+## D. Vorbereitung von Geschäften
+## E. Verhandlung und Beschlussfassung
+## F. Protokoll und Ausfertigung
+## G. Geschäftsverwaltungssystem
 ## 3. Abschnitt: Staatskanzlei
 ## 4. Abschnitt: Kommissionen und Vertretungen des Regierungsrates
 ## 2. Teil: Die Direktionen
