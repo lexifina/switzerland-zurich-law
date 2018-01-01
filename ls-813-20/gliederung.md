@@ -4,4 +4,3 @@
 ## D. Finanzierung von Behandlungen in weiteren Spitälern
 ## E. Weitere Bestimmungen
 ## F. Schlussbestimmungen
-## Pflegegesetz vom 27. September 2010 (LS 855.1): . . .
