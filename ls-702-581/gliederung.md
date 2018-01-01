@@ -6,4 +6,4 @@
 ## VI. Vorschriften für die IV. Zone
 ## VII. Ausnahmen, Rekurse, Strafbestimmungen
 ## Zonenplan zur Verordnung zum Schutze des Landschaftsbildes
-## beim Rheinfall vom 25. März 1994
+## beim Rheinfall vom 25. März 1954

@@ -1,5 +1,5 @@
 ## I. Materielle Grundsätze und Begriffe
-## 1. Quartierplangebiet (§ 124f. PBG)
+## 1. Quartierplangebiet (§ 124 f. PBG)
 ## 2. Baudenkmäler (§ 127 PBG)
 ## 3. Gestaltungsplan und Sonderbauvorschriften (§ 129 PBG)
 ## 4. Abzüge (§ 138 PBG)
