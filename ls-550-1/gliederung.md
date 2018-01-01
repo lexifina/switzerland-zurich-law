@@ -17,9 +17,10 @@
 ## anderen Gegenständen
 ## K. Polizeiliche Berichte zur Person und Personennachforschung
 ## 5. Abschnitt: Angehörige der Polizei
-## 6. Abschnitt: Gefahrenabwehr durch Private
+## 6. Abschnitt: Private Alarmanlagen
 ## 7. Abschnitt: Information, Datenbearbeitung und Datenschutz
 ## 8. Abschnitt: Haftung und Kostenersatz
 ## A. Haftung
 ## B. Kostenersatz
-## 9. Abschnitt: Schluss- und Übergangsbestimmungen
+## 9. Abschnitt: Private Sicherheitsdienstleistungen
+## 10. Abschnitt: Schluss- und Übergangsbestimmungen
