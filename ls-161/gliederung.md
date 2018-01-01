@@ -33,5 +33,13 @@
 ## D. Gemeinsame Bestimmungen
 ## 3. Abschnitt: Einzel- und Behördeninitiativen
 ## IV. Teil: Kantonales Referendum
-## V. Teil: Rechtsschutz und Strafbestimmungen
-## VI. Teil: Übergangs- und Schlussbestimmungen
+## V. Teil: Initiativen in Gemeinden und Zweckverbänden
+## 1. Abschnitt: Allgemeine Bestimmungen
+## 2. Abschnitt: Einzelinitiativen in Versammlungsgemeinden
+## 3. Abschnitt: Initiativen in Parlamentsgemeinden
+## 4. Abschnitt: Initiativen in Zweckverbänden
+## VI. Teil: Referenden in Gemeinden und Zweckverbänden
+## 1. Abschnitt: In Gemeinden
+## 2. Abschnitt: In Zweckverbänden
+## VII. Teil: Rechtsschutz und Strafbestimmungen
+## VIII. Teil: Übergangs- und Schlussbestimmungen
