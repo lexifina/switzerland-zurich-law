@@ -13,8 +13,9 @@
 ## 6. Abschnitt: Finanzausgleich
 ## A. Grundlagen
 ## B. Steuerkraftabschöpfung
-## C. Leistungen aus dem Finanzausgleichsfonds
-## 7. Abschnitt: Baubeiträge
+## C. Leistungen aus dem Finanzausgleich
+## 7. Abschnitt: Beiträge der Landeskirche
 ## A. Grundlagen
-## B. Verfahren
-## 8. Abschnitt: Schluss- und Übergangsbestimmungen
+## B. Beiträge an Gemeindezusammenschlüsse
+## 8. Abschnitt: Liegenschaften der Kirchgemeinden und der Landeskirche
+## 9. Abschnitt: Schluss- und Übergangsbestimmungen
