@@ -12,8 +12,8 @@
 ## L. Mitwirkung der Gemeinden
 ## M. Schlussbestimmungen
 ## Anhang 1
-## Zuständigkeit von Kanton und Gemeinden für Geobasisdaten
+## Geobasisdaten
 ## Anhang 2
-## Geobasisdaten des kantonalen Rechts in der Zuständigkeit
+## Geobasisdaten
 ## Anhang 3
 ## Anhang 4
