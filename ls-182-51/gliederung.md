@@ -1,5 +1,4 @@
 ## 1. Organisation
-## 2. Aufsicht
 ## 3. Rekurse
 ## 4. Aufträge der Synode
 ## 5. Inkrafttreten
