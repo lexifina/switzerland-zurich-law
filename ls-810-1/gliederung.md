@@ -3,7 +3,8 @@
 ## 1. Abschnitt: Allgemeine Bestimmungen
 ## A. Bewilligungs- und anzeigepflichtige Berufstätigkeiten
 ## B. Berufsausübung
-## C. Besondere Aufgaben
+## C. Notfalldienst
+## D. Besondere Aufgaben
 ## 2. Abschnitt: Die bewilligungspflichtigen Berufe im Einzelnen
 ## 3. Teil: Spitäler, Pflegeheime und andere Institutionen
 ## des Gesundheitswesens
