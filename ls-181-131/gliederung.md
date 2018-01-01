@@ -10,11 +10,9 @@
 ## C. Fonds
 ## D. Ausgaben
 ## E. Einnahmen
-## F. Jahresrechnung
-## G. Rechnungsführung
-## H. Prüfung
+## G. Prüfung
 ## 6. Abschnitt: Finanzausgleich
 ## 7. Abschnitt: Beiträge
-## A. Beiträge der Landeskirche
-## B. Baubeiträge
-## 8. Abschnitt: Übergangs- und Schlussbestimmungen
+## B. Beiträge an Gemeindezusammenschlüsse
+## 8. Abschnitt: Liegenschaften der Kirchgemeinden
+## 9. Abschnitt: Übergangs- und Schlussbestimmungen
