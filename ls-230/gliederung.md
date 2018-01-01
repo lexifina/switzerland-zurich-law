@@ -2,7 +2,7 @@
 ## D. Das Betreibungsamt
 ## E. Verwaltungsbehörden
 ## I. Zivilstandsamt
-## II. Gemeinderat
+## II. Gemeindevorstand
 ## III. Bezirksrat
 ## IV. Handelsregisteramt
 ## V. Polizei
@@ -35,7 +35,7 @@
 ## VII. Enteignungsähnliche Beschränkungen
 ## D. Inhalt der einzelnen Dienstbarkeiten
 ## E. Grundpfandrechtliche Bestimmungen
-## F. Vorschriften über das Pfandleihgewerbe und die Kreditgeber
+## F.Vorschriften über das Pfandleihgewerbe und die Kreditgeber
 ## und -vermittler
 ## G. Grundbuchwesen
 ## Fünfter Abschnitt: Obligationenrecht
