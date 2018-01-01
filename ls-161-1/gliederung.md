@@ -12,4 +12,5 @@
 ## 10. Weitere Wahlen
 ## III. Teil: Kantonale Initiativen
 ## IV. Teil: Kantonales Referendum
-## V. Teil: Straf- und Schlussbestimmungen
+## V. Teil: Volksinitiativen in Zweckverbänden
+## VI. Teil: Straf- und Schlussbestimmungen
