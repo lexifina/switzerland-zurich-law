@@ -3,12 +3,11 @@
 ## 1. Abschnitt: Zustellung der Entscheide und Vorprüfung
 ## 2. Abschnitt: Vorzeitiger Straf- und Massnahmenvollzug
 ## 3. Abschnitt: Geldstrafen und Bussen
-## 4. Abschnitt: Gemeinnützige Arbeit
-## 5. Abschnitt: Freiheitsstrafen und Verwahrungen
+## 4. Abschnitt: Freiheitsstrafen und Verwahrungen
 ## A. Vollzugsformen
 ## B. Einleitung des Vollzugs
 ## C. Durchführung und Beendigung des Vollzugs
-## 6. Abschnitt: Therapeutische Massnahmen
+## 5. Abschnitt: Therapeutische Massnahmen
 ## A. Einleitung des Vollzugs
 ## B. Durchführung und Beendigung
 ## 3. Teil: Vollzug von Freiheitsstrafen und stationären Massnahmen
