@@ -4,6 +4,6 @@
 ## II. Organe des Universitätsspitals
 ## C. Personal
 ## D. Mittel
-## E. Finanzhaushalt und Rechnungsführung
+## E. Rechnungslegung und Rechnungsführung
 ## F. Rechtspflege
 ## G. Schluss- und Übergangsbestimmungen
