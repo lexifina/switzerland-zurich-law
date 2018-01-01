@@ -1,0 +1,2 @@
+# 3.4 Nettoschuld I pro Einwohnerin und Einwohner
+Nettoschuld I pro Einwohnerin und Einwohner (in Fr.) = Nettoschuld I Einwohnerbestand Die Nettoschuld I wird aus den Beträgen der folgenden Sachgruppen der Bilanz gemäss Anhang 1 Ziff. 2 berechnet: Nettoschuld I pro Einwohnerin und Einwohner (in Fr.) = (20 – 10) Einwohnerbestand Der Einwohnerbestand richtet sich nach der Einwohnerzahl gemäss § 8 lit. e des Finanzausgleichsgesetzes vom 12. Juli 2010 und § 1 FAV.

@@ -1,0 +1,2 @@
+# Öffentliche Ordnung und Sicherheit
+11 Öffentliche Sicherheit 111 Polizei 112 Verkehrssicherheit 12 Rechtsprechung 120 Rechtsprechung 14 Allgemeines Rechtswesen 140 Allgemeines Rechtswesen 1408 Regionales Zivilstandsamt 1409 Regionales Gemeindeammann- und Betreibungsamt 15 Feuerwehr 150 Feuerwehr 1509 Regionale Feuerwehrorganisation 16 Verteidigung 161 Militärische Verteidigung 162 Zivile Verteidigung 1620 Zivilschutz 1621 Ziviler Gemeindeführungsstab 1629 Regionale Zivilschutzorganisation

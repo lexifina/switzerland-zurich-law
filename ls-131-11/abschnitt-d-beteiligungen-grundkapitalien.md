@@ -1,0 +1,2 @@
+# D. Beteiligungen, Grundkapitalien
+Beteiligungen – –

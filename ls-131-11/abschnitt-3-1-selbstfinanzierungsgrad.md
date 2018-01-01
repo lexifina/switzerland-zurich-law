@@ -1,0 +1,2 @@
+# 3.1 Selbstfinanzierungsgrad
+Selbstfinanzierungsgrad (in %) = Selbstfinanzierung × 100 Nettoinvestitionen Der Selbstfinanzierungsgrad wird aus den Beträgen der folgenden Sachgruppen der Erfolgs- und der Investitionsrechnung gemäss Anhang 1 Ziff. 2 berechnet: Selbstfinanzierungsgrad (in %) = (9000 – 9001 + 33 + 35 – 45 + 364 + 365 + 366 + 389 – 489 – 4490) × 100 50 + 51 + 52 + 54 + 55 + 56 – 60 – 61 – 62 – 63 – 64 – 65 – 66

@@ -1,0 +1,2 @@
+# Gesundheit
+41 Spitäler, Kranken- und Pflegeheime 411 Spitäler 412 Kranken-, Alters- und Pflegeheime 4125 Pflegefinanzierung Kranken-, Alters- und Pflegeheime 413 Psychiatrische Kliniken 42 Ambulante Krankenpflege 421 Ambulante Krankenpflege 4215 Pflegefinanzierung ambulante Krankenpflege (Spitex) 422 Rettungsdienste 43 Gesundheitsprävention 431 Alkohol- und Drogenprävention 432 Krankheitsbekämpfung, übrige 433 Schulgesundheitsdienst 434 Lebensmittelkontrolle 49 Gesundheitswesen, Übriges 490 Gesundheitswesen, Übriges
