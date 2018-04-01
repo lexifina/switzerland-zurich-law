@@ -2,7 +2,8 @@
 ## 2. Abschnitt: Grundzüge der Organisation
 ## A. Kantonale kirchliche Körperschaften
 ## B. Kirchgemeinden
-## C. Rechtsschutz
+## C. Wahlen und Abstimmungen an der Urne
+## D. Rechtsschutz
 ## 3. Abschnitt: Finanzen
 ## A. Staatliche Leistungen
 ## B. Steuern natürlicher und juristischer Personen

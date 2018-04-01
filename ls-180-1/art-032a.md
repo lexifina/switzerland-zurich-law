@@ -1,0 +1,4 @@
+# § 32 a Umnutzung kirchlicher Liegenschaften
+1 Die Direktion verzichtet in der Regel auf Rechte und Forderungen des Kantons aus einem Vertrag betreffend die Übertragung einer kirchlichen Liegenschaft, wenn diese nach der Umnutzung einem gemeinnützigen Zweck dient.
+2 Weisen bei kirchlichen Liegenschaften im Eigentum der Kirchgemeinden Verträge und Anmerkungen im Grundbuch die Befugnis zur Bewilligung von Zweckänderungen oder Veräusserungen dem Regierungsrat zu, ist dafür die Exekutive der betreffenden kantonalen kirchlichen Körperschaft zuständig.
+3 Hat sich eine Kirchgemeinde beim Erwerb einer kirchlichen Liegenschaft vom Kanton verpflichtet, diesem im Falle einer Zweckänderung oder Veräusserung der Liegenschaft eine Zahlung zu leisten, erlischt diese Zahlungspflicht entsprechend der vertraglichen Vereinbarung, spätestens jedoch 20 Jahre nach dem Erwerb der Liegenschaft.
