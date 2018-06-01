@@ -5,7 +5,7 @@
 4. Filmwesen
 5. Gemeindewesen einschliesslich Finanz- und Lastenausgleich
 6. Bezirkswesen
-7. Zivilstands- und Bürgerrechtswesen
+7. Zivilstands-, Bürgerrechts- sowie Meldewesen und Einwohnerregister
 8. Handelsregister
 9. Statistik
 10. Archivwesen
