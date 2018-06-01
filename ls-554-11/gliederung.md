@@ -1,10 +1,7 @@
-## I. Allgemeines
-## II. Tierhaltungen
-## a. Nutztierhaltungen
-## b. Wildtierhaltungen
-## c. Handel mit Tieren
-## d. Versuchstierhaltungen
-## III. Tierversuche
-## IV. Sportanlässe mit Tieren
-## V. Parteirechte in Strafverfahren
-## VI. Schlussbestimmung
+## A. Allgemeines
+## B. Tierhaltungen
+## C. Gutachten nach § 3 Abs. 4 des Kantonalen Tierschutzgesetzes
+## D. Tierversuche
+## E. Sportanlässe mit Tieren
+## F. Parteirechte in Strafverfahren
+## G. Schlussbestimmung
