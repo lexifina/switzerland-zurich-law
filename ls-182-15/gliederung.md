@@ -2,6 +2,7 @@
 ## I. Entschädigung und Spesen der Synodalen
 ## II. Entschädigung der Fraktionen
 ## III. Freier Kredit
-## B. Synodalrat
+## B. Synodalrat und Kommissionen
+## I. Entschädigung Synodalrat
+## II. Entschädigung Kommissionen
 ## C. Rekurskommission
-## D. Schlussbestimmungen
