@@ -1,9 +1,10 @@
 ## A. Allgemeines
-## B. Verträge über die Forschungs- und Lehrleistungen
+## B. Organisation UMZH
+## C. Verträge über die Forschungs- und Lehrleistungen
 ## I. Grundlagen
 ## II. Abschluss
 ## III. Inhalt
-## C. Personal
-## D. Lehrstühle
-## E. Organisationseinheiten
-## F. Schlussbestimmung
+## D. Personal
+## E. Lehrstühle
+## F. Organisationseinheiten
+## G. Schlussbestimmung
