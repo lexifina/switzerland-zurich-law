@@ -1,6 +1,6 @@
 # § 5 c b. Berufsorientierte Weiterbildung
-15 1 Kantonale Schulen und Bildungseinrichtungen, die im Auftrag des Kantons Berufsfachschul- oder Berufsmaturitätsunterricht oder überbetriebliche Kurse durchführen, können berufsorientierte Weiterbildung gemäss § 37 Abs. 1 lit. c EG BBG anbieten.
-2 Werden solche Angebote vom Amt bewilligt, richtet es eine Lektionenpauschale von Fr. 7 pro Teilnehmerin oder Teilnehmer aus.
+1 Schulen und Bildungseinrichtungen, die im Auftrag des Kantons Berufsfachschul- oder Berufsmaturitätsunterrichts durchführen, können berufsorientierte Weiterbildung gemäss § 37 Abs. 1 lit. c EG BBG anbieten.
+2 Das Amt richtet für bewilligte Angebote pro Teilnehmerin oder Teilnehmer eine Lektionenpauschale von Fr. 7 für höchstens 500 Lektionen aus.
 3 Das Amt kann bewilligen:
 a. Angebote, welche die berufliche Qualifikation erweitern oder erhalten (Förderung der berufsorientierten Fachkompetenz),
 b. Angebote, die der Herstellung, Erhaltung oder Verbesserung der Arbeitsmarktfähigkeit dienen, wie Angebote in den Bereichen Arbeitstechnik, Präsentation, Rhetorik, Projektmanagement oder Informations- und Kommunikationstechnologien (Förderung der überfachlichen Kompetenzen),
