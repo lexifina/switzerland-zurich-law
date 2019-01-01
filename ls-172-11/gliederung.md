@@ -15,5 +15,6 @@
 ## 4. Abschnitt: Kommissionen und Vertretungen des Regierungsrates
 ## 2. Teil: Die Direktionen
 ## 3. Teil: Koordinationsorgane der Direktionen
-## 4. Teil: Schlussbestimmung
+## 4. Teil: Aufsicht über die Bezirksverwaltung und die Gemeinden
+## 5. Teil: Schlussbestimmung
 ## Anhang 3: Selbstständige Entscheidkompetenzen
