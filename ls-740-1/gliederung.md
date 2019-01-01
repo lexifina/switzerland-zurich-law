@@ -3,4 +3,5 @@
 ## III. Beitragsleistungen nach den Bestimmungen des Bundesrechtes
 ## IV. Verkehrsverbund des Kantons Zürich
 ## V. Verkehrsfonds
-## VI. Übergangs- und Schlussbestimmungen
+## VI. Bahninfrastrukturfonds
+## VII. Übergangs- und Schlussbestimmungen
