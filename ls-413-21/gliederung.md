@@ -8,7 +8,8 @@
 ## C. Schülerinnen und Schüler
 ## D. Eltern
 ## E. Schulbetrieb
-## F. Finanzen
+## F. Ausgleich behinderungsbedingter Erschwernisse
+## G. Finanzen
 ## 3. Teil: Nichtstaatliche Mittelschulen
 ## 4. Teil: Rechtspflege
 ## 5. Teil: Schluss- und Übergangsbestimmungen
