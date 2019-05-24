@@ -1,2 +1,2 @@
-# Verordnung des Obergerichtes über das Verfahren bei freiwilligen öffentlichen Versteigerungen
+# Verordnung des Obergerichts über das Verfahren bei freiwilligen öffentlichen Versteigerungen
 (vom 19. Dezember 1979) Das Obergericht, gestützt auf Art. 236 des Schweizerischen Obligationenrechts (OR) vom 30. März 1911, § 223 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG zum ZGB) vom 2. April 1911, § 87 des Gemeindegesetzes vom 6. Juni 1926, §§ 76 Abs. 2 und 80 Abs. 2 des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess (GOG) vom 10. Mai 2010, beschliesst:
