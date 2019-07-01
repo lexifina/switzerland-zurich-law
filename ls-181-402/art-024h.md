@@ -1,0 +1,6 @@
+# § 24 h c. Ermittlung des Ergebnisses
+1 Die Stellenprozente der gewählten Pfarrerinnen und Pfarrer dürfen die insgesamt der Kirchgemeinde zur Verfügung stehenden Stellenprozente nicht übersteigen.
+2 Gewählt sind jene Pfarrerinnen und Pfarrer, die mehr Ja-Stimmen als Nein-Stimmen erhalten haben.
+3 Findet für mindestens zwei Pfarrerinnen oder Pfarrer eine Wahl statt und übersteigen die Stellenprozente aller gewählten Pfarrerinnen und Pfarrer die insgesamt der Kirchgemeinde zur Verfügung stehenden Stellenprozente, so fallen jene Pfarrerinnen und Pfarrer als überzählig aus der Wahl, die bei der Wahl an der Urne am wenigsten Ja-Stimmen erhalten haben.
+4 Findet gemäss § 24 f Abs. 1 lit. b nur für eine Pfarrerin oder einen Pfarrer eine Wahl statt, so ist sie oder er mit den Stellenprozenten gemäss § 24 d Abs. 3 gewählt, sofern die Stellenprozente der gewählten Pfarrerinnen und Pfarrer insgesamt die der Kirchgemeinde zur Verfügung stehenden Stellenprozente nicht übersteigen. Andernfalls ist sie oder er mit den der Kirchgemeinde gemäss Art. 117 Abs. 1 und 2 KO zugeteilten, noch nicht durch eine Wahl besetzten Stellenprozenten, mindestens aber mit 30 Stellenprozent gewählt.
+5 Bleiben Stellenprozente unbesetzt, so findet eine Wahl gemäss §§ 5–24 statt.

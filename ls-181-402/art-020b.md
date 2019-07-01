@@ -1,0 +1,3 @@
+# § 20 b f. Urnenwahl
+1 Erfolgt die Wahl gemäss Art. 124 Abs. 1 KO an der Urne, so gilt der zustimmende Beschluss der Kirchgemeindeversammlung oder des Kirchgemeindeparlaments als Vorschlag zuhanden der Urnenwahl.
+2 In der Urnenwahl werden die Stimmberechtigten gefragt, ob sie die vorgeschlagene Person wählen wollen. Sie können mit Ja oder Nein antworten oder sich der Stimme enthalten. Stimmen für andere als auf dem Wahlzettel aufgeführte Personen und die Wiederholung des gleichen Namens sind ungültig. Die vorgeschlagene Person ist gewählt, wenn sie mehr Ja-Stimmen als Nein-Stimmen erhalten hat.
