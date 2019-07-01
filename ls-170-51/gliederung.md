@@ -11,5 +11,3 @@
 ## 5. Abschnitt: Verwertung durch Dritte
 ## 6. Abschnitt: Einsichtnahmestelle
 ## 7. Abschnitt: Übergangsbestimmung
-## Anhang
-## C. Amtsblatt
