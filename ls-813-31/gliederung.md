@@ -18,4 +18,5 @@
 
 ## Anhang 2
 ## Anhang 3
-## Begriffsdefinitionen für Jahresbericht (§ 46 Abs. 2)
+## Begriffsdefinitionen für Jahresbericht
+## (§§ 26b Abs. 2 und 46 Abs. 2)8
