@@ -9,7 +9,8 @@
 ## 2. Abschnitt: Schulbetrieb
 ## A. Inhalt
 ## B. Organisation
-## C. Beurteilung und Promotion
+## C. Tagesstrukturen
+## D. Beurteilung und Promotion
 ## 3. Abschnitt: Organisation und Organe
 ## 4. Abschnitt: Qualitätssicherung
 ## 5. Abschnitt: Stellung der Schülerinnen und Schüler sowie der Eltern
