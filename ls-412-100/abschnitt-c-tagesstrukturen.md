@@ -1,0 +1,2 @@
+# C. Tagesstrukturen
+Grundsatz

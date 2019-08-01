@@ -9,7 +9,7 @@
 ## 2. Abschnitt: Schulbetrieb
 ## A. Inhalt
 ## B. Organisation
-## C. Beurteilung und Promotion
+## D. Beurteilung und Promotion
 ## 3. Abschnitt: Sonderpädagogische Massnahmen
 ## 4. Abschnitt: Organisation und Organe
 ## 5. Abschnitt: Qualitätssicherung
