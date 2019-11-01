@@ -59,10 +59,11 @@
 ## Baulinien gesicherten Anlagen
 ## 3. Grenzabstände von Nachbargrundstücken
 ## 4. Gebäudeabstände
-## IV. Geschosse, Gebäude- und Firsthöhen
-## 1. Geschosse
-## 2. Gebäude- und Firsthöhen
-## 3. Hochhäuser
+## IV. Geschosse, Kniestockhöhe, Fassadenhöhe und Gesamthöhe
+## 1. Geschosse und Kniestockhöhe
+## 2. Fassadenhöhe
+## 3. Gesamthöhe
+## 4. Hochhäuser
 ## V. Die offene und die geschlossene Überbauung
 ## VI. Weitere Bestimmungen über die Erscheinung von Gebäuden
 ## D. Anforderungen an Gebäude und Räume
@@ -88,3 +89,8 @@
 ## G über die Unterstellung der Steuerrekurskommissionen
 ## und der Baurekurskommissionen unter das Verwaltungsgericht
 ## vom 13. September 2010 (OS 65, 960)
+## Anhang
+## IV. Geschosse, Gebäude- und Firsthöhen
+## 1. Geschosse
+## 2. Gebäude- und Firsthöhen
+## 3. Hochhäuser
