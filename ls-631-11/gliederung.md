@@ -23,5 +23,4 @@
 ## Zweiter Abschnitt: Grundsteuern
 ## Dritter Teil: Steuerstrafrecht
 ## Vierter Teil: Schlussbestimmungen
-## Erster Abschnitt: Wechsel der zeitlichen Bemessung
 ## Zweiter Abschnitt: Übergangsbestimmungen
