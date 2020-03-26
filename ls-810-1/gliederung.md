@@ -11,7 +11,10 @@
 ## 1. Abschnitt: Allgemeine Bestimmungen
 ## 3. Abschnitt: Krankentransport- und Rettungswesen
 ## 4. Teil: Heilmittel, Lebensmittel und Chemikalien
-## 5. Teil: Gesundheitsförderung und Prävention
+## 5. Teil: Gesundheitsförderung, Prävention und Bekämpfung
+## übertragbarer Krankheiten
+## 1. Abschnitt: Gesundheitsförderung und Prävention
+## 2. Abschnitt: Bekämpfung übertragbarer Krankheiten
 ## 6. Teil: Bestattungswesen
 ## 7. Teil: Schlussbestimmungen
 ## 1. Abschnitt: Vollzug
