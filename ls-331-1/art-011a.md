@@ -1,4 +1,4 @@
-# § 11 a f. Vollzugseinrichtungen Zürich
+# § 11 a g. Vollzugseinrichtungen Zürich
 1 Die Hauptabteilung Vollzugseinrichtungen Zürich umfasst die vom Amt bezeichneten Gefängnisse und Vollzugseinrichtungen, in denen hauptsächlich kürzere Freiheitsstrafen im Normalvollzug oder in Halbgefangenschaft sowie ausländerrechtliche Haft vollzogen werden. Die einzelnen Gefängnisse und Vollzugseinrichtungen werden je von einer Leiterin oder einem Leiter geführt.
 2 In diese Gefängnisse und Vollzugseinrichtungen werden aufgenommen:
 a. Verurteilte zum Vollzug einer Freiheitsstrafe oder Reststrafe von längstens 18 Monaten,

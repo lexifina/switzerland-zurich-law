@@ -1,4 +1,4 @@
-## 1. Teil: Amt für Justizvollzug
+## 1. Teil: Amt
 ## 2. Teil: Vollzugsverfahren
 ## 1. Abschnitt: Zustellung der Entscheide und Vorprüfung
 ## 2. Abschnitt: Vorzeitiger Straf- und Massnahmenvollzug
