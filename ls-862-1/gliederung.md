@@ -3,8 +3,9 @@
 ## III. Versicherungspflicht
 ## IV. Versicherte Schäden
 ## V. Schätzung und Versicherungswerte
-## VI. Prämien und Reservefonds
-## VII. Ermittlung des Schadens
-## VIII. Vergütung des Schadens
-## IX. Rechtsschutz
-## X. Schluss- und Übergangsbestimmungen
+## VI. Prävention
+## VII. Prämien und Reservefonds
+## VIII. Ermittlung des Schadens
+## IX. Vergütung des Schadens
+## X. Rechtsschutz
+## XI. Schluss- und Übergangsbestimmungen
