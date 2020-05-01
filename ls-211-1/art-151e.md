@@ -1,0 +1,2 @@
+# § 151 e Zugriff auf Daten der Statthalterämter, Übertretungsstrafbehörden der Gemeinden und Polizeien
+Die Statthalterämter und die Polizeien sowie die Übertretungsstrafbehörden der Gemeinden und die Polizeien gewähren sich gegenseitig direkten elektronischen Zugriff auf Daten, einschliesslich Personendaten und besonderer Personendaten, von hängigen und abgeschlossenen Verfahren. Der Zugriff der berechtigten Amtsstelle ist auf die für ihre Aufgabenerfüllung notwendigen Daten beschränkt.
