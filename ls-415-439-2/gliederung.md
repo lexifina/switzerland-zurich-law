@@ -1,2 +1,2 @@
-## Pos.Nr.
-## Pos.Nr.
+## Pos.-Nr.
+## Pos.-Nr.
