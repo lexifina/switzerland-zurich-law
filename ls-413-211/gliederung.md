@@ -5,5 +5,6 @@
 ## b. Klassenkonvent
 ## 4. Eltern
 ## 5. Schulbetrieb
-## 6. Finanzen
-## 7. Übergangs- und Schlussbestimmungen
+## 6. Absenzen, Dispensationen und Jokertage
+## 7. Finanzen
+## 8. Übergangs- und Schlussbestimmungen
