@@ -28,7 +28,8 @@
 27. Betriebseinrichtungen (Installationen, BKP-Nr. 3) 20
 28. Umgebung (BKP-Nr. 4) 20 Anlagekategorien Nutzungsdauern Mindest- erweiterter standard Standard
 29. Mietliegenschaften; bauliche Anpassungen bei unbefristetem 15 Mietverhältnis
-30. Mietliegenschaften; bauliche Anpassungen bei befristetem ~ Mietverhältnis gemäss Mietvertrag
+30. Mietliegenschaften; bauliche Anpassungen bei befristetem
+– Mietverhältnis gemäss Mietvertrag
 31. Kommunale Wohn- und Gewerbeliegenschaften 33
 32. Kommunale Wohn- und Gewerbeliegenschaften bei Führung gem. § 23 eines Liegenschaftenfonds gemäss § 8 Abs. 3 WBFV
 33. Waldungen 40
