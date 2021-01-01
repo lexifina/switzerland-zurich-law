@@ -7,7 +7,7 @@
 6. Erbschaften und Zuwendungen Dritter
 7. Salzregal
 8. Aufsicht über den Gebührenbezug der Notariate
-9. Lotteriefonds
+9. Gemeinnütziger Fonds
 10. Zentrales Personalwesen
 11. Personalvorsorge
 12. Zentrale Beschaffung von Drucksachen und Material
