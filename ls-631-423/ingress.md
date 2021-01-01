@@ -1,0 +1,2 @@
+# Verordnung der Finanzdirektion über die Steuerfreibeträge von quellensteuerpflichtigen Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+(vom 10. September 2020) Die Finanzdirektion, gestützt auf §§ 3, 6, 9 und 12 der Verordnung über die Quellensteuer für natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz vom 2. Februar 1994, verfügt:
