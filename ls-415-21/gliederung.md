@@ -14,5 +14,6 @@
 ## E. Urheberrechtlich geschützte Werke
 ## F. Vollzug
 ## 5. Abschnitt: Vorsorgeeinrichtung
-## 6. Abschnitt: Personalkommission
+## 6. Abschnitt: Personalkommission sowie Beratungs- und
+## Schlichtungsstelle
 ## 7. Abschnitt: Übergangsbestimmung
