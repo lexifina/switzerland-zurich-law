@@ -1,0 +1,2 @@
+# und Arbeitnehmer
+Der Anhang zur Verordnung über die Tarife für quellensteuerpflichtige Arbeitnehmerinnen und Arbeitnehmer (Quellensteuertarife A, B, C, G und H) wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann beim Kantonales Steueramt Zürich Division Quellensteuer Bändliweg 21 Postfach 8090 Zürich bezogen oder unter www.steueramt.zh.ch eingesehen werden.
