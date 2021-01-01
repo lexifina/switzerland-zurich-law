@@ -15,9 +15,10 @@
 ## Personen
 ## A. Natürliche Personen mit steuerrechtlichem Wohnsitz oder
 ## Aufenthalt im Kanton
-## B. Natürliche und juristische Personen ohne steuerrechtlichen
-## Wohnsitz oder Aufenthalt in der Schweiz
-## C. Erhebung der Quellensteuer im interkantonalen Verhältnis
+## B. Natürliche Personen ohne steuerrechtlichen Wohnsitz
+## oder Aufenthalt in der Schweiz sowie juristische Personen
+## ohne Sitz oder tatsächliche Verwaltung in der Schweiz
+## C. Örtliche Zuständigkeit
 ## Fünfter Abschnitt: Verfahrensrecht
 ## A. Steuerverwaltungsbehörden
 ## B. Steuerrekursgericht

@@ -1,3 +1,0 @@
-# § 100 a VIII. Empfänger von Mitarbeiterbeteiligungen
-1 Personen, die im Zeitpunkt des Zuflusses von geldwerten Vorteilen aus gesperrten Mitarbeiteroptionen (§ 17 b Abs. 3) im Ausland wohnhaft sind, werden für den geldwerten Vorteil anteilmässig nach § 17 d steuerpflichtig.
-2 Die Steuer beträgt 20 Prozent des geldwerten Vorteils.
