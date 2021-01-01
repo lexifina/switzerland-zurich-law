@@ -1,6 +1,6 @@
 # 1. Justiz und Inneres
 1.1 Verwaltungseinheiten mit Amtsstruktur
-a. Amt für Justizvollzug
+a. Justizvollzug und Wiedereingliederung
 b. Oberstaatsanwaltschaft und Staatsanwaltschaften (Strafverfolgung Erwachsene)
 c. Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafrechtspflege)
 d. Gemeindeamt
