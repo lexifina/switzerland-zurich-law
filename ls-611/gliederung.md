@@ -18,6 +18,5 @@
 ## III. Konsolidierte Rechnung
 ## IV. Bilanzierung und Bewertung
 ## E. Zuständigkeiten
-## F. Lotteriefonds und Sportfonds
-## G. Schlussbestimmungen
+## F. Schlussbestimmungen
 ## Übergangsbestimmungen zum Inkraftsetzungsbeschluss
