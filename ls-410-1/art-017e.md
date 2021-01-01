@@ -1,0 +1,2 @@
+# § 17 e Beitragsdauer
+1 Beiträge werden für die minimale Ausbildungsdauer zuzüglich eines Jahres ausgerichtet. Beträgt die minimale Ausbildungsdauer weniger als zwei Jahre, werden die Beiträge nur für die minimale Ausbildungsdauer ausgerichtet. Wer nach Erfüllung der Schulpflicht während zwölf Jahren in Ausbildung stand, erhält keine Beiträge mehr. Die Zeit, während der die auszubildende Person erwerbstätig war oder eigene Kinder betreute und keine Beiträge bezog, wird nur zur Hälfte angerechnet.
