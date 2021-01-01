@@ -1,0 +1,2 @@
+# Eigenleistung
+3.1.1 Vollzeitstudierende (ab 19. Altersjahr) 3 000 3.1.2 Vollzeitstudierende mit Berücksichtigung 20 000 einer erhöhten Eigenleistung (§ 17 i BiG) Fr./Jahr 3.1.3 Teilzeitstudierende 36 000 (nach zumutbarem Erwerbspensum, Basis: 100%) mindestens Fr. 3 000 3.1.4 Teilzeitstudierende mit Berücksichtigung 36 000 einer erhöhten Eigenleistung (§ 17 i BiG; nach zumutbarem Erwerbspensum, Basis: 100%) mindestens Fr. 20 000
