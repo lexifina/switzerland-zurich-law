@@ -1,0 +1,2 @@
+# 6. Querschnittsfächer: Biomedizinische Ethik und Medizingeschichte;
+Biomedizinische Technik; Chiropraktik, Diagnostische und Interventionelle Radiologie; Epidemiologie, Biostatistik und Prävention; Evolutionäre Medizin; Klinische Chemie; Labortierkunde; Medizinische Genetik; Medizinische Molekulargenetik; Medizinische Mikrobiologie; Medizinische Virologie; Nuklearmedizin; Pathologie und Molekularpathologie; Quantitative Biomedizin (MNF); Radio-Onkologie; Rechtsmedizin; Regenerative Medizin

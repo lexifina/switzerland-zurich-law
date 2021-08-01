@@ -1,0 +1,2 @@
+# 3. Internistische Fächer: Angiologie; Dermatologie; Endokrinologie,
+Diabetologie und Klinische Ernährung; Gastroenterologie und Hepatologie; Geriatrie; Hämatologie und Onkologie; Hausarztmedizin; Infektiologie und Spitalhygiene; Innere Medizin; Kardiologie; Klinische Immunologie; Klinische Pharmakologie und Toxikologie; Komplementäre und Integrative Medizin; Nephrologie; Pneumologie; Rheumatologie
