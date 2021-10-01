@@ -1,2 +1,2 @@
-# Gesetz über die Finanzierung von Massnahmen für den Natur- und Heimatschutz und für Erholungsgebiete
+# Natur- und Heimatschutzfondsgesetz (NHFG)4
 (vom 17. März 1974)
