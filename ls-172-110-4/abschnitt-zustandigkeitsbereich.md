@@ -1,19 +1,18 @@
 # Zuständigkeitsbereich
-Amt für Verkehr (AFV)
+Amt für Mobilität (AFM)
 – Amtsleitung
 – Stab
-– Personal
-– Finanzen und Controlling
-– Gesamtverkehr
-– Flughafen/Luftverkehr
-– Infrastrukturplanung Amt für Wirtschaft und Arbeit (AWA)
+– Personal und Dienste
+– Kommunikation
+– Mobilitätsentwicklung- und -steuerung
+– Gesamtmobilität
+– Verkehrsplanung
+– Flughafen und Luftverkehr Amt für Wirtschaft und Arbeit (AWA)
 – Amtsleitung
 – Stab
-– Finanzen und Controlling
+– Personal und Organisation
+– Kommunikation
 – Standortförderung
 – Arbeitsbedingungen
 – Arbeitsmarkt
-– Leistungen der Arbeitslosenversicherung
-– Personal und Dienste
-– Fachstelle Wohnbau- förderung
-– Wirtschaftliche Landes- versorgung
+– Arbeitslosenversicherung und Arbeitslosenkasse
