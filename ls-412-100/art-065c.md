@@ -1,3 +1,6 @@
-# § 65 c Kosten der Auszeit
-42 1 Die Gemeinden tragen die Kosten.
-2 Sie können von den Eltern Beiträge an die Verpflegungskosten erheben.
+# § 65 c f. Subventionen
+1 Die Direktion kann für Projekte im Rahmen der Sonderschulung Subventionen gewähren, die insbesondere
+a. die Qualitätsentwicklung und -sicherung der Angebote fördern,
+b. der Angebotsentwicklung und -erprobung dienen,
+c. die Weiterentwicklung von Fach- und Methodenkompetenz unterstützen.
+2 Die Subventionen können bis zur Höhe der ungedeckten Kosten der Projekte ausgerichtet werden.

@@ -1,3 +1,5 @@
-# § 65 d Schulgeld an Besonderen Schulen
-1 Die Wohngemeinde der Eltern trägt die Kosten der Schulung an einer Besonderen Schule gemäss § 14.
-2 Die Trägergemeinde legt die Höhe des Schulgeldes fest.
+# § 65 d g. Bauvorhaben und Anschaffungen
+1 Die Direktion kann Trägerschaften von Sonderschulen Kostenanteile an Bauvorhaben und Anschaffungen bis zur Höhe der anerkannten Ausgaben ausrichten, wenn deren Leistungen
+a. für die Versorgung erforderlich sind und
+b. die Aufnahme von Fremdkapital nicht möglich ist.
+2 Kanton und Gemeinden tragen die Kostenanteile gemäss den in
