@@ -6,6 +6,6 @@ c. Bewilligungen gestützt auf § 68 des Volks- schulgesetzes (VSG) vom 7. Febru
 d. Anordnungen im Zusammenhang mit der Aufsicht über die Privatschulen und den Privatunterricht gestützt auf § 70 VSG,
 e. Anerkennung von Kursen in heimatlicher Sprache und Kultur gestützt auf § 15 VSG,
 f. Bewilligung von Lehrerstellen an Durch- gangszentren für Asylsuchende gestützt auf § 62 Abs. 3 VSG,
-g. Beitragsberechtigung von Sonderschulen und Schulheimen gemäss § 65 Abs. 1 VSG,
+g. Beitragsberechtigung von Spitalschulen gemäss § 62 a VSG, § 31 Abs. 4 des Mittelschulgesetzes vom 13. Juni 1999 und § 36 a Abs. 3 des Einführungs- gesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008,
 h. Aufsicht sowie aufsichtsrechtliche Anord- nungen und Massnahmen gegenüber den Gemeinden gestützt auf § 73 VSG,
 i. Anordnungen im Zusammenhang mit dem Schulort, der Kostenpflicht und der Höhe des Schulgeldes gestützt auf § 12 VSG. 6.4 Amt für Jugend und Berufsberatung Anordnungen im Aufgabenbereich des Adoptionswesens.
