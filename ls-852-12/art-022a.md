@@ -7,3 +7,4 @@ c. sich in der Ausbildung zu einem Abschluss gemäss Abs. 1 lit. a oder b befind
 19. Dezember 2018/ 7. Januar 2019 entschädigt:
 a. eine Stunde pro Erstberatung gemäss § 13 zuzüglich Wegpauschale,
 b. höchstens drei Stunden pro Massnahme gemäss § 17 zuzüglich Wegpauschale.
+3 Das Amt entschädigt Dolmetscherinnen und Dolmetscher in Gebärdensprache nach Vereinbarung.
