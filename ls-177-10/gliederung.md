@@ -15,4 +15,5 @@
 ## III. Rechte und Pflichten der Angestellten
 ## A. Rechte
 ## B. Pflichten
-## IV. Schlussbestimmungen
+## IV. Administrativuntersuchung
+## V. Schlussbestimmungen

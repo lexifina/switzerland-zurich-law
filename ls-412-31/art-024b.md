@@ -4,4 +4,4 @@
 3 Einer Lehrperson mit ausserkantonalem oder ausländischem Lehrdiplom wird unter den Voraussetzungen von Abs. 1 und 2 die Zulassung zum Schuldienst im Kanton Zürich verweigert oder entzogen.
 4 Die Massnahmen gemäss Abs. 1–3 können befristet oder unbefristet angeordnet werden. Befristete Massnahmen können mit Auflagen wie Supervision, Therapie, Begutachtung oder Verhaltensanweisungen verbunden werden.
 5 Die Direktion meldet die Verweigerung oder den Entzug der Zulassung zum Schuldienst der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren und jener Instanz, die das Lehrdiplom ausstellte. Den Entzug des Lehrdiploms meldet sie der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren.
-6 Die Direktion regelt das Administrativverfahren.
+6 . . .

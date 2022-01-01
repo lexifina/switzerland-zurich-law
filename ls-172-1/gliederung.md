@@ -12,7 +12,8 @@
 ## A. Grundlagen
 ## B. Führungsinstrumente
 ## C. Organisation
-## D. Bezirksverwaltung
+## D. Administrativuntersuchung
+## E. Bezirksverwaltung
 ## Dritter Teil: Übergangs- und Schlussbestimmungen
 ## A. Übergangsbestimmungen
 ## B. Schlussbestimmungen
