@@ -1,0 +1,2 @@
+# Tagesstruktur
+3.1 Betreuung/Aufenthalt 7 pro Schülerin und Schüler in Kombination mit Pos. 3.2 3.2 Essraum 2,5 pro Schülerin und Schüler in Kombination mit Pos. 3.1 3.3 Garderobe, WC-Anlage und Zahnreinigung nach Bedarf 3.4 Ruheraum 3,5 pro Schülerin und Schüler 3.5 Betriebsküche 1,5 pro Schülerin und Schüler in Kombination mit Pos. 6.3 3.6 Nebenräume zu Küche 1,5 pro Schülerin und Schüler 3.7 Abstellraum 50 3.8 Technische Räume nach Bedarf 3.9 WC-Anlagen nach Bedarf 3.10 Putzraum 6 3.11 Anlieferung/Abstellplatz nach Bedarf

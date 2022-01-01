@@ -1,0 +1,2 @@
+# Unterricht
+1.1 Unterrichtsraum (alle Stufen) 50 1.2 Allgemeiner Werkraum 50 1.3 Werkraum für Holz-/Metallarbeiten 50 1.4 Materialraum pro Werkraum 15 1.5 Schulküche 50 1.6 Bibliothek 6 pro Klasse 1.7 Schulmaterialraum 5 pro Klasse 1.8 WC-Anlagen nach Bedarf, in Kombination mit Pos. 5.4 1.9 Abstellraum 8 1.10 Putzraum 6 1.11 Pausenfläche aussen 2 pro Schülerin und Schüler 1.12 Pausen- und Spielplatz 5 pro Schülerin und Schüler in Kombination mit Pos. 2.8 und 9.1 1.13 Schulgarten nach Bedarf

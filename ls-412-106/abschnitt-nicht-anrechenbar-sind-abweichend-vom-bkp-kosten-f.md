@@ -1,0 +1,2 @@
+# Nicht anrechenbar sind abweichend vom BKP Kosten für
+Sanierung Altlasten gemäss BKP 018 Vermittlungsprovisionen gemäss BKP 025 Abfindungen, Servitute und Beiträge gemäss BKP 03 Finanzierung vor Baubeginn gemäss BKP 04 Eigenkapitalzinsen gemäss BKP 545 Liegenschaftssteuer während der Bauzeit gemäss BKP 546 Betriebsplanung gemäss BKP 557 Reisespesen gemäss BKP 565 Grundsteinlegung, Aufrichte und Einweihung gemäss BKP 566 Baureklame gemäss BKP 568 Mehrwertsteuer gemäss BKP 57 Rückstellungen und Reserven gemäss BKP 58 Übergangskonten für Honorare gemäss BKP 59
