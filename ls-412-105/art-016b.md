@@ -4,4 +4,4 @@
 3 Der Kanton übernimmt zudem auf Gesuch der Gemeinde die Kosten für die Sonderschulung, wenn
 a. diese für die Gewährung eines ausreichenden Grundschulunterrichts notwendig sind und
 b. das Volksschulamt sie vorgängig bewilligt hat.
-4 Er übernimmt bei einer Spitalschulung die Versorgertaxe gemäss
+4 Er übernimmt bei einer Spitalschulung die Kosten.
