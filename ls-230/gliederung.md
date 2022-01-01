@@ -11,6 +11,9 @@
 ## F. Öffentliche Bekanntmachungen
 ## Zweiter Titel: Kantonales Zivilrecht
 ## Erster Abschnitt: Personenrecht
+## A. Elektronische Überwachung zum Schutz gewaltbetroffener
+## Personen
+## B. Weitere Bestimmungen zum Personenrecht
 ## Zweiter Abschnitt: Familienrecht
 ## A. Allgemeine Bestimmungen
 ## A. Eherecht
