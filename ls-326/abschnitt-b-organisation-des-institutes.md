@@ -9,7 +9,7 @@ d. einem von der Bildungsdirektion zu bezeichnenden Dozenten der Universität Z�
 2 Der Institutsleiter hat in der Kommission beratende Stimme und das Recht, Anträge zu stellen.
 3 Der Regierungsrat kann die Kommission durch den Beizug von Fachleuten und Vertretern interessierter Amtsstellen bis auf höchstens elf Mitglieder ergänzen.
 4 . . .
-6. Die Kommission erlässt über die Organisation und den Lehr- plan des Institutes ein Reglement, das der Genehmigung der Direktion der Justiz und des Innern bedarf.
+6. 1 Die Kommission erlässt über die Organisation und den Lehrplan des Institutes ein Reglement, das der Genehmigung der Direktion der Justiz und des Innern bedarf.
 2 Sie beschliesst insbesondere über die semesterweise durchzuführenden Kurse und die beizuziehenden Referenten.
 7. Die Kommission stellt der Direktion der Justiz und des Innern zuhanden des Regierungsrates Antrag:
 a. über die zu schaffenden Stellen des Institutsleiters und des nötigen Hilfspersonals,
