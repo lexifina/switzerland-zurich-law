@@ -1,0 +1,2 @@
+# Verordnung über die Spitalräte (SRV)
+(vom 26. Januar 2022) Der Regierungsrat, gestützt auf §§ 9 Ziff. 1 und 10 Abs. 2 des Gesetzes über das Universitätsspital Zürich vom 19. September 2005, §§ 8 Ziff. 1 und 9 Abs. 2 des Gesetzes über das Kantonsspital Winterthur vom 19. September 2005, § 8 lit. a des Gesetzes über die Psychiatrische Universitätsklinik vom 11. September 2017 und § 7 lit. a des Gesetzes über die Integrierte Psychiatrie Winterthur – Zürcher Unterland vom 29. Oktober 2018, beschliesst:
