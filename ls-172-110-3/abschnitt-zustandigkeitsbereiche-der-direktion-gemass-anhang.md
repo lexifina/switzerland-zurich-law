@@ -7,7 +7,7 @@
 6. Erbschaften und Zuwendungen Dritter Generalsekretariat
 7. Salzregal Generalsekretariat
 8. Aufsicht über den Gebührenbezug der Notariate Generalsekretariat
-9. Lotteriefonds Generalsekretariat
+9. Gemeinnütziger Fonds Generalsekretariat
 10. Zentrales Personalwesen Personalamt
 11. Personalvorsorge Personalamt
 12. Zentrale Beschaffung von Drucksachen und Material Kantonale Drucksachen- und Materialzentrale

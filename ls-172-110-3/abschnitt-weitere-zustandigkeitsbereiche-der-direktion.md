@@ -1,2 +1,2 @@
 # Weitere Zuständigkeitsbereiche der Direktion
-Sicherstellung von Staatsbeiträgen und Erlass von Darlehen Generalsekretariat Inseratewesen Kommunikations- beauftragte/r Rekurse und Aufsichtsbeschwerden Generalsekretariat (oder andere Verwaltungseinheit gemäss besonderer Regelung der Direktions- vorsteherin oder des Direktionsvorstehers)
+Rekurse und Aufsichtsbeschwerden Generalsekretariat (oder andere Verwaltungseinheit gemäss besonderer Regelung der Direktionsvorsteherin oder des Direktions- vorstehers) Übernahme von Aktiven aus eingestellten Konkursen Generalsekretariat Erlass von Darlehen und Löschung von Pfandrechten Generalsekretariat Kommunikation Generalsekretariat Compliance Compliance- beauftragte/r
