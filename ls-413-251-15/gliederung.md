@@ -4,4 +4,4 @@
 ## D. Promotionsentscheide
 ## E. Besondere Bestimmungen
 ## F. Rechtsmittel
-## G. Schlussbestimmungen
+## G. Übergangsbestimmung
