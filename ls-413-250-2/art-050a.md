@@ -1,0 +1,3 @@
+# § 50 a b. Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft
+1 Schülerinnen und Schüler werden prüfungsfrei in die BMS zum Erwerb der BM 2 mit Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, aufgenommen, wenn sie innerhalb der letzten zwei Kalenderjahre die berufliche Grundbildung Kauffrau/Kaufmann EFZ, E-Profil, mit einem Durchschnitt von mindestens 4,5 der Fachnoten Standardsprache, erste Fremdsprache, zweite Fremdsprache sowie Wirtschaft und Gesellschaft I und II abgeschlossen haben.
+2 Liegen im Zeitpunkt des Entscheides über die prüfungsfreie Zulassung die entsprechenden EFZ-Fachnoten noch nicht vor, wird auf die letzte Semesterzeugnisnote des jeweiligen Faches abgestellt. Das Fach Wirtschaft und Gesellschaft zählt doppelt.
