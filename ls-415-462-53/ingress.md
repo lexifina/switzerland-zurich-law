@@ -1,0 +1,2 @@
+# Rahmenverordnung über den Joint Degree Masterstudiengang in Interdisciplinary Brain Sciences an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich und am Departement Gesundheitswissenschaften und Technologie der Eidgenössischen Technischen Hochschule Zürich (RVO UZH / ETH Zürich Joint MSc in Interdisciplinary Brain Sciences)
+(vom 24. Januar 2022) Der Universitätsrat beschliesst:
