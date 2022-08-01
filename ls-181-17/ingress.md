@@ -1,2 +1,2 @@
-# Verordnung über die religionspädagogischen Angebote (rpg-Verordnung)
-(vom 30. Januar 2008) Der Kirchenrat, gestützt auf Art. 87, 89 und 92a Abs. 3 der Kirchenordnung vom 2. Juli 1967, beschliesst:
+# Verordnung über die religionspädagogischen Module (rpg-Verordnung)5
+(vom 30. Januar 2008) Der Kirchenrat, gestützt auf Art. 70–80 der Kirchenordnung vom 17. März 2009 (KO), beschliesst:

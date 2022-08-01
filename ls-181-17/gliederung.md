@@ -1,11 +1,11 @@
 ## I. Teil: Grundlagen
-## II. Teil: Angebote
+## II. Teil: Module
 ## 1. Abschnitt: Im Allgemeinen
-## 2. Abschnitt: Verbindliche Angebote
+## 2. Abschnitt: Verbindliche Module
 ## A. Im Allgemeinen
-## B. Angebote von der zweiten bis siebten Klasse
+## B. Module von der zweiten bis siebten Klasse
 ## C. Konfirmationsunterricht und Konfirmation
-## 3. Abschnitt: Freiwillige Angebote
+## 3. Abschnitt: Freiwillige Module
 ## III. Teil: Zuständigkeiten
 ## 1. Abschnitt: Die Kirchenpflege
 ## 2. Abschnitt: rpg-Kommission
