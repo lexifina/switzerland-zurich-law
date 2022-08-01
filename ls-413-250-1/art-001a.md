@@ -1,4 +1,4 @@
-# § 1a Vorzeitige Zulassung ab der 5. Kl. Ausnahmefälle
+# § 1 a Vorzeitige Zulassung ab der 5. Kl. Ausnahmefälle
 1 In Ausnahmefällen ist die vorzeitige Zulassung zur Aufnahmeprüfung ab der 5. Klasse der Primarschule möglich.
 Gesuch und Entscheid
 2 Die Schulleitung des zuständigen Gymnasiums entscheidet auf Gesuch der Eltern und stützt sich dabei auf die Berichte und Empfehlungen der vorgesehenen Stellen.

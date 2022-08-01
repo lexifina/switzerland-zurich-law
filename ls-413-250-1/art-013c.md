@@ -1,0 +1,4 @@
+# § 13 c Einsicht in die Prüfungen
+1 Die Schulleitung setzt mindestens einen Termin für die Einsicht in die Prüfungen fest. Sie teilt den Schülerinnen und Schülern diesen zusammen mit dem Entscheid über die Aufnahme mit.
+2 Von den Prüfungen dürfen Fotos erstellt werden. Für die Erstellung von Fotokopien wird eine Gebühr erhoben.
+3 Den Schülerinnen und Schülern steht während der Rekursfrist Einsicht in die Prüfungen zu.
