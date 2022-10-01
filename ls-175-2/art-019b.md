@@ -7,7 +7,7 @@ a. der Regierungsrat bei Anordnungen
 3. der Bezirksräte und Statthalter,
 b. die Direktion bei Anordnungen
 1. einer Verwaltungseinheit der Direktion,
-2. einer Gemeinde oder einer Kreiswahlvorsteherschaft in Stimmrechtssachen des Kantons,
+2. einer Gemeinde in Stimmrechtssachen des Kantons,
 c. der Bezirksrat bei Anordnungen
 1. einer politischen Gemeinde,
 2. einer Schulgemeinde,
