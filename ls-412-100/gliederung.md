@@ -9,6 +9,7 @@
 ## 2. Abschnitt: Schulbetrieb
 ## A. Inhalt
 ## B. Organisation
+## C. Tagesstrukturen
 ## D. Beurteilung und Promotion
 ## 3. Abschnitt: Sonderpädagogische Massnahmen
 ## 4. Abschnitt: Organisation und Organe
