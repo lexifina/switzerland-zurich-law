@@ -1,11 +1,10 @@
-# § 1 e b. Funktion und Aufgaben
-1 Das Koordinationsgremium ist das operative Leitungsorgan der UMZH. Es erarbeitet die Grundlagen für die Koordination der von den UMZH-Institutionen erbrachten Leistungen in Forschung und Lehre, Nachwuchsförderung und Gesundheitsversorgung.
-2 Das Koordinationsgremium
-1. erarbeitet die UMZH-Dachstrategie zuhanden des Beirates,
-2. konkretisiert die UMZH-Dachstrategie zuhanden der UMZH-Institutionen,
-3. erstellt Entscheidungsgrundlagen über finanzielle, infrastrukturelle und personelle Folgen der UMZH-Dachstrategie unter Einbezug der Lehrstuhlplanung zuhanden der Leitungsorgane der UMZH-Institutionen,
-4. koordiniert die Planung der medizinischen Infrastruktur und der Plattformen für klinische Forschung,
-5. erarbeitet Kriterien und Qualitätsstandards für die Anerkennung von Institutionen als Vertragsspitäler,
-6. unterstützt den Beirat bei der Weiterentwicklung der UMZH und ihrer Organisation,
-7. beantragt zuhanden des Beirates die Assoziierung weiterer Institutionen an das Netzwerk UMZH.
-3 Das Koordinationsgremium regelt seine Organisation und die Behandlung seiner Geschäfte.
+# § 1 e Koordinationsgremium a. Zusammen- setzung
+1 Das Koordinationsgremium setzt sich zusammen aus:
+1. folgenden Vertretungen der Universität:
+a. dem Direktorium gemäss § 1 f,
+b. einer weiteren Vertretung der Medizinischen Fakultät,
+c. einer Vertretung der Mathematisch-naturwissenschaftlichen Fakultät,
+2. je einer Vertretung der operativen Leitungsorgane der weiteren UMZH-Institutionen.
+2 Das Universitätsspital Zürich kann eine zusätzliche Vertretung bestimmen.
+3 Die UMZH-Institutionen bezeichnen als Mitglied des Koordinationsgremiums eine Person, die in ihrer Institution für Forschung und Lehre im Gesundheitsbereich verantwortlich ist.
+4 Die Direktorin oder der Direktor Universitäre Medizin hat den Vorsitz des Koordinationsgremiums. Dieses kann zur Behandlung einzelner Geschäfte Fachpersonen beiziehen und Arbeitsgruppen einsetzen.

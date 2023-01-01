@@ -1,9 +1,8 @@
 ## A. Allgemeines
 ## B. Organisation UMZH
-## C. Verträge über die Forschungs- und Lehrleistungen
-## I. Grundlagen
-## II. Abschluss
-## III. Inhalt
+## C. Zusammenwirken von Universität und Vertragsspitälern
+## I. Leistungsaufträge
+## II. Leistungsverträge und Entschädigung
 ## D. Personal
 ## E. Lehrstühle
 ## F. Organisationseinheiten

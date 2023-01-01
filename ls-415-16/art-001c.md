@@ -1,7 +1,3 @@
-# § 1 c b. Funktion und Aufgaben
-1 Der Beirat ist das oberste Organ der UMZH. Er fördert die Ausrichtung der UMZH-Institutionen auf eine gemeinsame Dachstrategie in Forschung und Lehre, Nachwuchsförderung und Gesundheitsversorgung.
-2 Der Beirat
-1. legt die UMZH-Dachstrategie fest und empfiehlt den UMZH-Institutionen die Ausrichtung ihrer Strategie darauf,
-2. entwickelt die UMZH und ihre Organisation weiter,
-3. entscheidet über die Assoziierung weiterer Institutionen an das Netzwerk UMZH.
-3 Der Beirat regelt seine Organisation und die Behandlung seiner Geschäfte.
+# § 1 c Beirat a. Zusammen- setzung
+1 Der Beirat setzt sich aus je einer Vertretung der strategischen Organe der Universität, der Vertragsspitäler und der ETH Zürich (UMZH-Institutionen) zusammen. Die Vertretung der Universität hat den Vorsitz.
+2 Die Direktorin oder der Direktor Universitäre Medizin sowie je eine Vertretung der Bildungsdirektion und der Gesundheitsdirektion nehmen an den Sitzungen des Beirates mit beratender Stimme teil.
