@@ -1,2 +1,2 @@
-# § 12 b Auslagenersatz
-Ausgewiesene Auslagen, namentlich für Büromaterialien, Porti und Telefonspesen, werden aufgrund jährlicher Abrechnungen vergütet.
+# § 12 b Sekretariatsentschädigung
+Die Mitglieder der landeskirchlichen Rekurskommission erhalten neben den Entschädigungen gemäss §§ 1 und 12 eine Entschädigung von Fr. 50 pro Stunde für umfangreichere Sekretariatsarbeiten.

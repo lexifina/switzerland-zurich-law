@@ -1,0 +1,3 @@
+# § 15 a c. Kürzung
+1 Erzielt das berechtigte Mitglied des Kirchenrates während der Dauer des Anspruchs auf eine Abgangsentschädigung aus einer beruflichen oder amtlichen Tätigkeit ein Einkommen, wird die Abgangsentschädigung gekürzt, wenn diese Tätigkeit und das bisherige Pensum als Mitglied des Kirchenrates zusammen ein volles Pensum übersteigen. Die Abgangsentschädigung wird um so viel gekürzt, wie ein volles Pensum überschritten wird.
+2 Mitglieder des Kirchenrates, die eine Abgangsentschädigung erhalten, sind verpflichtet, den Kirchenrat über das während der Dauer des Anspruchs auf eine Abgangsentschädigung aus beruflichen und amtlichen Tätigkeiten erzielte Einkommen zu informieren.

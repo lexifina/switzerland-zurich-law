@@ -1,2 +1,2 @@
-# Reglement über die Entschädigungen an Mitglieder und Beauftragte landeskirchlicher Behörden und Kommissionen (Entschädigungsreglement)
+# Verordnung über die Entschädigungen an Mitglieder landeskirchlicher Behörden, Organe und Kommissionen (Entschädigungsverordnung)8
 (vom 20. März 2007) Die Kirchensynode, gestützt auf Art. 214 lit. h der Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 17. März 2009 und § 65 Abs. 2 der Personalverordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 11. Mai 2010 (PVO), beschliesst:
