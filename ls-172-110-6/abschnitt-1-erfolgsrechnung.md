@@ -1,0 +1,2 @@
+# 1. Erfolgsrechnung
+250 000 100 000 1 Mio. 200 000 Im Rahmen der Direktionskompetenzen und der rechtskräftig genehmigten Budget- und Nachtragskredite: Tätigung von Ausgaben, Übernahme von Verpflichtungen, Vergabe von Arbeiten und Lieferungen Gebundene wiederkehrende Ausgaben unbegrenzt zulasten eines der im Anhang 1 FCV aufgeführten Konten Gebundene einmalige und wiederkeh- unbegrenzt unbegrenzt rende Ausgaben, sofern sie aufgrund einer der im Anhang 2 FCV aufgeführ- ten Bestimmungen bewilligt werden
