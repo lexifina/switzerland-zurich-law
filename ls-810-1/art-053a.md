@@ -1,0 +1,4 @@
+# § 53 a Arzneimittel, Medizinprodukte und weiteres Material
+1 Der Kanton stellt im Fall einer Epidemie oder eines anderen aussergewöhnlichen Ereignisses die Versorgung der Institutionen des Gesundheitswesens und der selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen mit Arzneimitteln, Medizinprodukten und weiterem für die Gesundheitsversorgung erforderlichem Material sicher.
+2 Er kann die Institutionen des Gesundheitswesens und die selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen verpflichten, auf eigene Kosten angemessene Vorsorgeleistungen im Sinne von Abs. 1 zu erbringen. Die Direktion überwacht die Einhaltung der Vorgaben. Die Verordnung regelt die Einzelheiten.
+3 Verpflichtet der Kanton Institutionen des Gesundheitswesens und selbstständig tätige Medizinalpersonen und Gesundheitsfachpersonen zu weitergehenden Vorsorgeleistungen, übernimmt er 100% der ungedeckten Kosten.
