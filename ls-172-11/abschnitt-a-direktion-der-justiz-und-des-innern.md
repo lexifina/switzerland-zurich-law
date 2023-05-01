@@ -17,7 +17,7 @@
 16. Kirchenwesen und Religionsfragen
 17. Datenschutz
 18. Staatsrechtliche Massnahmen im Bereich der nationalen und internationalen Aussenbeziehungen
-19. Verfassungsrecht, Gerichtsorganisation, Zivil- und Strafrecht, Zivil-, Straf- und Verwaltungsverfahrensrecht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen
+19. Verfassungsrecht, Gerichtsorganisation, Zivilrecht einschliesslich Kindes- und Erwachsenenschutzrecht, Strafrecht, Zivil-, Straf- und Verwaltungsverfahrensrecht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen
 20. Politische Rechte
 21. Enteignungsrecht
 22. Rechtsetzungstechnik
