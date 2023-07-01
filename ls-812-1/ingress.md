@@ -1,0 +1,2 @@
+# Heilmittelverordnung (HMV)
+(vom 25. Januar 2023) Der Regierungsrat, gestützt auf § 45 des Gesundheitsgesetzes vom 2. April 2007 (GesG), Art. 30 Abs. 3 und 34 Abs. 4 des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (HMG), Art. 29 d Abs. 1 und 2 des Bundesgesetzes vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe (BetmG), Art. 8 Abs. 5 der Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelbereich (AMBV) und Art. 52 Abs. 3 der Verordnung vom 21. September 2018 über die Arzneimittel (VAM), beschliesst:
