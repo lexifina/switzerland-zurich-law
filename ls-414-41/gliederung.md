@@ -1,6 +1,6 @@
 ## 1. Teil: Grundlagen
 ## 2. Teil: Ausbildung
-## A. Zulassung
+## A. Zulassung und Eignung
 ## B. Allgemeines
 ## C. Ausbildungsgänge
 ## 3. Teil: Weiterbildung
