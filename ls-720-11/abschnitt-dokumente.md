@@ -1,0 +1,27 @@
+# Dokumente:
+1. Erklärung bzw. Nachweis betreffend die Einhaltung:
+a. der Bestimmungen über den Arbeitsschutz und der Arbeitsbedingungen,
+b. der Lohngleichheit von Frau und Mann,
+c. des Umweltrechts,
+d. der Verhaltensregelung zur Vermeidung von Korruption,
+2. Nachweis der Bezahlung von Steuern und Sozialabgaben,
+3. Handelsregisterauszug,
+4. Betreibungsregisterauszug,
+5. GAV-Bescheinigungen gemäss Informationssystem Allianz Bau,
+6. Bilanzen oder Bilanzauszüge der Anbieterin oder des Anbieters für die letzten drei Geschäftsjahre vor der Ausschreibung,
+7. Erklärung zum Gesamtumsatz der Anbieterin oder des Anbieters in den der Ausschreibung vorangegangenen drei Jahren,
+8. letzter Prüfungsbericht der Revisionsstelle bei juristischen Personen,
+9. Bankgarantie,
+10. Bankerklärungen, die garantieren, dass der Anbieterin oder dem Anbieter im Falle der Auftragserteilung entsprechende Kredite gewährt werden,
+11. Bescheinigung zum Vorliegen eines anerkannten Qualitätsmanagementsystems,
+12. Liste der in den letzten fünf Jahren vor der Ausschreibung erbrach- ten wichtigsten Leistungen,
+13. Erklärung bzw. Nachweise betreffend:
+a. Wert der Leistung,
+b. Zeit und Ort der Leistungserbringung,
+c. Stellungnahme der damaligen Auftraggeberin oder des damaligen Auftraggebers, ob die Leistung den anerkannten Regeln der Technik entsprach und ob die Anbieterin oder der Anbieter die Leistung ordnungsgemäss erbracht hat,
+14. bei Planungswettbewerben objektspezifische Nachweise, insbesondere hinsichtlich Ausbildung, Leistungsfähigkeit und Praxis der Anbieterin oder des Anbieters,
+15. Erklärung zu Anzahl und Funktion der in den drei Jahren vor der Ausschreibung bei der Anbieterin oder dem Anbieter beschäftig- ten Personen,
+16. Erklärung zu einsetzbarer Personalkapazität und Ausstattung im Hinblick auf die Erbringung des zu vergebenden Auftrags,
+17. Studiennachweise und Bescheinigungen zur beruflichen Befähigung der Mitarbeitenden der Anbieterin oder des Anbieters, die für die Ausführung des zu vergebenden Auftrags vorgesehen sind,
+18. Strafregisterauszug der Mitarbeitenden, die für die Ausführung des zu vergebenden Auftrags vorgesehen sind,
+19. Angaben zur Anzahl der Mitarbeitenden und der Lernenden der beruflichen Grundbildung bei der Anbieterin oder dem Anbieter (bei Vergaben ausserhalb des Staatsvertragsbereichs gemäss § 5 BeiG IVöB).
