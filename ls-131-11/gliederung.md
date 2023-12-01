@@ -1,6 +1,6 @@
 ## 1. Teil: Allgemeine Bestimmungen und Organisation
 ## 1. Abschnitt: Allgemeine Bestimmungen
-## 2. Abschnitt: Organisation
+## 2. Abschnitt: Organisation und Zusammenarbeit
 ## 2. Teil: Finanzhaushalt
 ## 1. Abschnitt: Grundsätze
 ## 2. Abschnitt: Steuerung des Finanzhaushalts
