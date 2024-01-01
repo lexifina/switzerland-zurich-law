@@ -6,24 +6,25 @@
 5. Luftverkehr einschliesslich luftfahrtrechtliche Verfahren des Bundes, Sachplan Verkehr, Teil Infrastruktur Luftfahrt (SIL)
 6. Flughafen einschliesslich Beteiligung an der Flughafen Zürich AG und fluglärmbedingte Entschädigungsverfahren gegen den Kanton (formelle und materielle Enteignungen)
 7. Bewilligung von Anlagen gemäss Seilbahngesetz und kantonale Bewilligun- gen im Bereich der Personenbeförderung gemäss Personenbeförderungs- gesetz
-8. Pflege, Stärkung und Vermarktung des Wirtschaftsstandorts Kanton Zürich (Standortförderung)
-9. Administrative Entlastung der Unternehmen
-10. Arbeitsbewilligungen für Ausländerinnen und Ausländer
-11. Vollzug der flankierenden Massnahmen zum Personenfreizügigkeitsabkom- men, Sekretariat der tripartiten Kommission (TPK) und Sekretariat des Eini- gungsamtes
-12. Bekämpfung der Schwarzarbeit (Vollzug BGSA)
-13. Arbeitnehmerschutz (betriebliche Unfallverhütung und Gesundheitsschutz), Arbeitszeitbewilligungen (Vollzug ArG und UVG)
-14. Belange des Aussenlärms von Industrie und Gewerbe (Umweltschutzgesetz)
-15. Vollzug des Produktesicherheitsgesetzes und der Gefahrgutbeauftragten- verordnung
-16. Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
-17. Aufsicht über das Konsumkreditgewerbe sowie die private Arbeitsvermittlung und den Personalverleih
-18. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVG und AVIG)
-19. Interinstitutionelle Zusammenarbeit (iiz)
-20. Führung der Arbeitslosenkasse Kanton Zürich
-21. Weiterbildungs- und Beschäftigungsprogramme für Personen ohne AVIG-Anspruch (EG AVIG)
-22. Vollzug der Heimarbeitsgesetzgebung des Bundes
-23. Fachstelle für Selbstständigkeit
-24. Wohnbauförderung
-25. Wirtschaftliche Landesversorgung
-26. Gastgewerbe, Ruhetage und Ladenöffnung
-27. Aufsicht im Bereich des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland
-28. Verwaltung der Top Level Domain «.zuerich»
+8. Taxi- und Limousinenwesen
+9. Pflege, Stärkung und Vermarktung des Wirtschaftsstandorts Kanton Zürich (Standortförderung)
+10. Administrative Entlastung der Unternehmen
+11. Arbeitsbewilligungen für Ausländerinnen und Ausländer
+12. Vollzug der flankierenden Massnahmen zum Personenfreizügigkeitsabkom- men, Sekretariat der tripartiten Kommission (TPK) und Sekretariat des Eini- gungsamtes
+13. Bekämpfung der Schwarzarbeit (Vollzug BGSA)
+14. Arbeitnehmerschutz (betriebliche Unfallverhütung und Gesundheitsschutz), Arbeitszeitbewilligungen (Vollzug ArG und UVG)
+15. Belange des Aussenlärms von Industrie und Gewerbe (Umweltschutzgesetz)
+16. Vollzug des Produktesicherheitsgesetzes und der Gefahrgutbeauftragten- verordnung
+17. Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
+18. Aufsicht über das Konsumkreditgewerbe sowie die private Arbeitsvermittlung und den Personalverleih
+19. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVG und AVIG)
+20. Interinstitutionelle Zusammenarbeit (iiz)
+21. Führung der Arbeitslosenkasse Kanton Zürich
+22. Weiterbildungs- und Beschäftigungsprogramme für Personen ohne AVIG-Anspruch (EG AVIG)
+23. Vollzug der Heimarbeitsgesetzgebung des Bundes
+24. Fachstelle für Selbstständigkeit
+25. Wohnbauförderung
+26. Wirtschaftliche Landesversorgung
+27. Gastgewerbe, Ruhetage und Ladenöffnung
+28. Aufsicht im Bereich des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland
+29. Verwaltung der Top Level Domain «.zuerich»
