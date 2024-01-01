@@ -1,10 +1,10 @@
-# AWEL, ALN und AWA
+# AWEL, ALN und AWI
 2.1 Lösungsmittel (Anhang 2.3 ChemRRV):
 a. Kontrolle der Verwendung in Anlagen zur Oberflächenbehandlung (AWEL),
 b. Kontrolle der Einhaltung des Vermischungsverbotes mit chlorierten Mitteln (AWEL),
 c. Kontrolle der Rücknahmepflicht von halogenierten Lösungsmitteln (AWEL),
 d. Festlegung von Verwertungspflichten (AWEL),
-e. Kontrolle der Verwendung dichlormethanhaltiger Abbeizer (AWEL und AWA je im Rahmen ihrer anderweitigen Zuständigkeiten). 2.2 Biozidprodukte (Anhang 2.4 ChemRRV):
+e. Kontrolle der Verwendung dichlormethanhaltiger Abbeizer (AWEL und AWI je im Rahmen ihrer anderweitigen Zuständigkeiten). 2.2 Biozidprodukte (Anhang 2.4 ChemRRV):
 a. Kontrolle der Verwendung von Holzschutzmitteln und Lagerung von behandeltem Holz in Grundwasser-Schutzzonen (AWEL),
 b. Kontrolle der Rücknahme- und Rückgabeverpflichtungen, mit Ausnahme der Marktkontrolle (AWEL). 2.3 Pflanzenschutzmittel (Anhang 2.5 ChemRRV):
 a. Festlegung von Verwendungseinschränkungen in den Zuströmbereichen Zu und Zo (AWEL),
