@@ -1,6 +1,0 @@
-# § 22 b Umsetzung
-1 Der Regierungsrat kann die Umsetzung des Anspruchs auf ergänzende individuelle Transportdienstleistungen einer Organisation des Privatrechts übertragen (Dachorganisation).
-2 Die Dachorganisation prüft auf der Grundlage von § 22 a und des Ausführungsrechts des Regierungsrates, ob eine Person die Voraussetzungen für individuelle Transportansprüche erfüllt, und setzt den Umfang dieser Ansprüche fest.
-3 Die Erfüllung individueller Transportansprüche kann bei Anbietern von Behindertentransportdiensten eingefordert werden, die der Dachorganisation angeschlossen sind. Die Dachorganisation vergütet den Anbietern die beitragsberechtigten Kosten.
-4 Der Kanton leistet der Dachorganisation Kostenanteile bis zur vollen Höhe der beitragsberechtigten Kosten.
-5 Der Kanton kann weiteren Organisationen, die Transportdienstleistungen zugunsten von mobilitätsbehinderten Personen erbringen, Subventionen bis zur vollen Höhe der beitragsberechtigten Kosten gewähren.

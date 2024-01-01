@@ -1,2 +1,0 @@
-# § 22 a Grundsatz
-Personen in bescheidenen wirtschaftlichen Verhältnissen, die wegen ihrer Behinderung das Angebot des öffentlichen Verkehrs gemäss dem Gesetz über den öffentlichen Personenverkehr vom 6. März 1988 nicht oder nur eingeschränkt nutzen können (mobilitätsbehinderte Personen), haben Anspruch auf ergänzende individuelle Transportdienstleistungen.

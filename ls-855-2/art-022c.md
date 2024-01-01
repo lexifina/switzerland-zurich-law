@@ -1,7 +1,0 @@
-# § 22 c Ausführungsrecht und Vollzug
-Der Regierungsrat regelt
-a. die Voraussetzungen, unter denen eine Mobilitätsbehinderung im Sinne dieses Gesetzes vorliegt,
-b. die Einkommens- und Vermögensgrenzen, bis zu denen einer mobilitätsbehinderten Person Fahransprüche zustehen; für Personen im AHV-Alter berücksichtigt er dabei die Regelungen der Wohnbauförderung,
-c. den Teil der Kosten, den die mobilitätsbehinderten Personen selbst tragen müssen,
-d. die Rahmenbedingungen, unter denen sich Behindertentransportdienste bei der Dachorganisation anschliessen können,
-e. die Voraussetzungen für die Beitragsberechtigung der Kosten.
