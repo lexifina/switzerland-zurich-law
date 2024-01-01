@@ -10,14 +10,17 @@
 ## C. Durchführung
 ## D. Anträge
 ## E. Beratung und Abstimmung
-## 3. Abschnitt: Behörden
+## 3. Abschnitt: Kirchgemeindeparlament
+## 4. Abschnitt: Behörden
 ## A. Wählbarkeit und Amtsdauer
 ## B. Einberufung und Beschlussfassung
 ## C. Aufgabenübertragung, Kommissionen und Sachverständige
 ## D. Kirchenpflege
-## E. Rechnungsprüfungskommission
+## E. Rechnungsprüfungs- und Geschäftsprüfungskommission
 ## 3. Teil: Zusammenarbeit
 ## 4. Teil: Änderungen im Bestand und Gebiet der Kirchgemeinden
+## 1. Abschnitt: Änderungen im Bestand
+## 2. Abschnitt: Änderungen im Gebiet
 ## 5. Teil: Aufsicht und Rechtsschutz
 ## 1. Abschnitt: Aufsicht
 ## 2. Abschnitt: Rechtsschutz
