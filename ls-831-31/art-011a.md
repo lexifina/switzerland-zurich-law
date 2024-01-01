@@ -1,0 +1,3 @@
+# § 11 a b. Verhältnis zum Selbstbestimmungsgesetz
+1 Personen, die Leistungen nach dem Gesetz über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung vom 28. Februar 2022 (Selbstbestimmungsgesetz, SLBG) beziehen, haben keinen Anspruch auf Leistungen nach §§ 11 und 12–13 a. Ausgenommen sind Kosten für Aufenthalte in einem Tagesheim, Tagesspital oder Ambulatorium sowie für vorübergehende Heimaufenthalte.
+2 Für Leistungen zugunsten von Bezügerinnen und Bezügern von Leistungen der IV, die nicht durch eine Spitex-Organisation oder eine Einzelperson mit einer kantonalen Spitex-Bewilligung erbracht werden, werden höchstens die Normtarife gemäss § 34 SLBG, insgesamt nicht mehr als Fr. 4800 pro Kalenderjahr, vergütet.

@@ -1,0 +1,2 @@
+# Übergangsbestimmung zur Änderung vom 19. April 2023 (OS 78, 299)
+Personen, denen vor dem 1. Januar 2027 Leistungen gemäss §§ 12 und 13 zugesprochen wurden, können diese weiterhin beziehen, sofern die entsprechenden Voraussetzungen weiterhin erfüllt sind und ihnen keine Leistungen gemäss dem Selbstbestimmungsgesetz zugesprochen wurden. Die Leistungen können verlängert und einem veränderten Bedarf angepasst werden.
