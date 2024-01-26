@@ -2,17 +2,21 @@
 Amt für Mobilität (AFM)
 – Amtsleitung
 – Stab
-– Personal und Dienste
 – Kommunikation
-– Mobilitätsentwicklung- und -steuerung
+– Digitale Transformation und Administration
+– Mobilitätsentwicklung und -steuerung
 – Gesamtmobilität
 – Verkehrsplanung
-– Flughafen und Luftverkehr Amt für Wirtschaft und Arbeit (AWA)
+– Flughafen und Luftverkehr Amt für Wirtschaft (AWI)
 – Amtsleitung
 – Stab
-– Personal und Organisation
-– Kommunikation
 – Standortförderung
+– Arbeitsbewilligungen
 – Arbeitsbedingungen
-– Arbeitsmarkt
-– Arbeitslosenversicherung und Arbeitslosenkasse
+– Volkswirtschaft Amt für Arbeit (AFA)
+– Amtsleitung
+– Beratung und Vermittlung
+– Qualifizierung für Stellen- suchende (LAM)
+– Arbeitslosenversicherung
+– Arbeitslosenkasse
+– Kompetenzzentrum Arbeit

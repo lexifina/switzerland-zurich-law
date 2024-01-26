@@ -11,4 +11,5 @@
 ## 5. Teil: Schlussbestimmungen
 ## Anhang 1: Gliederung der Ämter
 ## Amt
-## Anhang 2: Unselbstständige Entscheidkompetenzen
+## Anhang 2: Entscheidkompetenzen im Namen der Direktion
+## Amt
