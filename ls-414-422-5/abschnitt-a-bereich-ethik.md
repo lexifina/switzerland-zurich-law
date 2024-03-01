@@ -1,0 +1,2 @@
+# A. Bereich Ethik
+Vorausgesetzte fachwissenschaftliche Kompetenzen im Bereich Ethik sind Grundkenntnisse in der Logik und Argumentationstheorie, der Praktischen Philosophie und der Geschichte der Philosophie im Umfang von mindestens 20 Kreditpunkten, die z.B. in den folgenden Modu- len des Philosophischen Seminars der UZH erworben werden können: – Einführung in die formale Logik 1 (6 Kreditpunkte) – Einführung in die praktische Philosophie (6 Kreditpunkte) – Einführung in die Geschichte der Philosophie (6 Kreditpunkte)

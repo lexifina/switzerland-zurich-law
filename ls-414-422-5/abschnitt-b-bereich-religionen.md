@@ -1,0 +1,2 @@
+# B. Bereich Religionen
+Vorausgesetzte fachwissenschaftliche Kompetenzen im Bereich Religionen sind Grundkenntnisse in der wissenschaftlichen Erforschung von Religion im Umfang von mindestens 20 Kreditpunkten, die z.B. in Modulen der Theologischen Fakultät der UZH zu den folgenden Themen erworben werden können: – Historische und vergleichende Religionswissenschaft (6 Kreditpunkte) – Sozialwissenschaftlich orientierte Religionswissenschaft (6 Kreditpunkte) – Systematisch-theoretische Religionswissenschaft (6 Kreditpunkte)
