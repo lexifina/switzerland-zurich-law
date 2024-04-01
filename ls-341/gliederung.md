@@ -1,5 +1,5 @@
-## A. Beratung der Opfer von Straftaten
-## B. Entschädigung und Genugtuung
+## A. Beratung und Hilfeleistung
+## B. Finanzielle Leistungen
 ## C. Rechtsmittel
 ## D. Änderung bisherigen Rechts
 ## E. Schlussbestimmungen
