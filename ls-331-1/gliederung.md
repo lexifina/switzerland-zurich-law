@@ -10,7 +10,8 @@
 ## 5. Abschnitt: Therapeutische Massnahmen
 ## A. Einleitung des Vollzugs
 ## B. Durchführung und Beendigung
-## 6. Abschnitt: Bewährungshilfe und Weisungen
+## 6. Abschnitt: Bewährungshilfe und Weisungen sowie Tätigkeits-,
+## Kontakt- und Rayonverbot
 ## 3. Teil: Vollzug von Freiheitsstrafen und stationären Massnahmen
 ## in den Betrieben des Amts
 ## 1. Abschnitt: Grundlagen

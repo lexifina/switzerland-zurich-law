@@ -1,7 +1,7 @@
 # § 9 a d. Forschung und Entwicklung
 1 Die Hauptabteilung Forschung und Entwicklung
-a. forscht zu den Themen, die für den Justizvollzug und die Wiedereingliederung von Bedeutung sind, insbesondere zu Anordnung und Vollzug von strafrechtlichen Sanktionen, zu strafprozessualen und polizeirechtlichen Interventionen, zu Rekrutierung, Ausbildung und Führung geeigneten Personals sowie zum Reputationsmanagement und zur Kommunikation,
+a. forscht zu den Themen, die für den Justizvollzug und die Wiedereingliederung von Bedeutung sind, insbesondere zu Anordnung und Vollzug von strafrechtlichen Sanktionen, zu strafprozessualen und polizeirechtlichen Interventionen sowie zu Rekrutierung, Ausbildung und Führung geeigneten Personals,
 b. entwickelt Instrumente, Konzepte und Prozesse zu den in lit. a genannten Themen,
 c. veröffentlicht die Ergebnisse dieser Forschung und Entwicklung in geeigneter Form,
 d. begleitet die anderen Hauptabteilungen bei der Umsetzung der Ergebnisse gemäss lit. a und b.
-2 Die Hauptabteilung Forschung und Entwicklung berät amtsinterne und aussenstehende Arbeitspartner und erbringt für diese Dienstleistungen. Sie betreibt das Reputationsmanagement und die Kommunikation des Amts.
+2 Sie berät amtsinterne und aussenstehende Arbeitspartner und erbringt für diese Dienstleistungen.

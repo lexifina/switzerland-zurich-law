@@ -1,3 +1,4 @@
 # § 136 c Unterbringung
-1 Den inhaftierten Personen wird in der Regel eine Doppelzelle zugewiesen.
-2 Frauen und Männer sowie Jugendliche und Erwachsene werden getrennt untergebracht.
+1 Die inhaftierten Personen werden in der Regel in Doppelzellen untergebracht.
+2 Sie können einzeln untergebracht werden, wenn sie sich oder Dritte gefährden oder die Sicherheit und Ordnung des Gefängnisses erheblich stören.
+3 Frauen und Männer sowie Jugendliche und Erwachsene werden getrennt untergebracht.
