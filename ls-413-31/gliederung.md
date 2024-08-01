@@ -14,7 +14,7 @@
 ## 5. Abschnitt: Berufs-, Studien- und Laufbahnberatung
 ## 6. Abschnitt: Leistungsvereinbarungen und Finanzierung
 ## A. Leistungsvereinbarungen
-## B. Kostenübernahme, Kostenanteile und Subventionen
+## B. Kostenanteile und Subventionen
 ## C. Gebühren, Schul- und Kursgelder
 ## D. Gebäude
 ## 7. Abschnitt: Rechtspflege
