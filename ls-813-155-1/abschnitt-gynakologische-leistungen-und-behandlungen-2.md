@@ -1,0 +1,2 @@
+# Gynäkologische Leistungen und Behandlungen
+1.2.1 Laparoskopische Sterilisation (Einzeleingriff) 1 900 1.2.2 Laparoskopische Sterilisation (Zusatzeingriff) 950 1.2.3 Sterilisation (bei gynäkologischen Laparoskopie-Eingriffen oder 200 bei Kaiserschnitt) 1.2.4 Abdominale Sterilisation post partum 800 1.2.5 Einlage Spirale während geplanten Eingriffs* 30 1.2.6 Einlage Implanon während geplanten Eingriffs* 50 1.2.7 * Verrechnung von Spirale oder Implanon zusätzlich Preis je nach Modell

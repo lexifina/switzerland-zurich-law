@@ -1,0 +1,21 @@
+# Gebühren für weitere Leistungen (§ 2 VVO TO USZ)
+Leistung Tarif Prothesen, soweit es sich nicht um Implantate handelt, Einstandspreis, zuzüglich, Materialien und andere Instrumente oder Gegen-Bewirtschaftungs- stände, die der Patientin oder dem Patienten mit- zuschlag von 10% gegeben werden Bei Spitalaustritt mitgegebene Arzneimittel sowie Publikumspreis, zuzüglich von der Patientin oder dem Patienten gewünschte 10% Arzneimittel, die nicht im Zusammenhang mit der Spitalbehandlung stehen Fremdtransport Rechnungsbetrag Repatriierung ins Ausland Rechnungsbetrag Transportbegleitung, soweit nicht bereits durch gemäss Stundenansätze die Grundtaxe bzw. die Entschädigung für die pro Berufsgruppe Basisleistung abgegolten Stunde und Person Unentschuldigte, versäumte, ambulante Termine Fr. 80, zuzüglich Kosten von Substanzen, die nicht mehr verwendet werden können Unentschuldigte, versäumte, ambulante Gruppen-Fr. 40 therapiesitzungen Abmeldung von einer geplanten ambulanten, tages-Fr. 200 stationären oder stationären Operation/Behandlung unter 24 Stunden Nichterscheinen zu einer geplanten ambulanten, Fr. 500 tagesstationären Operation/Behandlung Verzug Antritt / Nichterscheinen zur stationären Fr. 2 000 Behandlung Blutentnahme für Blutalkoholuntersuchung Fr. 60 Blutentnahme mit Blutalkoholuntersuchung Fr. 120 Zeugnisse zuhanden des Arbeitgebers Fr. 15 Leistung Tarif Zeugnisse und Gutachten, soweit nicht Leistungen für Zeugnisse, in der Pauschale enthalten Berichte und Gutachten werden nach der jeweils geltenden Tarifstruktur abgerechnet Für besonders aufwendige Gutachten können Tarif, zuzüglich Zuschlag Zuschläge nach Aufwand erhoben werden nach Aufwand Persönliche Sonderleistungen wie
+– Kosten für Telekommunikationsdienstleistungen, Grundtaxe pro Gespräch wie Telefon Fr. 0.60 plus Gebühren
+– Todesfallkosten Rechnungsbetrag
+– Abklärung und Begleitungen von Garantie-Fr. 100 pro Stunde/ verhältnissen, USZ-intern erbrachte Dolmetscher-Abklärung leistungen und Übersetzungen, Transportbegleitung, Begleitung von Patientinnen und Patienten an den Wohnort, zu Ämtern usw.)
+– USZ-extern erbrachte Dolmetscherleistungen Rechnungsbetrag und Übersetzungen
+– Instandstellung von Einrichtungen Rechnungsbetrag Geburtsvorbereitungskurse pro Kurs
+– Geburtsvorbereitung kurz und kompakt einzeln (1× 3 Std.) Fr. 210
+– Geburtsvorbereitung kurz und kompakt Paare (1× 3 Std.) Fr. 290
+– Geburtsvorbereitung Abendkurs einzeln (4× 100 Min.) Fr. 200
+– Geburtsvorbereitung Abendkurs Paare (4× 100 Min.) Fr. 400
+– Geburtsvorbereitung Wochenende in Englisch einzeln (1× 3½ Std.) Fr. 260
+– Geburtsvorbereitung Wochenende in Englisch Paare (1× 3½ Std.) Fr. 340
+– Geburtsvorbereitung bei geplantem Kaiserschnitt einzeln (1× 3 Std.) Fr. 210
+– Geburtsvorbereitung bei geplantem Kaiserschnitt Paare (1× 3 Std.) Fr. 290
+– Geburtsvorbereitung mit Väterrunde einzeln (4× 100 Min.) Fr. 200
+– Geburtsvorbereitung mit Väterrunde Paare (4× 100 Min.) Fr. 400 Leistung Tarif
+– Rückbildungsgymnastik (8× 60 Min.) Fr. 250
+– Yoga in der Schwangerschaft (8× 60 Min.) Fr. 250
+– Angebot für Eltern mit Sternenkindern einzeln (6× 90 Min.) Fr. 250
+– Angebot für Eltern mit Sternenkindern Paare (6× 90 Min.) Fr. 400 Kosmetische Behandlung Rechnungsbetrag Medizinisches Peeling Fr. 250 Sitzwache Fr. 70 pro Stunde Zusatzbett für Begleitperson Fr. 100 pro Nacht Hotellerie-Leistungen für Pflegepatientinnen und -patienten in Tagespauschalen (stationär) Fr. 500 pro Tag Von Patientin oder Patienten gewünschte Kopien Fr. 1 pro Kopie / der Patientendokumentation Fr. 50 pro Datenträger Betreuungs- und Dienstleistungsaufwendungen Fr. 200 pro Stunde International Office Betreuung Angehörige von Verstorbenen Fr. 100 (Administrativleistungen und Beratung) Beratungsleistung am Telefon Fr. 30 pro 15 Minuten Neue teure Medikamente, die in den Tarifstrukturen Rechnungsbetrag bisher nicht abgebildet sind Neue teure Materialien, die in den Tarifstrukturen Rechnungsbetrag bisher nicht abgebildet sind Alle weiteren Leistungen, für die keine Tarifpositionen Fr. 120 pro Stunde, in einem Tarifregelwerk vorhanden sind zuzüglich Sachkosten Mehraufwand und weitere Leistungen nach Wunsch / Betrag je nach Aufwand Private Aufwendungen oder durch besondere Wünsche bedingte Mehrleistungen
