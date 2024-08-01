@@ -1,6 +1,6 @@
 ## A. Allgemeines
 ## B. Leistungsvereinbarungen
-## C. Kostenübernahme, Kostenanteile und Subventionen
+## C. Kostenanteile und Subventionen
 ## D. Gemeindebeiträge
 ## E. Gebühren
 ## F. Schul- und Kursgelder
