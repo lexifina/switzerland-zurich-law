@@ -1,0 +1,3 @@
+# § 5 b Modul «Wissenschaftliches Arbeiten»
+1 Das Modul «Wissenschaftliches Arbeiten im geistes- und sozialwissenschaftlichen Bereich» vermittelt Personen mit einem Bachelorabschluss einer anerkannten Fachhochschule die Fähigkeit zur Hermeneutik im Umgang mit Texten und zum Arbeiten mit historischen und anderen Quellen.
+2 Wer das Modul «Wissenschaftliches Arbeiten im geistes- und sozialwissenschaftlichen Bereich» zu besuchen hat, bestimmt die betreffende Lehrveranstaltung zusammen mit der Studienfachberatung der Theologischen Fakultät jener Universität, an der das Masterstudium gemäss Abs. 3 Abs. 1 lit. b absolviert wird.
