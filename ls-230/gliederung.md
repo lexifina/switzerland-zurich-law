@@ -30,7 +30,7 @@
 ## A. Allgemeine Bestimmungen
 ## B. Öffentliche Sachen
 ## C. Inhalt und Beschränkungen des Grundeigentums
-## II. Pflanzen von Bäumen
+## II. Pflanzen von Sträuchern und Bäumen
 ## III. Tretrecht
 ## IV. Reckweg
 ## V. Einfriedigung
