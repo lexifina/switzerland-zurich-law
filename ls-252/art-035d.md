@@ -1,4 +1,11 @@
 # § 35 d II. Erweiterter Zugang
-1 Das Notariatsinspektorat entscheidet über die Berechtigung zum erweiterten Zugang im Sinne der GBV.
-2 Es schliesst mit Behörden und Privaten, die erstmalig einen Antrag zur Erteilung eines Zugriffsrechtes stellen, eine Vereinbarung ab. Es kann die Befugnis zum Abschluss der Vereinbarungen an die Trägerorganisation delegieren.
-3 Die Vereinbarung nennt die Rechtsgrundlagen und regelt in Ergänzung zu den Vorgaben gemäss GBV die organisatorischen Pflichten der zugriffsberechtigten Person und die Folgen der Verletzung sowie die Frage der Gewährleistung.
+29 1 Der erweiterte elektronische Zugang im Sinne der GBV kann über eine kantonale Plattform oder unter Beizug eines privaten Aufgabenträgers gewährt werden.
+2 Erweiterten elektronischen Zugang können beantragen:
+a. Behörden des Bundes, der Kantone und der Gemeinden zu den Daten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen,
+b. Urkundspersonen und ihre Hilfspersonen,
+c. Nachführungsgeometerinnen und Nachführungsgeometer und ihre Hilfspersonen,
+d. Banken, Vorsorgeeinrichtungen, Versicherungen und die weiteren Institutionen im Sinne von Art. 28 Abs. 1 Bst. b und b GBV,
+e. Grundstückeigentümerinnen und Grundstückeigentümer sowie weitere Personen im Sinne von Art. 28 Abs. 1 Bst. d GBV,
+f. Immobilienverwalterinnen und Immobilienverwalter im Sinne von Art. 28 Abs. 1 Bst. e GBV.
+3 Für die Einräumung, den definitiven Entzug und die Regelung der Zugangsmodalitäten ist das Notariatsinspektorat zuständig. Es kann diese Befugnisse an eine andere Verwaltungsbehörde oder einen privaten Aufgabenträger delegieren.
+4 Zu den Belegen wird kein elektronischer Zugang gewährt.
