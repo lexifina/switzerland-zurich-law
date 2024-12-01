@@ -3,9 +3,10 @@
 ## III. Die Nutzungsziffern (§§ 254 ff. PBG)
 ## 1. Die Ausnützungsziffer (§ 255 Abs. 4 PBG)
 ## 2. Die Überbauungsziffer (§ 256 PBG)
-## 3. Die Baumassenziffer (§ 258 PBG)
+## 3. Die Grünflächenziffer (§ 257 PBG)
+## 4. Die Baumassenziffer (§ 258 PBG)
 ## IV. Besondere Nutzungsanordnungen (§ 49 a Abs. 3 PBG)
-## V.Begriff und Messweise des kommunalen Grenzabstandes
+## V. Begriff und Messweise des kommunalen Grenzabstandes
 ## (§ 260 PBG)
 ## VI. Die Fassadenlänge (§ 292 PBG und §§ 6 c und 6 d)
 ## VII. Die Gebäudelänge und Gebäudebreite (§ 49 PBG)
