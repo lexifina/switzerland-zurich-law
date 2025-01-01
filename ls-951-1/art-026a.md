@@ -1,2 +1,2 @@
 # § 26 a Verwendung der Dividende
-Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Vom verbleibenden Betrag steht ein Drittel den politischen Gemeinden im Verhältnis zur Einwohnerzahl zu.
+Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Der verbleibende Betrag wird unter Anrechnung des Rohertrags der Ergänzungssteuer zur Umsetzung der Mindestbesteuerung grosser Unternehmensgruppen so aufgeteilt, dass dem Kanton zwei Drittel und den Gemeinden der restliche Betrag zusteht. Die Zuteilung an die politischen Gemeinden erfolgt im Verhältnis zur Einwohnerzahl.
