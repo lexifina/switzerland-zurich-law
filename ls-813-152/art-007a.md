@@ -3,4 +3,4 @@
 a. in der Führungsarbeit,
 b. in der Zusammenarbeit im Team oder mit anderen Angestellten des Universitätsspitals,
 c. in der Qualität, Dokumentation oder Abrechnung der Behandlung von Patientinnen und Patienten.
-2 Bei erheblichen Mängeln wird in der Regel keine Bewährungsfrist gewährt.
+2 Bei erheblichen Mängeln wird in der Regel keine Frist zur Verbesserung gewährt.
