@@ -1,3 +1,5 @@
-# § 11 a b. Verhältnis zum Selbstbestimmungsgesetz
-1 Personen, die Leistungen nach dem Gesetz über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung vom 28. Februar 2022 (Selbstbestimmungsgesetz, SLBG) beziehen, haben keinen Anspruch auf Leistungen nach §§ 11 und 12–13 a. Ausgenommen sind Kosten für Aufenthalte in einem Tagesheim, Tagesspital oder Ambulatorium sowie für vorübergehende Heimaufenthalte.
-2 Für Leistungen zugunsten von Bezügerinnen und Bezügern von Leistungen der IV, die nicht durch eine Spitex-Organisation oder eine Einzelperson mit einer kantonalen Spitex-Bewilligung erbracht werden, werden höchstens die Normtarife gemäss § 34 SLBG, insgesamt nicht mehr als Fr. 4800 pro Kalenderjahr, vergütet.
+# § 11 a b. Bedarfsbescheinigung
+1 Die Bescheinigung des Bedarfs an pflegerischen und nichtpflegerischen Leistungen bestimmt sich nach §§ 4 Abs. 1 lit. a bzw. 7 Abs. 2 der Verordnung über die Pflegeversorgung vom 22. November 2010.
+2 Hilfe und Betreuung nach §§ 11 d Abs. 4 und 11 e sowie Mehrkosten für Mittagstische und Mahlzeitendienste nach § 11 f setzen eine individuelle Bedarfsbescheinigung durch eine von der Gemeinde bezeichnete Stelle voraus.
+3 Die Bedarfsbescheinigung nach Abs. 2 umfasst Art und Umfang der Leistungen. Der bescheinigte Bedarf bemisst sich nach deren Wirtschaftlichkeit und Zweckmässigkeit.
+4 Die Durchführungsorgane nach § 3 Abs. 1 ZLG können die Bescheinigung im Einzelfall durch weitere Fachstellen überprüfen lassen, insbesondere bei Bezug verschiedener Leistungen von mehreren Leistungserbringenden.

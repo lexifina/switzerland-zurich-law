@@ -1,0 +1,3 @@
+# § 11 b c. Verhältnis zum Selbstbestimmungsgesetz
+1 Für Personen, die Leistungen nach dem Gesetz über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung vom 28. Februar 2022 (Selbstbestimmungsgesetz, SLBG) beziehen, beschränkt sich der Anspruch auf Vergütung von Kosten für Hilfe, Pflege und Betreuung auf §§ 11 c, 11 d Abs. 1–3, 11 g und 13 a.
+2 Für Leistungen zugunsten von Bezügerinnen und Bezügern von Leistungen der IV, die nicht durch eine Spitex-Organisation oder eine Einzelperson mit einer kantonalen Spitex-Bewilligung erbracht werden, werden höchstens die Normtarife gemäss § 34 SLBG, insgesamt nicht mehr als Fr. 4800 pro Kalenderjahr, vergütet.
