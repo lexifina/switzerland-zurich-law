@@ -6,7 +6,7 @@
 5. Versicherungswesen und Staatshaftung Generalsekretariat
 6. Erbschaften und Zuwendungen Dritter Generalsekretariat
 7. Salzregal Generalsekretariat
-8. Aufsicht über den Gebührenbezug der Notariate Generalsekretariat
+8. Notariatswesen Generalsekretariat
 9. Gemeinnütziger Fonds Generalsekretariat
 10. Zentrales Personalwesen Personalamt
 11. Personalvorsorge Personalamt
