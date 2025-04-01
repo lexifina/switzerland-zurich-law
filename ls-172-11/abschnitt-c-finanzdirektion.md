@@ -6,7 +6,7 @@
 5. Versicherungswesen und Staatshaftung
 6. Erbschaften und Zuwendungen Dritter
 7. Salzregal
-8. Aufsicht über den Gebührenbezug der Notariate
+8. Notariatswesen
 9. Gemeinnütziger Fonds
 10. Zentrales Personalwesen
 11. Personalvorsorge
