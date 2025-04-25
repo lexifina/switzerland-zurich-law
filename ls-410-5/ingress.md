@@ -1,0 +1,2 @@
+# Reglement der EDK über die Anerkennung von gymnasialen Maturitätszeugnissen (Maturitätsanerkennungsreglement, MAR)
+vom 22. Juni 2023 (Stand am 1. August 2024) Die Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK), gestützt auf Artikel 3, 4 und 5 des Konkordats vom 29. Oktober 1970 über die Schulkoordination, gestützt auf Artikel 3, 4 und 6 der Interkantonalen Vereinbarung vom 18.Februar 1993 über die Anerkennung von Ausbildungsabschlüssen, beschliesst:
