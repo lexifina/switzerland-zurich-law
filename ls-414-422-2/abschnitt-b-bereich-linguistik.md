@@ -1,0 +1,2 @@
+# B. Bereich Linguistik
+Vorausgesetzte fachwissenschaftliche Kompetenzen im Bereich Linguistik sind Grundkenntnisse in der germanistischen Linguistik im Umfang von mindestens 21 Kreditpunkten, die z.B. in den folgenden Modulen aus dem Bachelorstudienprogramm Deutsche Sprach- und Literaturwissenschaft des Deutschen Seminars der UZH erworben werden können: – Empirische Sprachanalysen – Gegenwartssprache (6 Kreditpunkte) – Empirische Sprachanalysen – historisch (6 Kreditpunkte) – Sprachliche Strukturen und Funktionen (9 Kreditpunkte)
