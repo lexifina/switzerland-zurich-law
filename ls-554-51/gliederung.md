@@ -1,15 +1,10 @@
 ## A. Allgemeine Bestimmungen
 ## B. Rassetypen
-## C. Praktische Hundeausbildung
-## D. Hundeausbilderinnen und Hundeausbilder
-## E. Gebühren und Abgaben
-## F. Einsichtsrecht
-## G. Strafbestimmungen
+## C. Ausbildungsverpflichtung
+## D. Ausbildung
+## E. Ausbildnerinnen und Ausbildner
+## F. Gebühren und Abgaben
+## G. Weitere Bestimmungen
 ## H. Übergangsbestimmungen
 ## I. Inkrafttreten
-## Typ
-## Rasse
-## Typ
-## Typ
-## Rasse
-## Typ
+## Anhang
