@@ -9,4 +9,4 @@
 ## 4. Abschnitt: Fakultätsverwaltung
 ## 5. Abschnitt: Verfahrensvorschriften
 ## 6. Abschnitt: Kommunikation, Geheimhaltung und Information
-## 7. Abschnitt: Schlussbestimmungen
+## 7. Abschnitt: Schluss- und Übergangsbestimmungen
