@@ -6,5 +6,7 @@
 ## 3. Abschnitt: Ausgaben
 ## 4. Abschnitt: Informationspflicht und Unterschriftenregelung
 ## 5. Abschnitt: Kommunikation
-## Anhang
+## Anhang 1
 ## Ausgabenkompetenzen (§ 19)
+## Anhang 2
+## Unterschriftenregelung (§ 22 Abs. 3)

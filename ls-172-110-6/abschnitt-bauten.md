@@ -1,0 +1,2 @@
+# Bauten
+bis Fr. 10 000 mündlicher Vertrag Projektleitung bis Fr. 25 000 schriftlicher Vertrag Einzelunterschrift: Projektleitung bis Fr. 50 000 schriftlicher Vertrag Doppelunterschrift: Projektleitung und Teamleitung bzw. zweite Projektleitung bis Fr. 100 000 schriftlicher Vertrag Doppelunterschrift: Projektleitung und Leitung der Organisationseinheit Bauten bis Fr. 300 000 schriftlicher Vertrag Doppelunterschrift: Projektleitung und Generalsekretärin oder Generalsekretär
