@@ -10,6 +10,7 @@ g. Staatsarchiv 1.2 Weitere Verwaltungseinheiten
 a. Fachstelle Gleichstellung
 b. Fachstelle Integration
 c. Fachstelle Kultur
-d. Kantonale Opferhilfestelle 1.3 Administrativ angegliederte Einheiten
+d. Fachstelle Religion
+e. Kantonale Opferhilfestelle 1.3 Administrativ angegliederte Einheiten
 a. Bezirksratskanzleien
 b. Statthalterämter
