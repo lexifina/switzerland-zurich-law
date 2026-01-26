@@ -11,3 +11,5 @@
 ## 4. Abschnitt: Privatärztliche Tätigkeit am ZZM
 ## 5. Abschnitt: Aufklärung und Information
 ## 6. Abschnitt: Patientendokumentation
+## 7. Abschnitt: Übergangsbestimmungen zur Änderung
+## vom 11. Dezember 2025
