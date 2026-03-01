@@ -1,3 +1,6 @@
-# § 21 a Offenlegung Interessenbindungen
-1 Die Interessenbindungen der Mitglieder der Spitaldirektion sowie der Führungspersonen, die den Mitgliedern der Spitaldirek- tion direkt unterstellt sind, werden in einem öffentlich zugänglichen Register geführt. Die Unterstellungsverhältnisse ergeben sich aus dem jeweils per 1. März gültigen Organigramm.
-2 Des Weiteren werden die Interessenbindungen der Klinik- und Institutsdirektoren, der Chefärztinnen und Chefärzte sowie der Leitenden Ärztinnen und Ärzte in einem öffentlich zugänglichen Register aufgeführt.
+# § 21 a b. offenlegungspflichtige Tätigkeiten, Mitglied- schaften und Beteiligungen
+1 Die offenlegungspflichtigen Mitarbeitenden geben dem USZ Tätigkeiten für Dritte, Mitgliedschaften und Beteiligungen an Unternehmen bekannt, die bei ihnen zu einem Konflikt mit den Interessen des USZ führen können (§ 15 a Abs. 1 USZG).
+2 Sie legen insbesondere Tätigkeiten für und Beteiligungen an Unternehmen offen, die
+a. Leistungen für das USZ erbringen oder erbringen könnten oder solche vom USZ beziehen oder beziehen könnten,
+b. in Konkurrenz zum USZ stehen oder
+c. dem USZ Patientinnen und Patienten zuweisen oder zuweisen könnten oder solche vom USZ übernehmen oder übernehmen könnten.
