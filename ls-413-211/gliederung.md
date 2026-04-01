@@ -3,8 +3,9 @@
 ## 3. Konvente der Lehrerschaft
 ## a. Gesamtkonvent
 ## b. Klassenkonvent
-## 4. Eltern
-## 5. Schulbetrieb
-## 6. Absenzen, Dispensationen und Jokertage
-## 7. Finanzen
-## 8. Übergangs- und Schlussbestimmungen
+## 4. Schulsozialarbeitende
+## 5. Eltern
+## 6. Schulbetrieb
+## 7. Absenzen, Dispensationen und Jokertage
+## 8. Finanzen
+## 9. Übergangs- und Schlussbestimmungen
