@@ -8,9 +8,10 @@
 ## A. Schulkommissionen der kantonalen Schulen
 ## B. Schulleitung der kantonalen Berufsfachschulen
 ## C. Lernende
-## D. Schulbetrieb
-## E. Fördermassnahmen
-## F. Organisation der nicht kantonalen Berufsfachschulen
+## D. Schulsozialarbeitende
+## E. Schulbetrieb
+## F. Fördermassnahmen
+## G. Organisation der nicht kantonalen Berufsfachschulen
 ## 6. Abschnitt: Weitere Formen der beruflichen Grundbildung
 ## und Berufsmaturitätsunterricht
 ## A. Lehrwerkstätten, Vollzeitschulen und Berufsmaturitätsschulen
