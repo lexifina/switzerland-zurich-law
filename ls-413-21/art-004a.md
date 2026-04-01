@@ -3,4 +3,5 @@
 2 Daten gemäss Abs. 1 sind insbesondere Informationen über
 a. Leistungsbeurteilungen,
 b. Gesundheit,
-c. Disziplinarmassnahmen.
+c. persönliche und soziale Verhältnisse und Lebensumstände,
+d. Disziplinarmassnahmen.

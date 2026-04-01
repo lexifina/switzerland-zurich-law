@@ -5,11 +5,12 @@
 ## 2. Schulleitung
 ## 3. Konvente der Lehrerschaft
 ## B. Lehrpersonen
-## C. Schülerinnen und Schüler
-## D. Eltern
-## E. Schulbetrieb
-## F. Ausgleich behinderungsbedingter Erschwernisse
-## G. Finanzen
+## C. Schulsozialarbeitende
+## D. Schülerinnen und Schüler
+## E. Eltern
+## F. Schulbetrieb
+## G. Ausgleich behinderungsbedingter Erschwernisse
+## H. Finanzen
 ## 3. Teil: Nichtstaatliche Mittelschulen
 ## 4. Teil: Rechtspflege
 ## 5. Teil: Schluss- und Übergangsbestimmungen
