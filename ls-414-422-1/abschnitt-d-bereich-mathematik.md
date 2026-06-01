@@ -1,0 +1,2 @@
+# D. Bereich Mathematik
+Vorausgesetzte fachwissenschaftliche Kompetenzen im Bereich Mathematik sind Grundkenntnisse in Mathematik im Umfang von mindestens 12 Kreditpunkten, die z. B. in den folgenden Modulen aus dem Zulassungsprogramm «Mathematik für Fachdidaktiker:innen» der PHZH erworben werden können: – Grundlagen der Mathematik (5 Kreditpunkte) – Analysis (5 Kreditpunkte) – Arithmetik (5 Kreditpunkte)

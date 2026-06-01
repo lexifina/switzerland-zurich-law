@@ -1,0 +1,2 @@
+# Reglement zum Joint Degree Masterstudiengang Fachdidaktik Naturwissenschaften an der Pädagogischen Hochschule Zürich, an der Philosophischen Fakultät der Universität Zürich und am Departement Geistes-, Sozial- und Staatswissenschaften der Eidgenössischen Technischen Hochschule Zürich
+(vom 30. September 2025) Der Fachhochschulrat gestützt auf § 10 Abs. 4 lit. c des Fachhochschulgesetzes vom 2. April 2007, beschliesst:
