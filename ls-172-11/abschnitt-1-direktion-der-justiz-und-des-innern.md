@@ -5,7 +5,7 @@ b. Oberstaatsanwaltschaft und Staatsanwaltschaften (Staatsanwaltschaft)
 c. Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafrechtspflege)
 d. Gemeindeamt
 e. Handelsregisteramt
-f. Statistisches Amt
+f. Amt für Statistik und Daten
 g. Staatsarchiv 1.2 Weitere Verwaltungseinheiten
 a. Fachstelle Gleichstellung
 b. Fachstelle Integration
