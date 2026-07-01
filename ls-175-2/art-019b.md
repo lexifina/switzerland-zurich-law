@@ -15,7 +15,7 @@ c. der Bezirksrat bei Anordnungen
 4. eines Zweckverbandes,
 5. eines Privaten, der öffentliche Aufgaben wahrnimmt,
 d. das Statthalteramt bei Anordnungen der politischen Gemeinden im Bereich der Ortspolizei und des Feuerwehrwesens,
-e. der Kantonsrat hinsichtlich des Ergebnisses einer Kantonsratswahl; er entscheidet auf Antrag des Regierungsrates,
+e. . . .
 f. die Geschäftsleitung des Kantonsrates bei Anordnungen seiner Kommissionen,
 g. die Verwaltungsdelegation der Geschäftsleitung des Kantonsrates bei Anordnungen in personalrechtlichen und administrativen Belangen
 1. des Beauftragten für den Datenschutz,
