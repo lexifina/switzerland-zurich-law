@@ -55,7 +55,7 @@
 ## II. Die Nutzungsziffern
 ## III. Die Abstände
 ## 1. Gemeinsame Bestimmung
-## 2. Abstände von Territorialgrenzen, Wald, Gewässern und von durch
+## 2. Abstände von Territorialgrenzen, Wald und von durch
 ## Baulinien gesicherten Anlagen
 ## 3. Grenzabstände von Nachbargrundstücken
 ## 4. Gebäudeabstände
