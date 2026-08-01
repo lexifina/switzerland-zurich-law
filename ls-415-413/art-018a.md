@@ -1,0 +1,9 @@
+# § 18 a Kumulative Dissertation
+1 Die kumulative Dissertation muss ein übergeordnetes Forschungsthema aufweisen und einen inneren Zusammenhang zwischen den Aufsätzen herstellen.
+2 Sie besteht aus mindestens vier Aufsätzen, die in renommierten nationalen oder internationalen Fachzeitschriften oder vergleichbaren Publikationsorganen veröffentlicht oder zumindest zur Veröffentlichung angenommen sein müssen.
+3 Abschliessend hat ein separates Dokument insbesondere die Erkenntnisse der einzelnen Aufsätze in das übergeordnete Forschungsthema einzuordnen, den inneren Zusammenhang zwischen den Aufsätzen herzustellen, ihre theoretische und praktische Relevanz herauszuarbeiten und ihre Verortung innerhalb des Fachs deutlich werden zu lassen.
+4 Die Mehrheit der Aufsätze muss während des Doktoratsstudiums verfasst werden und den Hauptteil der Dissertation ausmachen.
+5 Mindestens zwei Aufsätze müssen in Alleinautorschaft verfasst werden und den Hauptteil der Dissertation ausmachen. Bei den übrigen Aufsätzen ist Co-Autorschaft gestattet, wobei der Anteil der oder des Doktorierenden massgeblich sein muss.
+6 Wenn mindestens ein vorgesehenes Publikationsorgan Alleinautorschaft nicht vorsieht, müssen insgesamt mindestens drei Aufsätze jeweils in Alleinautorschaft beziehungsweise Hauptautorschaft verfasst werden. Im Übrigen ist Co-Autorschaft gestattet, wobei der Anteil der oder des Doktorierenden massgeblich sein muss. Sofern zwei Aufsätze in Alleinautorschaft verfasst werden, gilt Abs. 5.
+7 Hauptautorschaft und Co-Autorschaften sowie die erbrachte Eigenleistung müssen erkenn- und nachweisbar sein. Falls diese nicht direkt aus den einzelnen Aufsätzen hervorgehen, muss der Nachweis im Dokument gemäss Abs. 3 erfolgen.
+8 Die Doktoratsordnung regelt die Einzelheiten. Sie kann weitere Vorgaben, insbesondere zu Mindestumfang der einzelnen Teile der Dissertation, zusätzlichen Validierungsmethoden der Aufsätze sowie zeitliche Beschränkungen enthalten.
