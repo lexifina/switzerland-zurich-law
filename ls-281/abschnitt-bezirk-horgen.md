@@ -1,2 +1,2 @@
 # Bezirk Horgen
-– Adliswil, Langnau a. A. – Horgen, Oberrieden – Richterswil, Wädenswil – Kilchberg, Rüschlikon, Thalwil
+– Horgen, Oberrieden – Richterswil, Wädenswil – Adliswil, Kilchberg, Langnau a. A., Rüschlikon, Thalwil
