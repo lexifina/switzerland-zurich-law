@@ -1,0 +1,11 @@
+{
+  "path": "ch-zh",
+  "code": "CH-ZH",
+  "name": "Zurich",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-zurich-law",
+  "build": "built: constitution and cantonal laws (589 acts, 1743 versions) from ZH-Lex (LS)",
+  "language": "de",
+  "sources": 1
+}
